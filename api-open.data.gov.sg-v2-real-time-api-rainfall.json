@@ -228,15 +228,6 @@
         }
       },
       {
-        "id": "S50",
-        "deviceId": "S50",
-        "name": "Clementi Road",
-        "location": {
-          "latitude": 1.3337,
-          "longitude": 103.7768
-        }
-      },
-      {
         "id": "S94",
         "deviceId": "S94",
         "name": "Pasir Ris Street 51",
@@ -545,11 +536,11 @@
     ],
     "readings": [
       {
-        "timestamp": "2025-03-05T16:45:00+08:00",
+        "timestamp": "2025-03-05T17:40:00+08:00",
         "data": [
           {
             "stationId": "S218",
-            "value": 0
+            "value": 5.508
           },
           {
             "stationId": "S219",
@@ -581,7 +572,7 @@
           },
           {
             "stationId": "S40",
-            "value": 5.4
+            "value": 0
           },
           {
             "stationId": "S84",
@@ -589,7 +580,7 @@
           },
           {
             "stationId": "S44",
-            "value": 0.6
+            "value": 0
           },
           {
             "stationId": "S88",
@@ -613,7 +604,7 @@
           },
           {
             "stationId": "S08",
-            "value": 0.2
+            "value": 0
           },
           {
             "stationId": "S220",
@@ -633,7 +624,7 @@
           },
           {
             "stationId": "S201",
-            "value": 0
+            "value": 0.2
           },
           {
             "stationId": "S90",
@@ -648,16 +639,12 @@
             "value": 0
           },
           {
-            "stationId": "S50",
-            "value": 0
-          },
-          {
             "stationId": "S94",
             "value": 0
           },
           {
             "stationId": "S210",
-            "value": 0.402
+            "value": 0
           },
           {
             "stationId": "S211",
@@ -669,11 +656,11 @@
           },
           {
             "stationId": "S117",
-            "value": 0.2
+            "value": 0
           },
           {
             "stationId": "S115",
-            "value": 0
+            "value": 1
           },
           {
             "stationId": "S116",
@@ -689,7 +676,7 @@
           },
           {
             "stationId": "S66",
-            "value": 0.8
+            "value": 1.6
           },
           {
             "stationId": "S24",
@@ -697,7 +684,7 @@
           },
           {
             "stationId": "S69",
-            "value": 5
+            "value": 0.4
           },
           {
             "stationId": "S123",
@@ -709,7 +696,7 @@
           },
           {
             "stationId": "S121",
-            "value": 0.4
+            "value": 0
           },
           {
             "stationId": "S229",
@@ -721,7 +708,7 @@
           },
           {
             "stationId": "S109",
-            "value": 0.8
+            "value": 0
           },
           {
             "stationId": "S106",
@@ -737,11 +724,11 @@
           },
           {
             "stationId": "S228",
-            "value": 0.396
+            "value": 0
           },
           {
             "stationId": "S104",
-            "value": 0.4
+            "value": 0
           },
           {
             "stationId": "S226",
@@ -761,7 +748,7 @@
           },
           {
             "stationId": "S33",
-            "value": 0.4
+            "value": 0
           },
           {
             "stationId": "S77",
@@ -781,7 +768,7 @@
           },
           {
             "stationId": "S112",
-            "value": 0.2
+            "value": 0.6
           },
           {
             "stationId": "S230",
