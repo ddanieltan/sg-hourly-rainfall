@@ -156,6 +156,15 @@
         }
       },
       {
+        "id": "S07",
+        "deviceId": "S07",
+        "name": "Lornie Road",
+        "location": {
+          "latitude": 1.3415,
+          "longitude": 103.8334
+        }
+      },
+      {
         "id": "S220",
         "deviceId": "S220",
         "name": "Compassvale Lane",
@@ -536,11 +545,11 @@
     ],
     "readings": [
       {
-        "timestamp": "2025-03-06T07:40:00+08:00",
+        "timestamp": "2025-03-06T10:00:00+08:00",
         "data": [
           {
             "stationId": "S218",
-            "value": 1.836
+            "value": 0
           },
           {
             "stationId": "S219",
@@ -556,7 +565,7 @@
           },
           {
             "stationId": "S214",
-            "value": 0.197
+            "value": 0
           },
           {
             "stationId": "S215",
@@ -572,7 +581,7 @@
           },
           {
             "stationId": "S40",
-            "value": 0.4
+            "value": 0
           },
           {
             "stationId": "S84",
@@ -592,7 +601,7 @@
           },
           {
             "stationId": "S06",
-            "value": 0.2
+            "value": 0
           },
           {
             "stationId": "S221",
@@ -604,6 +613,10 @@
           },
           {
             "stationId": "S08",
+            "value": 0
+          },
+          {
+            "stationId": "S07",
             "value": 0
           },
           {
@@ -644,11 +657,11 @@
           },
           {
             "stationId": "S210",
-            "value": 3.015
+            "value": 0
           },
           {
             "stationId": "S211",
-            "value": 4.263
+            "value": 0
           },
           {
             "stationId": "S119",
@@ -660,7 +673,7 @@
           },
           {
             "stationId": "S115",
-            "value": 0.4
+            "value": 0
           },
           {
             "stationId": "S116",
@@ -668,7 +681,7 @@
           },
           {
             "stationId": "S113",
-            "value": 0.2
+            "value": 0
           },
           {
             "stationId": "S60",
@@ -676,7 +689,7 @@
           },
           {
             "stationId": "S66",
-            "value": 0.2
+            "value": 0
           },
           {
             "stationId": "S24",
@@ -684,7 +697,7 @@
           },
           {
             "stationId": "S69",
-            "value": 0.2
+            "value": 0
           },
           {
             "stationId": "S123",
@@ -696,11 +709,11 @@
           },
           {
             "stationId": "S121",
-            "value": 0.8
+            "value": 0
           },
           {
             "stationId": "S229",
-            "value": 1.421
+            "value": 0
           },
           {
             "stationId": "S900",
@@ -716,7 +729,7 @@
           },
           {
             "stationId": "S227",
-            "value": 3.232
+            "value": 0
           },
           {
             "stationId": "S107",
@@ -724,11 +737,11 @@
           },
           {
             "stationId": "S228",
-            "value": 1.386
+            "value": 0
           },
           {
             "stationId": "S104",
-            "value": 1.4
+            "value": 0
           },
           {
             "stationId": "S226",
@@ -748,7 +761,7 @@
           },
           {
             "stationId": "S33",
-            "value": 0.2
+            "value": 0
           },
           {
             "stationId": "S77",
