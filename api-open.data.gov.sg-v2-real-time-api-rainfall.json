@@ -327,6 +327,15 @@
         }
       },
       {
+        "id": "S64",
+        "deviceId": "S64",
+        "name": "Bukit Panjang Road",
+        "location": {
+          "latitude": 1.3824,
+          "longitude": 103.7603
+        }
+      },
+      {
         "id": "S66",
         "deviceId": "S66",
         "name": "Kranji Way",
@@ -554,7 +563,7 @@
     ],
     "readings": [
       {
-        "timestamp": "2025-03-07T12:40:00+08:00",
+        "timestamp": "2025-03-07T13:40:00+08:00",
         "data": [
           {
             "stationId": "S218",
@@ -586,7 +595,7 @@
           },
           {
             "stationId": "S81",
-            "value": 0
+            "value": 0.6
           },
           {
             "stationId": "S40",
@@ -698,6 +707,10 @@
           },
           {
             "stationId": "S60",
+            "value": 0
+          },
+          {
+            "stationId": "S64",
             "value": 0
           },
           {
