@@ -554,7 +554,7 @@
     ],
     "readings": [
       {
-        "timestamp": "2025-03-12T13:40:00+08:00",
+        "timestamp": "2025-03-12T14:45:00+08:00",
         "data": [
           {
             "stationId": "S218",
@@ -638,7 +638,7 @@
           },
           {
             "stationId": "S208",
-            "value": 0.204
+            "value": 0
           },
           {
             "stationId": "S203",
@@ -670,7 +670,7 @@
           },
           {
             "stationId": "S211",
-            "value": 1.015
+            "value": 0
           },
           {
             "stationId": "S119",
@@ -702,7 +702,7 @@
           },
           {
             "stationId": "S66",
-            "value": 0.6
+            "value": 0
           },
           {
             "stationId": "S24",
@@ -738,7 +738,7 @@
           },
           {
             "stationId": "S106",
-            "value": 0
+            "value": 0.6
           },
           {
             "stationId": "S227",
@@ -794,7 +794,7 @@
           },
           {
             "stationId": "S112",
-            "value": 2.2
+            "value": 0
           },
           {
             "stationId": "S230",
