@@ -554,7 +554,7 @@
     ],
     "readings": [
       {
-        "timestamp": "2025-03-16T13:40:00+08:00",
+        "timestamp": "2025-03-16T14:40:00+08:00",
         "data": [
           {
             "stationId": "S218",
@@ -562,7 +562,7 @@
           },
           {
             "stationId": "S219",
-            "value": 0
+            "value": 2.613
           },
           {
             "stationId": "S216",
@@ -622,7 +622,7 @@
           },
           {
             "stationId": "S08",
-            "value": 0
+            "value": 0.2
           },
           {
             "stationId": "S07",
@@ -734,7 +734,7 @@
           },
           {
             "stationId": "S109",
-            "value": 0
+            "value": 2
           },
           {
             "stationId": "S106",
