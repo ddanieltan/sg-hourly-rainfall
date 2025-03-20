@@ -309,15 +309,6 @@
         }
       },
       {
-        "id": "S24",
-        "deviceId": "S24",
-        "name": "Upper Changi Road North",
-        "location": {
-          "latitude": 1.3678,
-          "longitude": 103.9826
-        }
-      },
-      {
         "id": "S69",
         "deviceId": "S69",
         "name": "Upper Peirce Reservoir Park",
@@ -527,119 +518,119 @@
     ],
     "readings": [
       {
-        "timestamp": "2025-03-20T10:05:00+08:00",
+        "timestamp": "2025-03-20T11:10:00+08:00",
         "data": [
           {
             "stationId": "S219",
-            "value": 1.206
-          },
-          {
-            "stationId": "S216",
-            "value": 1.02
-          },
-          {
-            "stationId": "S217",
-            "value": 0.985
-          },
-          {
-            "stationId": "S214",
-            "value": 0.985
-          },
-          {
-            "stationId": "S215",
-            "value": 1.218
-          },
-          {
-            "stationId": "S213",
-            "value": 1
-          },
-          {
-            "stationId": "S81",
-            "value": 1.6
-          },
-          {
-            "stationId": "S40",
-            "value": 1.8
-          },
-          {
-            "stationId": "S84",
-            "value": 2
-          },
-          {
-            "stationId": "S44",
-            "value": 2.2
-          },
-          {
-            "stationId": "S88",
-            "value": 1.4
-          },
-          {
-            "stationId": "S43",
-            "value": 1.2
-          },
-          {
-            "stationId": "S221",
-            "value": 1.188
-          },
-          {
-            "stationId": "S222",
-            "value": 1.206
-          },
-          {
-            "stationId": "S08",
-            "value": 1.6
-          },
-          {
-            "stationId": "S07",
-            "value": 1.2
-          },
-          {
-            "stationId": "S220",
-            "value": 1.015
-          },
-          {
-            "stationId": "S207",
             "value": 0.804
           },
           {
-            "stationId": "S208",
-            "value": 1.224
+            "stationId": "S216",
+            "value": 0.408
           },
           {
-            "stationId": "S203",
-            "value": 1.005
+            "stationId": "S217",
+            "value": 0.591
           },
           {
-            "stationId": "S201",
-            "value": 1
+            "stationId": "S214",
+            "value": 0.788
           },
           {
-            "stationId": "S90",
+            "stationId": "S215",
+            "value": 0.609
+          },
+          {
+            "stationId": "S213",
+            "value": 2.6
+          },
+          {
+            "stationId": "S81",
             "value": 1.2
           },
           {
-            "stationId": "S92",
-            "value": 1.4
+            "stationId": "S40",
+            "value": 0.8
           },
           {
-            "stationId": "S209",
-            "value": 2.424
+            "stationId": "S84",
+            "value": 0.6
           },
           {
-            "stationId": "S94",
-            "value": 2.2
+            "stationId": "S44",
+            "value": 0.8
           },
           {
-            "stationId": "S210",
+            "stationId": "S88",
+            "value": 0.6
+          },
+          {
+            "stationId": "S43",
+            "value": 0.6
+          },
+          {
+            "stationId": "S221",
+            "value": 0.594
+          },
+          {
+            "stationId": "S222",
             "value": 1.809
           },
           {
+            "stationId": "S08",
+            "value": 0.2
+          },
+          {
+            "stationId": "S07",
+            "value": 1
+          },
+          {
+            "stationId": "S220",
+            "value": 1.218
+          },
+          {
+            "stationId": "S207",
+            "value": 1.005
+          },
+          {
+            "stationId": "S208",
+            "value": 0.612
+          },
+          {
+            "stationId": "S203",
+            "value": 2.211
+          },
+          {
+            "stationId": "S201",
+            "value": 0.6
+          },
+          {
+            "stationId": "S90",
+            "value": 3
+          },
+          {
+            "stationId": "S92",
+            "value": 2.6
+          },
+          {
+            "stationId": "S209",
+            "value": 0.606
+          },
+          {
+            "stationId": "S94",
+            "value": 0.4
+          },
+          {
+            "stationId": "S210",
+            "value": 2.211
+          },
+          {
             "stationId": "S211",
-            "value": 1.421
+            "value": 1.827
           },
           {
             "stationId": "S119",
-            "value": 2
+            "value": 1.6
           },
           {
             "stationId": "S117",
@@ -647,31 +638,27 @@
           },
           {
             "stationId": "S115",
-            "value": 2
+            "value": 1.2
           },
           {
             "stationId": "S116",
-            "value": 0.6
-          },
-          {
-            "stationId": "S113",
-            "value": 1.6
-          },
-          {
-            "stationId": "S64",
             "value": 0.8
           },
           {
-            "stationId": "S66",
-            "value": 2.4
+            "stationId": "S113",
+            "value": 0.8
           },
           {
-            "stationId": "S24",
+            "stationId": "S64",
             "value": 0.6
           },
           {
-            "stationId": "S69",
+            "stationId": "S66",
             "value": 1.2
+          },
+          {
+            "stationId": "S69",
+            "value": 0.8
           },
           {
             "stationId": "S123",
@@ -679,87 +666,87 @@
           },
           {
             "stationId": "S29",
-            "value": 1.6
+            "value": 0.4
           },
           {
             "stationId": "S121",
-            "value": 1.4
+            "value": 0.4
           },
           {
             "stationId": "S229",
-            "value": 1.218
+            "value": 0.609
           },
           {
             "stationId": "S900",
-            "value": 1.4
-          },
-          {
-            "stationId": "S109",
-            "value": 1.4
-          },
-          {
-            "stationId": "S106",
             "value": 2.2
           },
           {
+            "stationId": "S109",
+            "value": 0.6
+          },
+          {
+            "stationId": "S106",
+            "value": 0.2
+          },
+          {
             "stationId": "S227",
-            "value": 3.03
+            "value": 0.606
           },
           {
             "stationId": "S107",
-            "value": 1.2
+            "value": 1.4
           },
           {
             "stationId": "S228",
-            "value": 1.386
+            "value": 0.594
           },
           {
             "stationId": "S104",
-            "value": 2
+            "value": 1.8
           },
           {
             "stationId": "S226",
-            "value": 1
-          },
-          {
-            "stationId": "S223",
-            "value": 1.015
-          },
-          {
-            "stationId": "S224",
-            "value": 2.01
-          },
-          {
-            "stationId": "S71",
-            "value": 1
-          },
-          {
-            "stationId": "S33",
-            "value": 1
-          },
-          {
-            "stationId": "S77",
-            "value": 1.2
-          },
-          {
-            "stationId": "S79",
-            "value": 1
-          },
-          {
-            "stationId": "S78",
             "value": 1.6
           },
           {
+            "stationId": "S223",
+            "value": 2.842
+          },
+          {
+            "stationId": "S224",
+            "value": 0.603
+          },
+          {
+            "stationId": "S71",
+            "value": 3.4
+          },
+          {
+            "stationId": "S33",
+            "value": 1.2
+          },
+          {
+            "stationId": "S77",
+            "value": 2.4
+          },
+          {
+            "stationId": "S79",
+            "value": 1.6
+          },
+          {
+            "stationId": "S78",
+            "value": 0.4
+          },
+          {
             "stationId": "S111",
-            "value": 0.8
+            "value": 2.2
           },
           {
             "stationId": "S112",
-            "value": 2.6
+            "value": 2.8
           },
           {
             "stationId": "S230",
-            "value": 0.6
+            "value": 1.2
           }
         ]
       }
