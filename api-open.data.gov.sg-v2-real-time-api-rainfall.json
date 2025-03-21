@@ -3,15 +3,6 @@
   "data": {
     "stations": [
       {
-        "id": "S218",
-        "deviceId": "S218",
-        "name": "Bukit Batok Street 34",
-        "location": {
-          "latitude": 1.36491,
-          "longitude": 103.75065
-        }
-      },
-      {
         "id": "S219",
         "deviceId": "S219",
         "name": "Yio Chu Kang Road",
@@ -536,12 +527,8 @@
     ],
     "readings": [
       {
-        "timestamp": "2025-03-22T01:40:00+08:00",
+        "timestamp": "2025-03-22T02:40:00+08:00",
         "data": [
-          {
-            "stationId": "S218",
-            "value": 0
-          },
           {
             "stationId": "S219",
             "value": 0
@@ -568,7 +555,7 @@
           },
           {
             "stationId": "S81",
-            "value": 0.4
+            "value": 0
           },
           {
             "stationId": "S40",
@@ -648,7 +635,7 @@
           },
           {
             "stationId": "S210",
-            "value": 0.201
+            "value": 0
           },
           {
             "stationId": "S211",
@@ -716,7 +703,7 @@
           },
           {
             "stationId": "S227",
-            "value": 0.202
+            "value": 0
           },
           {
             "stationId": "S107",
@@ -748,7 +735,7 @@
           },
           {
             "stationId": "S33",
-            "value": 0
+            "value": 0.2
           },
           {
             "stationId": "S77",
