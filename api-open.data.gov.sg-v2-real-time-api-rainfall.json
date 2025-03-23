@@ -536,7 +536,7 @@
     ],
     "readings": [
       {
-        "timestamp": "2025-03-23T17:40:00+08:00",
+        "timestamp": "2025-03-23T18:40:00+08:00",
         "data": [
           {
             "stationId": "S218",
@@ -664,7 +664,7 @@
           },
           {
             "stationId": "S115",
-            "value": 0
+            "value": 0.8
           },
           {
             "stationId": "S116",
