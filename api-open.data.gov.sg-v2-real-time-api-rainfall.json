@@ -345,6 +345,15 @@
         }
       },
       {
+        "id": "S121",
+        "deviceId": "S121",
+        "name": "Old Choa Chu Kang Road",
+        "location": {
+          "latitude": 1.37288,
+          "longitude": 103.72244
+        }
+      },
+      {
         "id": "S229",
         "deviceId": "S229",
         "name": "Jurong West Street 42",
@@ -518,7 +527,7 @@
     ],
     "readings": [
       {
-        "timestamp": "2025-03-26T12:45:00+08:00",
+        "timestamp": "2025-03-26T14:45:00+08:00",
         "data": [
           {
             "stationId": "S218",
@@ -670,6 +679,10 @@
           },
           {
             "stationId": "S29",
+            "value": 0
+          },
+          {
+            "stationId": "S121",
             "value": 0
           },
           {
