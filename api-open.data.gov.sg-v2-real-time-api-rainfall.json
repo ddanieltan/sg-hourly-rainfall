@@ -3,6 +3,15 @@
   "data": {
     "stations": [
       {
+        "id": "S218",
+        "deviceId": "S218",
+        "name": "Bukit Batok Street 34",
+        "location": {
+          "latitude": 1.36491,
+          "longitude": 103.75065
+        }
+      },
+      {
         "id": "S219",
         "deviceId": "S219",
         "name": "Yio Chu Kang Road",
@@ -81,15 +90,6 @@
         "location": {
           "latitude": 1.3437,
           "longitude": 103.9444
-        }
-      },
-      {
-        "id": "S44",
-        "deviceId": "S44",
-        "name": "Nanyang Avenue",
-        "location": {
-          "latitude": 1.34583,
-          "longitude": 103.68166
         }
       },
       {
@@ -518,8 +518,12 @@
     ],
     "readings": [
       {
-        "timestamp": "2025-03-26T07:40:00+08:00",
+        "timestamp": "2025-03-26T10:05:00+08:00",
         "data": [
+          {
+            "stationId": "S218",
+            "value": 0
+          },
           {
             "stationId": "S219",
             "value": 0
@@ -554,10 +558,6 @@
           },
           {
             "stationId": "S84",
-            "value": 0
-          },
-          {
-            "stationId": "S44",
             "value": 0
           },
           {
