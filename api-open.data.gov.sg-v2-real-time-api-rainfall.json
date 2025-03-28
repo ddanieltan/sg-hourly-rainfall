@@ -291,15 +291,6 @@
         }
       },
       {
-        "id": "S60",
-        "deviceId": "S60",
-        "name": "Sentosa",
-        "location": {
-          "latitude": 1.25,
-          "longitude": 103.8279
-        }
-      },
-      {
         "id": "S64",
         "deviceId": "S64",
         "name": "Bukit Panjang Road",
@@ -315,6 +306,15 @@
         "location": {
           "latitude": 1.4387,
           "longitude": 103.7363
+        }
+      },
+      {
+        "id": "S24",
+        "deviceId": "S24",
+        "name": "Upper Changi Road North",
+        "location": {
+          "latitude": 1.3678,
+          "longitude": 103.9826
         }
       },
       {
@@ -527,7 +527,7 @@
     ],
     "readings": [
       {
-        "timestamp": "2025-03-28T16:45:00+08:00",
+        "timestamp": "2025-03-28T17:40:00+08:00",
         "data": [
           {
             "stationId": "S218",
@@ -658,15 +658,15 @@
             "value": 0
           },
           {
-            "stationId": "S60",
-            "value": 0
-          },
-          {
             "stationId": "S64",
             "value": 0
           },
           {
             "stationId": "S66",
+            "value": 0
+          },
+          {
+            "stationId": "S24",
             "value": 0
           },
           {
