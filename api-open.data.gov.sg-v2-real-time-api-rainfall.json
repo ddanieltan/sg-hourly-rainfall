@@ -291,6 +291,15 @@
         }
       },
       {
+        "id": "S60",
+        "deviceId": "S60",
+        "name": "Sentosa",
+        "location": {
+          "latitude": 1.25,
+          "longitude": 103.8279
+        }
+      },
+      {
         "id": "S64",
         "deviceId": "S64",
         "name": "Bukit Panjang Road",
@@ -527,7 +536,7 @@
     ],
     "readings": [
       {
-        "timestamp": "2025-03-29T10:05:00+08:00",
+        "timestamp": "2025-03-29T11:10:00+08:00",
         "data": [
           {
             "stationId": "S218",
@@ -655,6 +664,10 @@
           },
           {
             "stationId": "S113",
+            "value": 0
+          },
+          {
+            "stationId": "S60",
             "value": 0
           },
           {
