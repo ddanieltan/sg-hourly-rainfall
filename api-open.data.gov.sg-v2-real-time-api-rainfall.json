@@ -480,15 +480,6 @@
         }
       },
       {
-        "id": "S79",
-        "deviceId": "S79",
-        "name": "Somerset Road",
-        "location": {
-          "latitude": 1.3004,
-          "longitude": 103.8372
-        }
-      },
-      {
         "id": "S78",
         "deviceId": "S78",
         "name": "Poole Road",
@@ -527,7 +518,7 @@
     ],
     "readings": [
       {
-        "timestamp": "2025-04-04T13:40:00+08:00",
+        "timestamp": "2025-04-04T14:45:00+08:00",
         "data": [
           {
             "stationId": "S218",
@@ -559,11 +550,11 @@
           },
           {
             "stationId": "S81",
-            "value": 0
+            "value": 1.4
           },
           {
             "stationId": "S40",
-            "value": 1.2
+            "value": 0
           },
           {
             "stationId": "S84",
@@ -587,7 +578,7 @@
           },
           {
             "stationId": "S222",
-            "value": 0
+            "value": 0.201
           },
           {
             "stationId": "S08",
@@ -635,11 +626,11 @@
           },
           {
             "stationId": "S210",
-            "value": 2.613
+            "value": 0
           },
           {
             "stationId": "S211",
-            "value": 1.218
+            "value": 0
           },
           {
             "stationId": "S119",
@@ -671,7 +662,7 @@
           },
           {
             "stationId": "S66",
-            "value": 0.6
+            "value": 0
           },
           {
             "stationId": "S24",
@@ -679,7 +670,7 @@
           },
           {
             "stationId": "S69",
-            "value": 0.2
+            "value": 0
           },
           {
             "stationId": "S123",
@@ -687,7 +678,7 @@
           },
           {
             "stationId": "S29",
-            "value": 0
+            "value": 0.6
           },
           {
             "stationId": "S229",
@@ -703,7 +694,7 @@
           },
           {
             "stationId": "S227",
-            "value": 2.222
+            "value": 0.202
           },
           {
             "stationId": "S107",
@@ -715,7 +706,7 @@
           },
           {
             "stationId": "S104",
-            "value": 3.4
+            "value": 0
           },
           {
             "stationId": "S226",
@@ -739,10 +730,6 @@
           },
           {
             "stationId": "S77",
-            "value": 0
-          },
-          {
-            "stationId": "S79",
             "value": 0
           },
           {
