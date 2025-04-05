@@ -518,7 +518,7 @@
     ],
     "readings": [
       {
-        "timestamp": "2025-04-05T20:50:00+08:00",
+        "timestamp": "2025-04-05T21:40:00+08:00",
         "data": [
           {
             "stationId": "S218",
@@ -538,11 +538,11 @@
           },
           {
             "stationId": "S214",
-            "value": 0.197
+            "value": 0
           },
           {
             "stationId": "S215",
-            "value": 0.203
+            "value": 0
           },
           {
             "stationId": "S213",
@@ -570,11 +570,11 @@
           },
           {
             "stationId": "S43",
-            "value": 0.4
+            "value": 0
           },
           {
             "stationId": "S221",
-            "value": 0.792
+            "value": 0
           },
           {
             "stationId": "S222",
@@ -614,7 +614,7 @@
           },
           {
             "stationId": "S209",
-            "value": 0.606
+            "value": 0
           },
           {
             "stationId": "S50",
@@ -650,7 +650,7 @@
           },
           {
             "stationId": "S113",
-            "value": 0.2
+            "value": 0
           },
           {
             "stationId": "S60",
@@ -686,7 +686,7 @@
           },
           {
             "stationId": "S900",
-            "value": 0.2
+            "value": 0
           },
           {
             "stationId": "S109",
@@ -694,11 +694,11 @@
           },
           {
             "stationId": "S227",
-            "value": 0.202
+            "value": 0
           },
           {
             "stationId": "S107",
-            "value": 0.2
+            "value": 0
           },
           {
             "stationId": "S228",
@@ -718,7 +718,7 @@
           },
           {
             "stationId": "S224",
-            "value": 2.01
+            "value": 0
           },
           {
             "stationId": "S71",
@@ -734,7 +734,7 @@
           },
           {
             "stationId": "S78",
-            "value": 0.2
+            "value": 0
           },
           {
             "stationId": "S111",
