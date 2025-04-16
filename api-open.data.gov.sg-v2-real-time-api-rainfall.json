@@ -66,15 +66,6 @@
         }
       },
       {
-        "id": "S40",
-        "deviceId": "S40",
-        "name": "Mandai Lake Road",
-        "location": {
-          "latitude": 1.4044,
-          "longitude": 103.78962
-        }
-      },
-      {
         "id": "S84",
         "deviceId": "S84",
         "name": "Simei Avenue",
@@ -219,15 +210,6 @@
         }
       },
       {
-        "id": "S94",
-        "deviceId": "S94",
-        "name": "Pasir Ris Street 51",
-        "location": {
-          "latitude": 1.3662,
-          "longitude": 103.9528
-        }
-      },
-      {
         "id": "S210",
         "deviceId": "S210",
         "name": "Woodlands Centre",
@@ -297,15 +279,6 @@
         "location": {
           "latitude": 1.25,
           "longitude": 103.8279
-        }
-      },
-      {
-        "id": "S64",
-        "deviceId": "S64",
-        "name": "Bukit Panjang Road",
-        "location": {
-          "latitude": 1.3824,
-          "longitude": 103.7603
         }
       },
       {
@@ -518,7 +491,7 @@
     ],
     "readings": [
       {
-        "timestamp": "2025-04-16T11:45:00+08:00",
+        "timestamp": "2025-04-16T12:45:00+08:00",
         "data": [
           {
             "stationId": "S219",
@@ -546,10 +519,6 @@
           },
           {
             "stationId": "S81",
-            "value": 0
-          },
-          {
-            "stationId": "S40",
             "value": 0
           },
           {
@@ -617,10 +586,6 @@
             "value": 0
           },
           {
-            "stationId": "S94",
-            "value": 0
-          },
-          {
             "stationId": "S210",
             "value": 0
           },
@@ -650,10 +615,6 @@
           },
           {
             "stationId": "S60",
-            "value": 0
-          },
-          {
-            "stationId": "S64",
             "value": 0
           },
           {
