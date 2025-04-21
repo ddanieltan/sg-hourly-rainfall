@@ -21,15 +21,6 @@
         }
       },
       {
-        "id": "S217",
-        "deviceId": "S217",
-        "name": "Bishan Street 13",
-        "location": {
-          "latitude": 1.35041,
-          "longitude": 103.85526
-        }
-      },
-      {
         "id": "S214",
         "deviceId": "S214",
         "name": "Tanjong Rhu",
@@ -491,18 +482,14 @@
     ],
     "readings": [
       {
-        "timestamp": "2025-04-21T13:40:00+08:00",
+        "timestamp": "2025-04-21T14:45:00+08:00",
         "data": [
           {
             "stationId": "S219",
-            "value": 1.8
-          },
-          {
-            "stationId": "S216",
             "value": 0
           },
           {
-            "stationId": "S217",
+            "stationId": "S216",
             "value": 0
           },
           {
@@ -531,7 +518,7 @@
           },
           {
             "stationId": "S44",
-            "value": 0
+            "value": 1.2
           },
           {
             "stationId": "S88",
@@ -571,7 +558,7 @@
           },
           {
             "stationId": "S201",
-            "value": 0
+            "value": 0.2
           },
           {
             "stationId": "S90",
@@ -583,7 +570,7 @@
           },
           {
             "stationId": "S209",
-            "value": 0.2
+            "value": 0
           },
           {
             "stationId": "S50",
@@ -595,11 +582,11 @@
           },
           {
             "stationId": "S210",
-            "value": 0
+            "value": 5.8
           },
           {
             "stationId": "S211",
-            "value": 0
+            "value": 3.2
           },
           {
             "stationId": "S119",
@@ -623,7 +610,7 @@
           },
           {
             "stationId": "S66",
-            "value": 0
+            "value": 2.8
           },
           {
             "stationId": "S24",
@@ -647,7 +634,7 @@
           },
           {
             "stationId": "S900",
-            "value": 0.2
+            "value": 0
           },
           {
             "stationId": "S106",
@@ -663,7 +650,7 @@
           },
           {
             "stationId": "S228",
-            "value": 0
+            "value": 1
           },
           {
             "stationId": "S226",
@@ -683,7 +670,7 @@
           },
           {
             "stationId": "S33",
-            "value": 0
+            "value": 3
           },
           {
             "stationId": "S77",
