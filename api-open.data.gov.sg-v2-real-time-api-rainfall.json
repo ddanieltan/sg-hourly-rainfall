@@ -21,6 +21,15 @@
         }
       },
       {
+        "id": "S217",
+        "deviceId": "S217",
+        "name": "Bishan Street 13",
+        "location": {
+          "latitude": 1.35041,
+          "longitude": 103.85526
+        }
+      },
+      {
         "id": "S214",
         "deviceId": "S214",
         "name": "Tanjong Rhu",
@@ -482,7 +491,7 @@
     ],
     "readings": [
       {
-        "timestamp": "2025-04-21T14:45:00+08:00",
+        "timestamp": "2025-04-21T15:40:00+08:00",
         "data": [
           {
             "stationId": "S219",
@@ -490,6 +499,10 @@
           },
           {
             "stationId": "S216",
+            "value": 0.4
+          },
+          {
+            "stationId": "S217",
             "value": 0
           },
           {
@@ -510,7 +523,7 @@
           },
           {
             "stationId": "S40",
-            "value": 0
+            "value": 1.8
           },
           {
             "stationId": "S84",
@@ -518,7 +531,7 @@
           },
           {
             "stationId": "S44",
-            "value": 1.2
+            "value": 0
           },
           {
             "stationId": "S88",
@@ -538,11 +551,11 @@
           },
           {
             "stationId": "S08",
-            "value": 0
+            "value": 6.2
           },
           {
             "stationId": "S07",
-            "value": 0
+            "value": 4.6
           },
           {
             "stationId": "S220",
@@ -558,7 +571,7 @@
           },
           {
             "stationId": "S201",
-            "value": 0.2
+            "value": 0
           },
           {
             "stationId": "S90",
@@ -570,7 +583,7 @@
           },
           {
             "stationId": "S209",
-            "value": 0
+            "value": 7.9
           },
           {
             "stationId": "S50",
@@ -582,11 +595,11 @@
           },
           {
             "stationId": "S210",
-            "value": 5.8
+            "value": 3
           },
           {
             "stationId": "S211",
-            "value": 3.2
+            "value": 1.8
           },
           {
             "stationId": "S119",
@@ -594,7 +607,7 @@
           },
           {
             "stationId": "S115",
-            "value": 0
+            "value": 0.4
           },
           {
             "stationId": "S113",
@@ -610,7 +623,7 @@
           },
           {
             "stationId": "S66",
-            "value": 2.8
+            "value": 0.4
           },
           {
             "stationId": "S24",
@@ -618,11 +631,11 @@
           },
           {
             "stationId": "S69",
-            "value": 0
+            "value": 4.6
           },
           {
             "stationId": "S123",
-            "value": 0
+            "value": 0.2
           },
           {
             "stationId": "S29",
@@ -634,7 +647,7 @@
           },
           {
             "stationId": "S900",
-            "value": 0
+            "value": 2.6
           },
           {
             "stationId": "S106",
@@ -642,7 +655,7 @@
           },
           {
             "stationId": "S227",
-            "value": 0
+            "value": 2.6
           },
           {
             "stationId": "S107",
@@ -650,7 +663,7 @@
           },
           {
             "stationId": "S228",
-            "value": 1
+            "value": 0
           },
           {
             "stationId": "S226",
@@ -670,7 +683,7 @@
           },
           {
             "stationId": "S33",
-            "value": 3
+            "value": 0
           },
           {
             "stationId": "S77",
