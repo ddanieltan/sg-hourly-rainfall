@@ -255,6 +255,15 @@
         }
       },
       {
+        "id": "S117",
+        "deviceId": "S117",
+        "name": "Banyan Road",
+        "location": {
+          "latitude": 1.256,
+          "longitude": 103.679
+        }
+      },
+      {
         "id": "S115",
         "deviceId": "S115",
         "name": "Tuas South Avenue 3",
@@ -491,7 +500,7 @@
     ],
     "readings": [
       {
-        "timestamp": "2025-04-22T14:45:00+08:00",
+        "timestamp": "2025-04-22T15:40:00+08:00",
         "data": [
           {
             "stationId": "S219",
@@ -603,6 +612,10 @@
           },
           {
             "stationId": "S119",
+            "value": 0
+          },
+          {
+            "stationId": "S117",
             "value": 0
           },
           {
