@@ -165,15 +165,6 @@
         }
       },
       {
-        "id": "S203",
-        "deviceId": "S203",
-        "name": "Pasir Panjang",
-        "location": {
-          "latitude": 1.29164,
-          "longitude": 103.7702
-        }
-      },
-      {
         "id": "S201",
         "deviceId": "S201",
         "name": "Clementi Park",
@@ -527,7 +518,7 @@
     ],
     "readings": [
       {
-        "timestamp": "2025-04-28T07:40:00+08:00",
+        "timestamp": "2025-04-28T10:15:00+08:00",
         "data": [
           {
             "stationId": "S219",
@@ -599,10 +590,6 @@
           },
           {
             "stationId": "S208",
-            "value": 0
-          },
-          {
-            "stationId": "S203",
             "value": 0
           },
           {
