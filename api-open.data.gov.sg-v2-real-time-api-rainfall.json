@@ -156,6 +156,15 @@
         }
       },
       {
+        "id": "S208",
+        "deviceId": "S208",
+        "name": "Changi East Close",
+        "location": {
+          "latitude": 1.3136,
+          "longitude": 104.00317
+        }
+      },
+      {
         "id": "S203",
         "deviceId": "S203",
         "name": "Pasir Panjang",
@@ -518,19 +527,19 @@
     ],
     "readings": [
       {
-        "timestamp": "2025-04-28T13:50:00+08:00",
+        "timestamp": "2025-04-28T14:55:00+08:00",
         "data": [
           {
             "stationId": "S219",
-            "value": 0
+            "value": 0.4
           },
           {
             "stationId": "S216",
-            "value": 0
+            "value": 0.2
           },
           {
             "stationId": "S217",
-            "value": 0
+            "value": 0.2
           },
           {
             "stationId": "S214",
@@ -578,7 +587,7 @@
           },
           {
             "stationId": "S08",
-            "value": 0
+            "value": 0.2
           },
           {
             "stationId": "S07",
@@ -586,15 +595,19 @@
           },
           {
             "stationId": "S220",
+            "value": 0.2
+          },
+          {
+            "stationId": "S208",
             "value": 0
           },
           {
             "stationId": "S203",
-            "value": 0.2
+            "value": 0
           },
           {
             "stationId": "S201",
-            "value": 9.2
+            "value": 0
           },
           {
             "stationId": "S90",
@@ -606,11 +619,11 @@
           },
           {
             "stationId": "S209",
-            "value": 0
+            "value": 0.2
           },
           {
             "stationId": "S50",
-            "value": 0.4
+            "value": 0
           },
           {
             "stationId": "S94",
@@ -674,11 +687,11 @@
           },
           {
             "stationId": "S900",
-            "value": 0
+            "value": 1
           },
           {
             "stationId": "S109",
-            "value": 0
+            "value": 1.6
           },
           {
             "stationId": "S106",
@@ -722,7 +735,7 @@
           },
           {
             "stationId": "S33",
-            "value": 4.4
+            "value": 0
           },
           {
             "stationId": "S77",
@@ -730,7 +743,7 @@
           },
           {
             "stationId": "S79",
-            "value": 0
+            "value": 0.2
           },
           {
             "stationId": "S78",
@@ -746,7 +759,7 @@
           },
           {
             "stationId": "S230",
-            "value": 1.6
+            "value": 0
           }
         ]
       }
