@@ -210,15 +210,6 @@
         }
       },
       {
-        "id": "S50",
-        "deviceId": "S50",
-        "name": "Clementi Road",
-        "location": {
-          "latitude": 1.3337,
-          "longitude": 103.7768
-        }
-      },
-      {
         "id": "S94",
         "deviceId": "S94",
         "name": "Pasir Ris Street 51",
@@ -527,7 +518,7 @@
     ],
     "readings": [
       {
-        "timestamp": "2025-05-12T10:20:00+08:00",
+        "timestamp": "2025-05-12T11:20:00+08:00",
         "data": [
           {
             "stationId": "S219",
@@ -535,15 +526,15 @@
           },
           {
             "stationId": "S216",
-            "value": 0.6
+            "value": 0
           },
           {
             "stationId": "S217",
-            "value": 0.4
+            "value": 0
           },
           {
             "stationId": "S214",
-            "value": 0.8
+            "value": 0
           },
           {
             "stationId": "S215",
@@ -622,10 +613,6 @@
             "value": 0
           },
           {
-            "stationId": "S50",
-            "value": 0
-          },
-          {
             "stationId": "S94",
             "value": 0
           },
@@ -639,7 +626,7 @@
           },
           {
             "stationId": "S119",
-            "value": 0.2
+            "value": 0
           },
           {
             "stationId": "S117",
@@ -671,7 +658,7 @@
           },
           {
             "stationId": "S123",
-            "value": 0.2
+            "value": 0
           },
           {
             "stationId": "S29",
@@ -743,7 +730,7 @@
           },
           {
             "stationId": "S79",
-            "value": 0.4
+            "value": 0
           },
           {
             "stationId": "S78",
@@ -751,7 +738,7 @@
           },
           {
             "stationId": "S111",
-            "value": 0.6
+            "value": 0
           },
           {
             "stationId": "S112",
