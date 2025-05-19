@@ -102,15 +102,6 @@
         }
       },
       {
-        "id": "S43",
-        "deviceId": "S43",
-        "name": "Kim Chuan Road",
-        "location": {
-          "latitude": 1.3399,
-          "longitude": 103.8878
-        }
-      },
-      {
         "id": "S221",
         "deviceId": "S221",
         "name": "Hougang Avenue 1",
@@ -527,7 +518,7 @@
     ],
     "readings": [
       {
-        "timestamp": "2025-05-19T07:40:00+08:00",
+        "timestamp": "2025-05-19T10:20:00+08:00",
         "data": [
           {
             "stationId": "S219",
@@ -571,10 +562,6 @@
           },
           {
             "stationId": "S88",
-            "value": 0
-          },
-          {
-            "stationId": "S43",
             "value": 0
           },
           {
@@ -687,7 +674,7 @@
           },
           {
             "stationId": "S900",
-            "value": 0
+            "value": 0.2
           },
           {
             "stationId": "S109",
@@ -699,11 +686,11 @@
           },
           {
             "stationId": "S227",
-            "value": 0
+            "value": 0.2
           },
           {
             "stationId": "S107",
-            "value": 0
+            "value": 0.2
           },
           {
             "stationId": "S228",
