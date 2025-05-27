@@ -201,15 +201,6 @@
         }
       },
       {
-        "id": "S50",
-        "deviceId": "S50",
-        "name": "Clementi Road",
-        "location": {
-          "latitude": 1.3337,
-          "longitude": 103.7768
-        }
-      },
-      {
         "id": "S94",
         "deviceId": "S94",
         "name": "Pasir Ris Street 51",
@@ -518,7 +509,7 @@
     ],
     "readings": [
       {
-        "timestamp": "2025-05-28T04:45:00+08:00",
+        "timestamp": "2025-05-28T05:40:00+08:00",
         "data": [
           {
             "stationId": "S219",
@@ -606,10 +597,6 @@
           },
           {
             "stationId": "S209",
-            "value": 0
-          },
-          {
-            "stationId": "S50",
             "value": 0
           },
           {
