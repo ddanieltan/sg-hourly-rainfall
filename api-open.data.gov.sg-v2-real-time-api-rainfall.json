@@ -228,15 +228,6 @@
         }
       },
       {
-        "id": "S211",
-        "deviceId": "S211",
-        "name": "Kranji Road",
-        "location": {
-          "latitude": 1.42918,
-          "longitude": 103.75711
-        }
-      },
-      {
         "id": "S119",
         "deviceId": "S119",
         "name": "Nicoll Highway",
@@ -518,7 +509,7 @@
     ],
     "readings": [
       {
-        "timestamp": "2025-06-01T13:40:00+08:00",
+        "timestamp": "2025-06-01T14:45:00+08:00",
         "data": [
           {
             "stationId": "S219",
@@ -618,10 +609,6 @@
           },
           {
             "stationId": "S210",
-            "value": 0
-          },
-          {
-            "stationId": "S211",
             "value": 0
           },
           {
