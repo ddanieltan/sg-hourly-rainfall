@@ -426,15 +426,6 @@
         }
       },
       {
-        "id": "S224",
-        "deviceId": "S224",
-        "name": "Airport Boulevard",
-        "location": {
-          "latitude": 1.34392,
-          "longitude": 103.98409
-        }
-      },
-      {
         "id": "S71",
         "deviceId": "S71",
         "name": "Kent Ridge Road",
@@ -509,7 +500,7 @@
     ],
     "readings": [
       {
-        "timestamp": "2025-06-04T12:40:00+08:00",
+        "timestamp": "2025-06-04T13:45:00+08:00",
         "data": [
           {
             "stationId": "S219",
@@ -697,10 +688,6 @@
           },
           {
             "stationId": "S223",
-            "value": 0
-          },
-          {
-            "stationId": "S224",
             "value": 0
           },
           {
