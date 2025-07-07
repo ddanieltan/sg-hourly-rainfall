@@ -336,15 +336,6 @@
         }
       },
       {
-        "id": "S29",
-        "deviceId": "S29",
-        "name": "Pasir Ris Drive 12",
-        "location": {
-          "latitude": 1.387,
-          "longitude": 103.935
-        }
-      },
-      {
         "id": "S121",
         "deviceId": "S121",
         "name": "Old Choa Chu Kang Road",
@@ -414,15 +405,6 @@
         "location": {
           "latitude": 1.3135,
           "longitude": 103.9625
-        }
-      },
-      {
-        "id": "S228",
-        "deviceId": "S228",
-        "name": "Jurong West Street 73",
-        "location": {
-          "latitude": 1.34703,
-          "longitude": 103.70073
         }
       },
       {
@@ -545,7 +527,7 @@
     ],
     "readings": [
       {
-        "timestamp": "2025-07-07T14:45:00+08:00",
+        "timestamp": "2025-07-07T15:40:00+08:00",
         "data": [
           {
             "stationId": "S219",
@@ -696,10 +678,6 @@
             "value": 0
           },
           {
-            "stationId": "S29",
-            "value": 0
-          },
-          {
             "stationId": "S121",
             "value": 0
           },
@@ -729,10 +707,6 @@
           },
           {
             "stationId": "S107",
-            "value": 0
-          },
-          {
-            "stationId": "S228",
             "value": 0
           },
           {
