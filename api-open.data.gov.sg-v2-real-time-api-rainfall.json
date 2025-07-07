@@ -417,6 +417,15 @@
         }
       },
       {
+        "id": "S228",
+        "deviceId": "S228",
+        "name": "Jurong West Street 73",
+        "location": {
+          "latitude": 1.34703,
+          "longitude": 103.70073
+        }
+      },
+      {
         "id": "S104",
         "deviceId": "S104",
         "name": "Woodlands Avenue 9",
@@ -536,7 +545,7 @@
     ],
     "readings": [
       {
-        "timestamp": "2025-07-07T10:25:00+08:00",
+        "timestamp": "2025-07-07T11:30:00+08:00",
         "data": [
           {
             "stationId": "S219",
@@ -720,6 +729,10 @@
           },
           {
             "stationId": "S107",
+            "value": 0
+          },
+          {
+            "stationId": "S228",
             "value": 0
           },
           {
