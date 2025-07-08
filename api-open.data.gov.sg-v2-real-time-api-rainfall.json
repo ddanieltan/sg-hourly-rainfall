@@ -408,6 +408,15 @@
         }
       },
       {
+        "id": "S228",
+        "deviceId": "S228",
+        "name": "Jurong West Street 73",
+        "location": {
+          "latitude": 1.34703,
+          "longitude": 103.70073
+        }
+      },
+      {
         "id": "S104",
         "deviceId": "S104",
         "name": "Woodlands Avenue 9",
@@ -527,7 +536,7 @@
     ],
     "readings": [
       {
-        "timestamp": "2025-07-08T10:25:00+08:00",
+        "timestamp": "2025-07-08T11:35:00+08:00",
         "data": [
           {
             "stationId": "S219",
@@ -555,7 +564,7 @@
           },
           {
             "stationId": "S81",
-            "value": 0.6
+            "value": 0
           },
           {
             "stationId": "S40",
@@ -563,7 +572,7 @@
           },
           {
             "stationId": "S84",
-            "value": 1
+            "value": 0
           },
           {
             "stationId": "S44",
@@ -595,7 +604,7 @@
           },
           {
             "stationId": "S220",
-            "value": 0.2
+            "value": 0
           },
           {
             "stationId": "S208",
@@ -627,7 +636,7 @@
           },
           {
             "stationId": "S94",
-            "value": 0.8
+            "value": 0
           },
           {
             "stationId": "S210",
@@ -667,7 +676,7 @@
           },
           {
             "stationId": "S24",
-            "value": 2.8
+            "value": 0
           },
           {
             "stationId": "S69",
@@ -679,7 +688,7 @@
           },
           {
             "stationId": "S121",
-            "value": 0.2
+            "value": 0
           },
           {
             "stationId": "S108",
@@ -699,7 +708,7 @@
           },
           {
             "stationId": "S106",
-            "value": 5.8
+            "value": 0
           },
           {
             "stationId": "S227",
@@ -707,6 +716,10 @@
           },
           {
             "stationId": "S107",
+            "value": 0
+          },
+          {
+            "stationId": "S228",
             "value": 0
           },
           {
@@ -727,7 +740,7 @@
           },
           {
             "stationId": "S224",
-            "value": 2
+            "value": 0
           },
           {
             "stationId": "S71",
