@@ -336,6 +336,15 @@
         }
       },
       {
+        "id": "S29",
+        "deviceId": "S29",
+        "name": "Pasir Ris Drive 12",
+        "location": {
+          "latitude": 1.387,
+          "longitude": 103.935
+        }
+      },
+      {
         "id": "S121",
         "deviceId": "S121",
         "name": "Old Choa Chu Kang Road",
@@ -378,15 +387,6 @@
         "location": {
           "latitude": 1.3764,
           "longitude": 103.8492
-        }
-      },
-      {
-        "id": "S106",
-        "deviceId": "S106",
-        "name": "Pulau Ubin",
-        "location": {
-          "latitude": 1.4168,
-          "longitude": 103.9673
         }
       },
       {
@@ -536,7 +536,7 @@
     ],
     "readings": [
       {
-        "timestamp": "2025-07-11T16:50:00+08:00",
+        "timestamp": "2025-07-11T17:45:00+08:00",
         "data": [
           {
             "stationId": "S219",
@@ -687,6 +687,10 @@
             "value": 0
           },
           {
+            "stationId": "S29",
+            "value": 0
+          },
+          {
             "stationId": "S121",
             "value": 0
           },
@@ -704,10 +708,6 @@
           },
           {
             "stationId": "S109",
-            "value": 0
-          },
-          {
-            "stationId": "S106",
             "value": 0
           },
           {
