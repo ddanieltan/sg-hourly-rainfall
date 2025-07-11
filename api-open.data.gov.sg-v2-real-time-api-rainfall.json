@@ -174,15 +174,6 @@
         }
       },
       {
-        "id": "S201",
-        "deviceId": "S201",
-        "name": "Clementi Park",
-        "location": {
-          "latitude": 1.32311,
-          "longitude": 103.76714
-        }
-      },
-      {
         "id": "S90",
         "deviceId": "S90",
         "name": "Bukit Timah Road",
@@ -536,7 +527,7 @@
     ],
     "readings": [
       {
-        "timestamp": "2025-07-11T07:40:00+08:00",
+        "timestamp": "2025-07-11T10:25:00+08:00",
         "data": [
           {
             "stationId": "S219",
@@ -560,7 +551,7 @@
           },
           {
             "stationId": "S213",
-            "value": 5.4
+            "value": 0
           },
           {
             "stationId": "S81",
@@ -576,7 +567,7 @@
           },
           {
             "stationId": "S44",
-            "value": 0.2
+            "value": 0
           },
           {
             "stationId": "S88",
@@ -596,7 +587,7 @@
           },
           {
             "stationId": "S08",
-            "value": 0.2
+            "value": 0
           },
           {
             "stationId": "S07",
@@ -612,27 +603,23 @@
           },
           {
             "stationId": "S203",
-            "value": 3
-          },
-          {
-            "stationId": "S201",
-            "value": 4.2
+            "value": 0
           },
           {
             "stationId": "S90",
-            "value": 0.4
+            "value": 0
           },
           {
             "stationId": "S92",
-            "value": 0.2
+            "value": 0
           },
           {
             "stationId": "S209",
-            "value": 0.8
+            "value": 0
           },
           {
             "stationId": "S50",
-            "value": 2.2
+            "value": 0
           },
           {
             "stationId": "S94",
@@ -668,7 +655,7 @@
           },
           {
             "stationId": "S64",
-            "value": 0.2
+            "value": 0
           },
           {
             "stationId": "S66",
@@ -704,7 +691,7 @@
           },
           {
             "stationId": "S109",
-            "value": 0.2
+            "value": 0
           },
           {
             "stationId": "S106",
@@ -720,7 +707,7 @@
           },
           {
             "stationId": "S228",
-            "value": 0.2
+            "value": 0
           },
           {
             "stationId": "S104",
@@ -744,7 +731,7 @@
           },
           {
             "stationId": "S71",
-            "value": 0.4
+            "value": 0
           },
           {
             "stationId": "S33",
@@ -772,7 +759,7 @@
           },
           {
             "stationId": "S230",
-            "value": 4.2
+            "value": 0
           }
         ]
       }
