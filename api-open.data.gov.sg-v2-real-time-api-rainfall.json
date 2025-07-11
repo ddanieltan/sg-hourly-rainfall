@@ -426,21 +426,21 @@
         }
       },
       {
-        "id": "S223",
-        "deviceId": "S223",
-        "name": "Margaret Drive",
-        "location": {
-          "latitude": 1.29984,
-          "longitude": 103.80264
-        }
-      },
-      {
         "id": "S102",
         "deviceId": "S102",
         "name": "Semakau Landfill",
         "location": {
           "latitude": 1.189,
           "longitude": 103.768
+        }
+      },
+      {
+        "id": "S223",
+        "deviceId": "S223",
+        "name": "Margaret Drive",
+        "location": {
+          "latitude": 1.29984,
+          "longitude": 103.80264
         }
       },
       {
@@ -527,7 +527,7 @@
     ],
     "readings": [
       {
-        "timestamp": "2025-07-11T12:55:00+08:00",
+        "timestamp": "2025-07-11T13:45:00+08:00",
         "data": [
           {
             "stationId": "S219",
@@ -718,11 +718,11 @@
             "value": 0
           },
           {
-            "stationId": "S223",
+            "stationId": "S102",
             "value": 0
           },
           {
-            "stationId": "S102",
+            "stationId": "S223",
             "value": 0
           },
           {
