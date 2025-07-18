@@ -444,15 +444,6 @@
         }
       },
       {
-        "id": "S102",
-        "deviceId": "S102",
-        "name": "Semakau Landfill",
-        "location": {
-          "latitude": 1.189,
-          "longitude": 103.768
-        }
-      },
-      {
         "id": "S223",
         "deviceId": "S223",
         "name": "Margaret Drive",
@@ -468,15 +459,6 @@
         "location": {
           "latitude": 1.34392,
           "longitude": 103.98409
-        }
-      },
-      {
-        "id": "S71",
-        "deviceId": "S71",
-        "name": "Kent Ridge Road",
-        "location": {
-          "latitude": 1.2923,
-          "longitude": 103.7815
         }
       },
       {
@@ -545,7 +527,7 @@
     ],
     "readings": [
       {
-        "timestamp": "2025-07-18T07:45:00+08:00",
+        "timestamp": "2025-07-18T10:40:00+08:00",
         "data": [
           {
             "stationId": "S219",
@@ -744,19 +726,11 @@
             "value": 0
           },
           {
-            "stationId": "S102",
-            "value": 0
-          },
-          {
             "stationId": "S223",
             "value": 0
           },
           {
             "stationId": "S224",
-            "value": 0
-          },
-          {
-            "stationId": "S71",
             "value": 0
           },
           {
