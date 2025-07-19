@@ -381,15 +381,6 @@
         }
       },
       {
-        "id": "S109",
-        "deviceId": "S109",
-        "name": "Ang Mo Kio Avenue 5",
-        "location": {
-          "latitude": 1.3764,
-          "longitude": 103.8492
-        }
-      },
-      {
         "id": "S106",
         "deviceId": "S106",
         "name": "Pulau Ubin",
@@ -536,7 +527,7 @@
     ],
     "readings": [
       {
-        "timestamp": "2025-07-19T15:40:00+08:00",
+        "timestamp": "2025-07-19T16:45:00+08:00",
         "data": [
           {
             "stationId": "S219",
@@ -704,10 +695,6 @@
           },
           {
             "stationId": "S900",
-            "value": 0
-          },
-          {
-            "stationId": "S109",
             "value": 0
           },
           {
