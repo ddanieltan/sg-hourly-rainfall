@@ -471,15 +471,6 @@
         }
       },
       {
-        "id": "S71",
-        "deviceId": "S71",
-        "name": "Kent Ridge Road",
-        "location": {
-          "latitude": 1.2923,
-          "longitude": 103.7815
-        }
-      },
-      {
         "id": "S33",
         "deviceId": "S33",
         "name": "Jurong Pier Road",
@@ -545,7 +536,7 @@
     ],
     "readings": [
       {
-        "timestamp": "2025-07-19T07:45:00+08:00",
+        "timestamp": "2025-07-19T10:25:00+08:00",
         "data": [
           {
             "stationId": "S219",
@@ -753,10 +744,6 @@
           },
           {
             "stationId": "S224",
-            "value": 0
-          },
-          {
-            "stationId": "S71",
             "value": 0
           },
           {
