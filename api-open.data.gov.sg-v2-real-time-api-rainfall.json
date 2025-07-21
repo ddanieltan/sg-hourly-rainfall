@@ -345,15 +345,6 @@
         }
       },
       {
-        "id": "S121",
-        "deviceId": "S121",
-        "name": "Old Choa Chu Kang Road",
-        "location": {
-          "latitude": 1.37288,
-          "longitude": 103.72244
-        }
-      },
-      {
         "id": "S108",
         "deviceId": "S108",
         "name": "Marina Gardens Drive",
@@ -545,7 +536,7 @@
     ],
     "readings": [
       {
-        "timestamp": "2025-07-21T13:45:00+08:00",
+        "timestamp": "2025-07-21T14:50:00+08:00",
         "data": [
           {
             "stationId": "S219",
@@ -697,10 +688,6 @@
           },
           {
             "stationId": "S29",
-            "value": 0
-          },
-          {
-            "stationId": "S121",
             "value": 0
           },
           {
