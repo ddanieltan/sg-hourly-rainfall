@@ -309,15 +309,6 @@
         }
       },
       {
-        "id": "S24",
-        "deviceId": "S24",
-        "name": "Upper Changi Road North",
-        "location": {
-          "latitude": 1.3678,
-          "longitude": 103.9826
-        }
-      },
-      {
         "id": "S69",
         "deviceId": "S69",
         "name": "Upper Peirce Reservoir Park",
@@ -536,7 +527,7 @@
     ],
     "readings": [
       {
-        "timestamp": "2025-07-26T18:45:00+08:00",
+        "timestamp": "2025-07-26T19:40:00+08:00",
         "data": [
           {
             "stationId": "S219",
@@ -672,10 +663,6 @@
           },
           {
             "stationId": "S66",
-            "value": 0
-          },
-          {
-            "stationId": "S24",
             "value": 0
           },
           {
