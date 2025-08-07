@@ -354,6 +354,15 @@
         }
       },
       {
+        "id": "S900",
+        "deviceId": "S900",
+        "name": "Seletar Aerospace View",
+        "location": {
+          "latitude": 1.41284,
+          "longitude": 103.86922
+        }
+      },
+      {
         "id": "S109",
         "deviceId": "S109",
         "name": "Ang Mo Kio Avenue 5",
@@ -518,7 +527,7 @@
     ],
     "readings": [
       {
-        "timestamp": "2025-08-07T17:50:00+08:00",
+        "timestamp": "2025-08-07T18:50:00+08:00",
         "data": [
           {
             "stationId": "S219",
@@ -674,6 +683,10 @@
           },
           {
             "stationId": "S229",
+            "value": 0
+          },
+          {
+            "stationId": "S900",
             "value": 0
           },
           {
