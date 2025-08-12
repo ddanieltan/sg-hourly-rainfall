@@ -237,6 +237,15 @@
         }
       },
       {
+        "id": "S211",
+        "deviceId": "S211",
+        "name": "Kranji Road",
+        "location": {
+          "latitude": 1.42918,
+          "longitude": 103.75711
+        }
+      },
+      {
         "id": "S119",
         "deviceId": "S119",
         "name": "Nicoll Highway",
@@ -351,6 +360,15 @@
         "location": {
           "latitude": 1.41284,
           "longitude": 103.86922
+        }
+      },
+      {
+        "id": "S109",
+        "deviceId": "S109",
+        "name": "Ang Mo Kio Avenue 5",
+        "location": {
+          "latitude": 1.3764,
+          "longitude": 103.8492
         }
       },
       {
@@ -509,7 +527,7 @@
     ],
     "readings": [
       {
-        "timestamp": "2025-08-12T15:40:00+08:00",
+        "timestamp": "2025-08-12T16:50:00+08:00",
         "data": [
           {
             "stationId": "S219",
@@ -616,6 +634,10 @@
             "value": 0
           },
           {
+            "stationId": "S211",
+            "value": 0
+          },
+          {
             "stationId": "S119",
             "value": 0
           },
@@ -665,6 +687,10 @@
           },
           {
             "stationId": "S900",
+            "value": 0
+          },
+          {
+            "stationId": "S109",
             "value": 0
           },
           {
