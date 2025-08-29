@@ -498,6 +498,15 @@
         }
       },
       {
+        "id": "S111",
+        "deviceId": "S111",
+        "name": "Scotts Road",
+        "location": {
+          "latitude": 1.31055,
+          "longitude": 103.8365
+        }
+      },
+      {
         "id": "S112",
         "deviceId": "S112",
         "name": "Lim Chu Kang Road",
@@ -518,7 +527,7 @@
     ],
     "readings": [
       {
-        "timestamp": "2025-08-29T17:40:00+08:00",
+        "timestamp": "2025-08-29T18:40:00+08:00",
         "data": [
           {
             "stationId": "S219",
@@ -738,6 +747,10 @@
           },
           {
             "stationId": "S78",
+            "value": 0
+          },
+          {
+            "stationId": "S111",
             "value": 0
           },
           {
