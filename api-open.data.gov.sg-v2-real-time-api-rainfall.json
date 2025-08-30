@@ -372,15 +372,6 @@
         }
       },
       {
-        "id": "S106",
-        "deviceId": "S106",
-        "name": "Pulau Ubin",
-        "location": {
-          "latitude": 1.4168,
-          "longitude": 103.9673
-        }
-      },
-      {
         "id": "S227",
         "deviceId": "S227",
         "name": "Woodlands Drive 62",
@@ -423,6 +414,15 @@
         "location": {
           "latitude": 1.27472,
           "longitude": 103.80389
+        }
+      },
+      {
+        "id": "S102",
+        "deviceId": "S102",
+        "name": "Semakau Landfill",
+        "location": {
+          "latitude": 1.189,
+          "longitude": 103.768
         }
       },
       {
@@ -518,7 +518,7 @@
     ],
     "readings": [
       {
-        "timestamp": "2025-08-30T11:45:00+08:00",
+        "timestamp": "2025-08-30T12:40:00+08:00",
         "data": [
           {
             "stationId": "S219",
@@ -685,10 +685,6 @@
             "value": 0
           },
           {
-            "stationId": "S106",
-            "value": 0
-          },
-          {
             "stationId": "S227",
             "value": 0
           },
@@ -706,6 +702,10 @@
           },
           {
             "stationId": "S226",
+            "value": 0
+          },
+          {
+            "stationId": "S102",
             "value": 0
           },
           {
