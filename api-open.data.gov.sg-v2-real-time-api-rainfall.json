@@ -372,15 +372,6 @@
         }
       },
       {
-        "id": "S106",
-        "deviceId": "S106",
-        "name": "Pulau Ubin",
-        "location": {
-          "latitude": 1.4168,
-          "longitude": 103.9673
-        }
-      },
-      {
         "id": "S227",
         "deviceId": "S227",
         "name": "Woodlands Drive 62",
@@ -527,7 +518,7 @@
     ],
     "readings": [
       {
-        "timestamp": "2025-08-30T16:40:00+08:00",
+        "timestamp": "2025-08-30T17:40:00+08:00",
         "data": [
           {
             "stationId": "S219",
@@ -691,10 +682,6 @@
           },
           {
             "stationId": "S109",
-            "value": 0
-          },
-          {
-            "stationId": "S106",
             "value": 0
           },
           {
