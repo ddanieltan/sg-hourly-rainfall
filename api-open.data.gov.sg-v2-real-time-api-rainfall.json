@@ -246,15 +246,6 @@
         }
       },
       {
-        "id": "S119",
-        "deviceId": "S119",
-        "name": "Nicoll Highway",
-        "location": {
-          "latitude": 1.30105,
-          "longitude": 103.8666
-        }
-      },
-      {
         "id": "S117",
         "deviceId": "S117",
         "name": "Banyan Road",
@@ -444,15 +435,6 @@
         }
       },
       {
-        "id": "S224",
-        "deviceId": "S224",
-        "name": "Airport Boulevard",
-        "location": {
-          "latitude": 1.34392,
-          "longitude": 103.98409
-        }
-      },
-      {
         "id": "S71",
         "deviceId": "S71",
         "name": "Kent Ridge Road",
@@ -527,7 +509,7 @@
     ],
     "readings": [
       {
-        "timestamp": "2025-09-03T10:00:00+08:00",
+        "timestamp": "2025-09-03T11:10:00+08:00",
         "data": [
           {
             "stationId": "S219",
@@ -638,10 +620,6 @@
             "value": 0
           },
           {
-            "stationId": "S119",
-            "value": 0
-          },
-          {
             "stationId": "S117",
             "value": 0
           },
@@ -723,10 +701,6 @@
           },
           {
             "stationId": "S223",
-            "value": 0
-          },
-          {
-            "stationId": "S224",
             "value": 0
           },
           {
