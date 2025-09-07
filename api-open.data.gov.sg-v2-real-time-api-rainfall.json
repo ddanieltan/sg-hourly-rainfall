@@ -518,7 +518,7 @@
     ],
     "readings": [
       {
-        "timestamp": "2025-09-07T10:10:00+08:00",
+        "timestamp": "2025-09-07T11:15:00+08:00",
         "data": [
           {
             "stationId": "S219",
@@ -538,7 +538,7 @@
           },
           {
             "stationId": "S215",
-            "value": 0
+            "value": 0.2
           },
           {
             "stationId": "S213",
@@ -546,7 +546,7 @@
           },
           {
             "stationId": "S81",
-            "value": 0
+            "value": 0.2
           },
           {
             "stationId": "S40",
@@ -566,7 +566,7 @@
           },
           {
             "stationId": "S43",
-            "value": 0.2
+            "value": 0
           },
           {
             "stationId": "S221",
@@ -578,27 +578,27 @@
           },
           {
             "stationId": "S08",
-            "value": 0
+            "value": 0.2
           },
           {
             "stationId": "S07",
-            "value": 0.2
+            "value": 0
           },
           {
             "stationId": "S220",
-            "value": 0.2
+            "value": 0
           },
           {
             "stationId": "S208",
-            "value": 0.2
+            "value": 0
           },
           {
             "stationId": "S203",
-            "value": 0.2
+            "value": 0
           },
           {
             "stationId": "S201",
-            "value": 0.2
+            "value": 0
           },
           {
             "stationId": "S90",
@@ -606,11 +606,11 @@
           },
           {
             "stationId": "S92",
-            "value": 0.2
+            "value": 0
           },
           {
             "stationId": "S209",
-            "value": 0.2
+            "value": 0
           },
           {
             "stationId": "S50",
@@ -634,11 +634,11 @@
           },
           {
             "stationId": "S117",
-            "value": 0.2
+            "value": 0
           },
           {
             "stationId": "S115",
-            "value": 0.2
+            "value": 0
           },
           {
             "stationId": "S113",
@@ -650,7 +650,7 @@
           },
           {
             "stationId": "S64",
-            "value": 0
+            "value": 0.2
           },
           {
             "stationId": "S66",
@@ -658,7 +658,7 @@
           },
           {
             "stationId": "S24",
-            "value": 0.2
+            "value": 0
           },
           {
             "stationId": "S69",
@@ -666,7 +666,7 @@
           },
           {
             "stationId": "S123",
-            "value": 0.2
+            "value": 0
           },
           {
             "stationId": "S108",
@@ -674,7 +674,7 @@
           },
           {
             "stationId": "S229",
-            "value": 0.2
+            "value": 0
           },
           {
             "stationId": "S900",
@@ -690,15 +690,15 @@
           },
           {
             "stationId": "S227",
-            "value": 0.2
+            "value": 0
           },
           {
             "stationId": "S107",
-            "value": 0
+            "value": 0.2
           },
           {
             "stationId": "S228",
-            "value": 0
+            "value": 0.2
           },
           {
             "stationId": "S226",
@@ -718,7 +718,7 @@
           },
           {
             "stationId": "S71",
-            "value": 0.2
+            "value": 0
           },
           {
             "stationId": "S33",
@@ -730,15 +730,15 @@
           },
           {
             "stationId": "S79",
-            "value": 0.2
+            "value": 0
           },
           {
             "stationId": "S78",
-            "value": 0.2
+            "value": 0
           },
           {
             "stationId": "S111",
-            "value": 0
+            "value": 0.2
           },
           {
             "stationId": "S112",
@@ -746,7 +746,7 @@
           },
           {
             "stationId": "S230",
-            "value": 0.2
+            "value": 0
           }
         ]
       }
