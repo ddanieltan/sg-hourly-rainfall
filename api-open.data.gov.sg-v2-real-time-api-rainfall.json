@@ -372,6 +372,15 @@
         }
       },
       {
+        "id": "S227",
+        "deviceId": "S227",
+        "name": "Woodlands Drive 62",
+        "location": {
+          "latitude": 1.43944,
+          "longitude": 103.80389
+        }
+      },
+      {
         "id": "S107",
         "deviceId": "S107",
         "name": "East Coast Parkway",
@@ -509,7 +518,7 @@
     ],
     "readings": [
       {
-        "timestamp": "2025-09-23T15:40:00+08:00",
+        "timestamp": "2025-09-23T16:45:00+08:00",
         "data": [
           {
             "stationId": "S219",
@@ -673,6 +682,10 @@
           },
           {
             "stationId": "S106",
+            "value": 0
+          },
+          {
+            "stationId": "S227",
             "value": 0
           },
           {
