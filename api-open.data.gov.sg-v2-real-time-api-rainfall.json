@@ -228,6 +228,15 @@
         }
       },
       {
+        "id": "S211",
+        "deviceId": "S211",
+        "name": "Kranji Road",
+        "location": {
+          "latitude": 1.42918,
+          "longitude": 103.75711
+        }
+      },
+      {
         "id": "S117",
         "deviceId": "S117",
         "name": "Banyan Road",
@@ -500,7 +509,7 @@
     ],
     "readings": [
       {
-        "timestamp": "2025-10-02T13:40:00+08:00",
+        "timestamp": "2025-10-02T14:45:00+08:00",
         "data": [
           {
             "stationId": "S219",
@@ -520,7 +529,7 @@
           },
           {
             "stationId": "S215",
-            "value": 0
+            "value": 0.2
           },
           {
             "stationId": "S213",
@@ -548,11 +557,11 @@
           },
           {
             "stationId": "S43",
-            "value": 0
+            "value": 1
           },
           {
             "stationId": "S221",
-            "value": 0
+            "value": 0.6
           },
           {
             "stationId": "S222",
@@ -572,7 +581,7 @@
           },
           {
             "stationId": "S208",
-            "value": 0
+            "value": 0.2
           },
           {
             "stationId": "S203",
@@ -600,6 +609,10 @@
           },
           {
             "stationId": "S94",
+            "value": 0
+          },
+          {
+            "stationId": "S211",
             "value": 0
           },
           {
@@ -656,7 +669,7 @@
           },
           {
             "stationId": "S106",
-            "value": 0
+            "value": 0.2
           },
           {
             "stationId": "S227",
@@ -688,7 +701,7 @@
           },
           {
             "stationId": "S224",
-            "value": 0
+            "value": 1.4
           },
           {
             "stationId": "S71",
