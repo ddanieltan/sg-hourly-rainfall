@@ -336,6 +336,15 @@
         }
       },
       {
+        "id": "S229",
+        "deviceId": "S229",
+        "name": "Jurong West Street 42",
+        "location": {
+          "latitude": 1.35167,
+          "longitude": 103.72195
+        }
+      },
+      {
         "id": "S900",
         "deviceId": "S900",
         "name": "Seletar Aerospace View",
@@ -509,7 +518,7 @@
     ],
     "readings": [
       {
-        "timestamp": "2025-10-03T11:45:00+08:00",
+        "timestamp": "2025-10-03T12:30:00+08:00",
         "data": [
           {
             "stationId": "S219",
@@ -657,6 +666,10 @@
           },
           {
             "stationId": "S108",
+            "value": 0
+          },
+          {
+            "stationId": "S229",
             "value": 0
           },
           {
