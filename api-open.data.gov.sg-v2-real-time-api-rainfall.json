@@ -408,6 +408,15 @@
         }
       },
       {
+        "id": "S223",
+        "deviceId": "S223",
+        "name": "Margaret Drive",
+        "location": {
+          "latitude": 1.29984,
+          "longitude": 103.80264
+        }
+      },
+      {
         "id": "S224",
         "deviceId": "S224",
         "name": "Airport Boulevard",
@@ -491,7 +500,7 @@
     ],
     "readings": [
       {
-        "timestamp": "2025-10-07T04:40:00+08:00",
+        "timestamp": "2025-10-07T05:40:00+08:00",
         "data": [
           {
             "stationId": "S219",
@@ -507,11 +516,11 @@
           },
           {
             "stationId": "S214",
-            "value": 0
+            "value": 0.2
           },
           {
             "stationId": "S215",
-            "value": 0
+            "value": 0.2
           },
           {
             "stationId": "S213",
@@ -539,15 +548,15 @@
           },
           {
             "stationId": "S43",
-            "value": 0
+            "value": 0.4
           },
           {
             "stationId": "S221",
-            "value": 0
+            "value": 0.2
           },
           {
             "stationId": "S222",
-            "value": 0
+            "value": 0.2
           },
           {
             "stationId": "S08",
@@ -595,7 +604,7 @@
           },
           {
             "stationId": "S119",
-            "value": 0
+            "value": 1.2
           },
           {
             "stationId": "S117",
@@ -611,7 +620,7 @@
           },
           {
             "stationId": "S60",
-            "value": 0
+            "value": 5
           },
           {
             "stationId": "S64",
@@ -631,11 +640,11 @@
           },
           {
             "stationId": "S123",
-            "value": 0
+            "value": 0.6
           },
           {
             "stationId": "S108",
-            "value": 0
+            "value": 1.2
           },
           {
             "stationId": "S229",
@@ -671,7 +680,11 @@
           },
           {
             "stationId": "S102",
-            "value": 0.2
+            "value": 0.6
+          },
+          {
+            "stationId": "S223",
+            "value": 0
           },
           {
             "stationId": "S224",
@@ -691,7 +704,7 @@
           },
           {
             "stationId": "S79",
-            "value": 0
+            "value": 1.4
           },
           {
             "stationId": "S78",
@@ -699,7 +712,7 @@
           },
           {
             "stationId": "S111",
-            "value": 0
+            "value": 0.2
           },
           {
             "stationId": "S112",
