@@ -228,15 +228,6 @@
         }
       },
       {
-        "id": "S119",
-        "deviceId": "S119",
-        "name": "Nicoll Highway",
-        "location": {
-          "latitude": 1.30105,
-          "longitude": 103.8666
-        }
-      },
-      {
         "id": "S117",
         "deviceId": "S117",
         "name": "Banyan Road",
@@ -509,7 +500,7 @@
     ],
     "readings": [
       {
-        "timestamp": "2025-10-06T10:05:00+08:00",
+        "timestamp": "2025-10-06T11:15:00+08:00",
         "data": [
           {
             "stationId": "S219",
@@ -541,7 +532,7 @@
           },
           {
             "stationId": "S40",
-            "value": 0
+            "value": 0.8
           },
           {
             "stationId": "S84",
@@ -549,7 +540,7 @@
           },
           {
             "stationId": "S44",
-            "value": 0
+            "value": 0.8
           },
           {
             "stationId": "S88",
@@ -612,10 +603,6 @@
             "value": 0
           },
           {
-            "stationId": "S119",
-            "value": 0
-          },
-          {
             "stationId": "S117",
             "value": 0
           },
@@ -657,11 +644,11 @@
           },
           {
             "stationId": "S229",
-            "value": 0
+            "value": 4.3
           },
           {
             "stationId": "S900",
-            "value": 0
+            "value": 0.2
           },
           {
             "stationId": "S109",
@@ -673,7 +660,7 @@
           },
           {
             "stationId": "S227",
-            "value": 0
+            "value": 0.2
           },
           {
             "stationId": "S107",
@@ -681,7 +668,7 @@
           },
           {
             "stationId": "S228",
-            "value": 0
+            "value": 0.2
           },
           {
             "stationId": "S104",
@@ -709,7 +696,7 @@
           },
           {
             "stationId": "S33",
-            "value": 0
+            "value": 0.6
           },
           {
             "stationId": "S77",
