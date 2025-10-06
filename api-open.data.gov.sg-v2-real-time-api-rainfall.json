@@ -417,15 +417,6 @@
         }
       },
       {
-        "id": "S223",
-        "deviceId": "S223",
-        "name": "Margaret Drive",
-        "location": {
-          "latitude": 1.29984,
-          "longitude": 103.80264
-        }
-      },
-      {
         "id": "S224",
         "deviceId": "S224",
         "name": "Airport Boulevard",
@@ -509,7 +500,7 @@
     ],
     "readings": [
       {
-        "timestamp": "2025-10-06T14:40:00+08:00",
+        "timestamp": "2025-10-06T15:40:00+08:00",
         "data": [
           {
             "stationId": "S219",
@@ -609,7 +600,7 @@
           },
           {
             "stationId": "S211",
-            "value": 7.4
+            "value": 0.4
           },
           {
             "stationId": "S119",
@@ -633,11 +624,11 @@
           },
           {
             "stationId": "S64",
-            "value": 0.8
+            "value": 0
           },
           {
             "stationId": "S66",
-            "value": 3.8
+            "value": 0.4
           },
           {
             "stationId": "S24",
@@ -685,7 +676,7 @@
           },
           {
             "stationId": "S104",
-            "value": 0
+            "value": 0.2
           },
           {
             "stationId": "S226",
@@ -693,10 +684,6 @@
           },
           {
             "stationId": "S102",
-            "value": 0
-          },
-          {
-            "stationId": "S223",
             "value": 0
           },
           {
@@ -729,7 +716,7 @@
           },
           {
             "stationId": "S112",
-            "value": 0.2
+            "value": 0.4
           },
           {
             "stationId": "S230",
