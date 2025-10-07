@@ -354,15 +354,6 @@
         }
       },
       {
-        "id": "S106",
-        "deviceId": "S106",
-        "name": "Pulau Ubin",
-        "location": {
-          "latitude": 1.4168,
-          "longitude": 103.9673
-        }
-      },
-      {
         "id": "S227",
         "deviceId": "S227",
         "name": "Woodlands Drive 62",
@@ -405,15 +396,6 @@
         "location": {
           "latitude": 1.189,
           "longitude": 103.768
-        }
-      },
-      {
-        "id": "S223",
-        "deviceId": "S223",
-        "name": "Margaret Drive",
-        "location": {
-          "latitude": 1.29984,
-          "longitude": 103.80264
         }
       },
       {
@@ -500,7 +482,7 @@
     ],
     "readings": [
       {
-        "timestamp": "2025-10-08T06:40:00+08:00",
+        "timestamp": "2025-10-08T07:40:00+08:00",
         "data": [
           {
             "stationId": "S219",
@@ -659,10 +641,6 @@
             "value": 0
           },
           {
-            "stationId": "S106",
-            "value": 0
-          },
-          {
             "stationId": "S227",
             "value": 0
           },
@@ -680,10 +658,6 @@
           },
           {
             "stationId": "S102",
-            "value": 0
-          },
-          {
-            "stationId": "S223",
             "value": 0
           },
           {
