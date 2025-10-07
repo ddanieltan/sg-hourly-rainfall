@@ -111,6 +111,15 @@
         }
       },
       {
+        "id": "S221",
+        "deviceId": "S221",
+        "name": "Hougang Avenue 1",
+        "location": {
+          "latitude": 1.35691,
+          "longitude": 103.89088
+        }
+      },
+      {
         "id": "S222",
         "deviceId": "S222",
         "name": "Henderson Road",
@@ -491,7 +500,7 @@
     ],
     "readings": [
       {
-        "timestamp": "2025-10-07T11:10:00+08:00",
+        "timestamp": "2025-10-07T11:45:00+08:00",
         "data": [
           {
             "stationId": "S219",
@@ -499,11 +508,11 @@
           },
           {
             "stationId": "S216",
-            "value": 0
+            "value": 0.2
           },
           {
             "stationId": "S217",
-            "value": 0
+            "value": 1.2
           },
           {
             "stationId": "S214",
@@ -515,7 +524,7 @@
           },
           {
             "stationId": "S213",
-            "value": 0
+            "value": 0.8
           },
           {
             "stationId": "S81",
@@ -535,10 +544,14 @@
           },
           {
             "stationId": "S88",
-            "value": 0
+            "value": 2
           },
           {
             "stationId": "S43",
+            "value": 0
+          },
+          {
+            "stationId": "S221",
             "value": 0
           },
           {
@@ -547,11 +560,11 @@
           },
           {
             "stationId": "S08",
-            "value": 0
+            "value": 4.8
           },
           {
             "stationId": "S07",
-            "value": 0
+            "value": 4.6
           },
           {
             "stationId": "S220",
@@ -567,11 +580,11 @@
           },
           {
             "stationId": "S201",
-            "value": 0
+            "value": 0.6
           },
           {
             "stationId": "S90",
-            "value": 0
+            "value": 0.2
           },
           {
             "stationId": "S92",
@@ -579,7 +592,7 @@
           },
           {
             "stationId": "S209",
-            "value": 0
+            "value": 0.6
           },
           {
             "stationId": "S94",
@@ -587,7 +600,7 @@
           },
           {
             "stationId": "S211",
-            "value": 0
+            "value": 0.2
           },
           {
             "stationId": "S119",
@@ -595,7 +608,7 @@
           },
           {
             "stationId": "S117",
-            "value": 0.2
+            "value": 0
           },
           {
             "stationId": "S115",
@@ -623,7 +636,7 @@
           },
           {
             "stationId": "S69",
-            "value": 0
+            "value": 3.8
           },
           {
             "stationId": "S123",
@@ -651,7 +664,7 @@
           },
           {
             "stationId": "S227",
-            "value": 0
+            "value": 0.2
           },
           {
             "stationId": "S107",
@@ -683,7 +696,7 @@
           },
           {
             "stationId": "S33",
-            "value": 0.2
+            "value": 0
           },
           {
             "stationId": "S77",
@@ -703,11 +716,11 @@
           },
           {
             "stationId": "S112",
-            "value": 0
+            "value": 1
           },
           {
             "stationId": "S230",
-            "value": 0
+            "value": 0.6
           }
         ]
       }
