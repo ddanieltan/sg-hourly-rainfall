@@ -111,15 +111,6 @@
         }
       },
       {
-        "id": "S221",
-        "deviceId": "S221",
-        "name": "Hougang Avenue 1",
-        "location": {
-          "latitude": 1.35691,
-          "longitude": 103.89088
-        }
-      },
-      {
         "id": "S222",
         "deviceId": "S222",
         "name": "Henderson Road",
@@ -500,7 +491,7 @@
     ],
     "readings": [
       {
-        "timestamp": "2025-10-07T10:05:00+08:00",
+        "timestamp": "2025-10-07T11:10:00+08:00",
         "data": [
           {
             "stationId": "S219",
@@ -548,10 +539,6 @@
           },
           {
             "stationId": "S43",
-            "value": 0
-          },
-          {
-            "stationId": "S221",
             "value": 0
           },
           {
@@ -608,7 +595,7 @@
           },
           {
             "stationId": "S117",
-            "value": 0
+            "value": 0.2
           },
           {
             "stationId": "S115",
@@ -696,7 +683,7 @@
           },
           {
             "stationId": "S33",
-            "value": 0
+            "value": 0.2
           },
           {
             "stationId": "S77",
