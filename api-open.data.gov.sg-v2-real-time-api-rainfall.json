@@ -129,6 +129,15 @@
         }
       },
       {
+        "id": "S08",
+        "deviceId": "S08",
+        "name": "Upper Thomson Road",
+        "location": {
+          "latitude": 1.3701,
+          "longitude": 103.8271
+        }
+      },
+      {
         "id": "S07",
         "deviceId": "S07",
         "name": "Lornie Road",
@@ -491,7 +500,7 @@
     ],
     "readings": [
       {
-        "timestamp": "2025-10-09T11:45:00+08:00",
+        "timestamp": "2025-10-09T12:40:00+08:00",
         "data": [
           {
             "stationId": "S219",
@@ -550,6 +559,10 @@
             "value": 0
           },
           {
+            "stationId": "S08",
+            "value": 0
+          },
+          {
             "stationId": "S07",
             "value": 0
           },
@@ -563,7 +576,7 @@
           },
           {
             "stationId": "S203",
-            "value": 0.2
+            "value": 0
           },
           {
             "stationId": "S201",
@@ -595,7 +608,7 @@
           },
           {
             "stationId": "S117",
-            "value": 0.2
+            "value": 0
           },
           {
             "stationId": "S115",
@@ -667,7 +680,7 @@
           },
           {
             "stationId": "S102",
-            "value": 0.2
+            "value": 0
           },
           {
             "stationId": "S223",
