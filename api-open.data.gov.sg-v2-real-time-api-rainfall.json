@@ -228,6 +228,15 @@
         }
       },
       {
+        "id": "S119",
+        "deviceId": "S119",
+        "name": "Nicoll Highway",
+        "location": {
+          "latitude": 1.30105,
+          "longitude": 103.8666
+        }
+      },
+      {
         "id": "S117",
         "deviceId": "S117",
         "name": "Banyan Road",
@@ -491,7 +500,7 @@
     ],
     "readings": [
       {
-        "timestamp": "2025-10-13T15:40:00+08:00",
+        "timestamp": "2025-10-13T16:45:00+08:00",
         "data": [
           {
             "stationId": "S219",
@@ -523,7 +532,7 @@
           },
           {
             "stationId": "S40",
-            "value": 0
+            "value": 1
           },
           {
             "stationId": "S84",
@@ -594,6 +603,10 @@
             "value": 0
           },
           {
+            "stationId": "S119",
+            "value": 0
+          },
+          {
             "stationId": "S117",
             "value": 0
           },
@@ -615,7 +628,7 @@
           },
           {
             "stationId": "S66",
-            "value": 0
+            "value": 0.2
           },
           {
             "stationId": "S24",
@@ -651,7 +664,7 @@
           },
           {
             "stationId": "S227",
-            "value": 0
+            "value": 0.8
           },
           {
             "stationId": "S107",
@@ -703,7 +716,7 @@
           },
           {
             "stationId": "S112",
-            "value": 0
+            "value": 0.4
           },
           {
             "stationId": "S230",
