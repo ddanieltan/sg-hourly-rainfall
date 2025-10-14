@@ -453,6 +453,15 @@
         }
       },
       {
+        "id": "S79",
+        "deviceId": "S79",
+        "name": "Somerset Road",
+        "location": {
+          "latitude": 1.3004,
+          "longitude": 103.8372
+        }
+      },
+      {
         "id": "S78",
         "deviceId": "S78",
         "name": "Poole Road",
@@ -491,7 +500,7 @@
     ],
     "readings": [
       {
-        "timestamp": "2025-10-14T10:05:00+08:00",
+        "timestamp": "2025-10-14T11:15:00+08:00",
         "data": [
           {
             "stationId": "S219",
@@ -691,6 +700,10 @@
           },
           {
             "stationId": "S77",
+            "value": 0
+          },
+          {
+            "stationId": "S79",
             "value": 0
           },
           {
