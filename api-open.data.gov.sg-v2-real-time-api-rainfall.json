@@ -507,15 +507,6 @@
         }
       },
       {
-        "id": "S112",
-        "deviceId": "S112",
-        "name": "Lim Chu Kang Road",
-        "location": {
-          "latitude": 1.43854,
-          "longitude": 103.70131
-        }
-      },
-      {
         "id": "S230",
         "deviceId": "S230",
         "name": "West Coast Road",
@@ -527,7 +518,7 @@
     ],
     "readings": [
       {
-        "timestamp": "2025-10-16T12:40:00+08:00",
+        "timestamp": "2025-10-16T13:40:00+08:00",
         "data": [
           {
             "stationId": "S219",
@@ -535,11 +526,11 @@
           },
           {
             "stationId": "S216",
-            "value": 0
+            "value": 2.4
           },
           {
             "stationId": "S217",
-            "value": 0
+            "value": 2.8
           },
           {
             "stationId": "S214",
@@ -551,7 +542,7 @@
           },
           {
             "stationId": "S213",
-            "value": 0
+            "value": 0.6
           },
           {
             "stationId": "S81",
@@ -559,7 +550,7 @@
           },
           {
             "stationId": "S40",
-            "value": 0
+            "value": 0.6
           },
           {
             "stationId": "S84",
@@ -571,19 +562,19 @@
           },
           {
             "stationId": "S88",
-            "value": 0
+            "value": 3
           },
           {
             "stationId": "S43",
-            "value": 0
+            "value": 0.2
           },
           {
             "stationId": "S06",
-            "value": 0
+            "value": 0.4
           },
           {
             "stationId": "S221",
-            "value": 0
+            "value": 0.8
           },
           {
             "stationId": "S222",
@@ -591,11 +582,11 @@
           },
           {
             "stationId": "S08",
-            "value": 0
+            "value": 4.8
           },
           {
             "stationId": "S07",
-            "value": 0
+            "value": 2
           },
           {
             "stationId": "S220",
@@ -623,7 +614,7 @@
           },
           {
             "stationId": "S209",
-            "value": 0
+            "value": 2.2
           },
           {
             "stationId": "S50",
@@ -663,7 +654,7 @@
           },
           {
             "stationId": "S66",
-            "value": 0
+            "value": 0.2
           },
           {
             "stationId": "S24",
@@ -691,7 +682,7 @@
           },
           {
             "stationId": "S109",
-            "value": 0
+            "value": 4.6
           },
           {
             "stationId": "S106",
@@ -699,7 +690,7 @@
           },
           {
             "stationId": "S227",
-            "value": 0
+            "value": 4.8
           },
           {
             "stationId": "S107",
@@ -743,7 +734,7 @@
           },
           {
             "stationId": "S79",
-            "value": 0
+            "value": 0.4
           },
           {
             "stationId": "S78",
@@ -751,11 +742,7 @@
           },
           {
             "stationId": "S111",
-            "value": 0
-          },
-          {
-            "stationId": "S112",
-            "value": 0
+            "value": 0.2
           },
           {
             "stationId": "S230",
