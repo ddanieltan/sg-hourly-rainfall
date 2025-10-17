@@ -527,7 +527,7 @@
     ],
     "readings": [
       {
-        "timestamp": "2025-10-17T11:45:00+08:00",
+        "timestamp": "2025-10-17T12:40:00+08:00",
         "data": [
           {
             "stationId": "S219",
@@ -535,7 +535,7 @@
           },
           {
             "stationId": "S216",
-            "value": 0
+            "value": 0.2
           },
           {
             "stationId": "S217",
@@ -555,7 +555,7 @@
           },
           {
             "stationId": "S81",
-            "value": 0
+            "value": 0.6
           },
           {
             "stationId": "S40",
@@ -575,7 +575,7 @@
           },
           {
             "stationId": "S43",
-            "value": 5
+            "value": 0
           },
           {
             "stationId": "S06",
@@ -599,7 +599,7 @@
           },
           {
             "stationId": "S220",
-            "value": 0
+            "value": 0.4
           },
           {
             "stationId": "S208",
@@ -615,7 +615,7 @@
           },
           {
             "stationId": "S90",
-            "value": 0.2
+            "value": 0
           },
           {
             "stationId": "S92",
@@ -667,7 +667,7 @@
           },
           {
             "stationId": "S24",
-            "value": 0
+            "value": 2
           },
           {
             "stationId": "S69",
@@ -675,7 +675,7 @@
           },
           {
             "stationId": "S123",
-            "value": 0.2
+            "value": 0
           },
           {
             "stationId": "S108",
@@ -723,7 +723,7 @@
           },
           {
             "stationId": "S224",
-            "value": 0
+            "value": 2.2
           },
           {
             "stationId": "S71",
@@ -743,7 +743,7 @@
           },
           {
             "stationId": "S79",
-            "value": 0.2
+            "value": 0
           },
           {
             "stationId": "S78",
@@ -751,7 +751,7 @@
           },
           {
             "stationId": "S111",
-            "value": 1
+            "value": 0
           },
           {
             "stationId": "S112",
