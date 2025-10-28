@@ -111,21 +111,21 @@
         }
       },
       {
-        "id": "S06",
-        "deviceId": "S06",
-        "name": "Paya Lebar",
-        "location": {
-          "latitude": 1.3524,
-          "longitude": 103.9007
-        }
-      },
-      {
         "id": "S221",
         "deviceId": "S221",
         "name": "Hougang Avenue 1",
         "location": {
           "latitude": 1.35691,
           "longitude": 103.89088
+        }
+      },
+      {
+        "id": "S06",
+        "deviceId": "S06",
+        "name": "Paya Lebar",
+        "location": {
+          "latitude": 1.3524,
+          "longitude": 103.9007
         }
       },
       {
@@ -507,15 +507,6 @@
         }
       },
       {
-        "id": "S112",
-        "deviceId": "S112",
-        "name": "Lim Chu Kang Road",
-        "location": {
-          "latitude": 1.43854,
-          "longitude": 103.70131
-        }
-      },
-      {
         "id": "S230",
         "deviceId": "S230",
         "name": "West Coast Road",
@@ -527,7 +518,7 @@
     ],
     "readings": [
       {
-        "timestamp": "2025-10-28T14:50:00+08:00",
+        "timestamp": "2025-10-28T15:40:00+08:00",
         "data": [
           {
             "stationId": "S219",
@@ -578,11 +569,11 @@
             "value": 0
           },
           {
-            "stationId": "S06",
+            "stationId": "S221",
             "value": 0
           },
           {
-            "stationId": "S221",
+            "stationId": "S06",
             "value": 0
           },
           {
@@ -751,10 +742,6 @@
           },
           {
             "stationId": "S111",
-            "value": 0
-          },
-          {
-            "stationId": "S112",
             "value": 0
           },
           {
