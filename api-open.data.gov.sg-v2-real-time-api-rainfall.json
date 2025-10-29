@@ -300,6 +300,15 @@
         }
       },
       {
+        "id": "S66",
+        "deviceId": "S66",
+        "name": "Kranji Way",
+        "location": {
+          "latitude": 1.4387,
+          "longitude": 103.7363
+        }
+      },
+      {
         "id": "S24",
         "deviceId": "S24",
         "name": "Upper Changi Road North",
@@ -498,6 +507,15 @@
         }
       },
       {
+        "id": "S112",
+        "deviceId": "S112",
+        "name": "Lim Chu Kang Road",
+        "location": {
+          "latitude": 1.43854,
+          "longitude": 103.70131
+        }
+      },
+      {
         "id": "S230",
         "deviceId": "S230",
         "name": "West Coast Road",
@@ -509,7 +527,7 @@
     ],
     "readings": [
       {
-        "timestamp": "2025-10-29T14:50:00+08:00",
+        "timestamp": "2025-10-29T15:40:00+08:00",
         "data": [
           {
             "stationId": "S219",
@@ -644,6 +662,10 @@
             "value": 0
           },
           {
+            "stationId": "S66",
+            "value": 0
+          },
+          {
             "stationId": "S24",
             "value": 0
           },
@@ -729,6 +751,10 @@
           },
           {
             "stationId": "S111",
+            "value": 0
+          },
+          {
+            "stationId": "S112",
             "value": 0
           },
           {
