@@ -498,15 +498,6 @@
         }
       },
       {
-        "id": "S112",
-        "deviceId": "S112",
-        "name": "Lim Chu Kang Road",
-        "location": {
-          "latitude": 1.43854,
-          "longitude": 103.70131
-        }
-      },
-      {
         "id": "S230",
         "deviceId": "S230",
         "name": "West Coast Road",
@@ -518,7 +509,7 @@
     ],
     "readings": [
       {
-        "timestamp": "2025-10-29T13:40:00+08:00",
+        "timestamp": "2025-10-29T14:50:00+08:00",
         "data": [
           {
             "stationId": "S219",
@@ -738,10 +729,6 @@
           },
           {
             "stationId": "S111",
-            "value": 0
-          },
-          {
-            "stationId": "S112",
             "value": 0
           },
           {
