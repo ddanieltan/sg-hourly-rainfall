@@ -462,6 +462,15 @@
         }
       },
       {
+        "id": "S77",
+        "deviceId": "S77",
+        "name": "Alexandra Road",
+        "location": {
+          "latitude": 1.2937,
+          "longitude": 103.8125
+        }
+      },
+      {
         "id": "S35",
         "deviceId": "S35",
         "name": "Old Toh Tuck Road",
@@ -518,7 +527,7 @@
     ],
     "readings": [
       {
-        "timestamp": "2025-10-30T11:25:00+08:00",
+        "timestamp": "2025-10-30T11:50:00+08:00",
         "data": [
           {
             "stationId": "S219",
@@ -722,6 +731,10 @@
           },
           {
             "stationId": "S33",
+            "value": 0
+          },
+          {
+            "stationId": "S77",
             "value": 0
           },
           {
