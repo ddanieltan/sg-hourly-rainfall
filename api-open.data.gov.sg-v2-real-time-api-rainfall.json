@@ -147,6 +147,15 @@
         }
       },
       {
+        "id": "S07",
+        "deviceId": "S07",
+        "name": "Lornie Road",
+        "location": {
+          "latitude": 1.3415,
+          "longitude": 103.8334
+        }
+      },
+      {
         "id": "S220",
         "deviceId": "S220",
         "name": "Compassvale Lane",
@@ -453,15 +462,6 @@
         }
       },
       {
-        "id": "S77",
-        "deviceId": "S77",
-        "name": "Alexandra Road",
-        "location": {
-          "latitude": 1.2937,
-          "longitude": 103.8125
-        }
-      },
-      {
         "id": "S35",
         "deviceId": "S35",
         "name": "Old Toh Tuck Road",
@@ -518,7 +518,7 @@
     ],
     "readings": [
       {
-        "timestamp": "2025-10-30T10:15:00+08:00",
+        "timestamp": "2025-10-30T11:25:00+08:00",
         "data": [
           {
             "stationId": "S219",
@@ -582,6 +582,10 @@
           },
           {
             "stationId": "S08",
+            "value": 0
+          },
+          {
+            "stationId": "S07",
             "value": 0
           },
           {
@@ -718,10 +722,6 @@
           },
           {
             "stationId": "S33",
-            "value": 0
-          },
-          {
-            "stationId": "S77",
             "value": 0
           },
           {
