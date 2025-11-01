@@ -390,15 +390,6 @@
         }
       },
       {
-        "id": "S107",
-        "deviceId": "S107",
-        "name": "East Coast Parkway",
-        "location": {
-          "latitude": 1.3135,
-          "longitude": 103.9625
-        }
-      },
-      {
         "id": "S228",
         "deviceId": "S228",
         "name": "Jurong West Street 73",
@@ -527,7 +518,7 @@
     ],
     "readings": [
       {
-        "timestamp": "2025-11-01T07:40:00+08:00",
+        "timestamp": "2025-11-01T10:15:00+08:00",
         "data": [
           {
             "stationId": "S219",
@@ -699,10 +690,6 @@
           },
           {
             "stationId": "S227",
-            "value": 0
-          },
-          {
-            "stationId": "S107",
             "value": 0
           },
           {
