@@ -237,6 +237,15 @@
         }
       },
       {
+        "id": "S210",
+        "deviceId": "S210",
+        "name": "Woodlands Centre",
+        "location": {
+          "latitude": 1.44003,
+          "longitude": 103.76904
+        }
+      },
+      {
         "id": "S211",
         "deviceId": "S211",
         "name": "Kranji Road",
@@ -270,6 +279,15 @@
         "location": {
           "latitude": 1.29377,
           "longitude": 103.61843
+        }
+      },
+      {
+        "id": "S116",
+        "deviceId": "S116",
+        "name": "West Coast Highway",
+        "location": {
+          "latitude": 1.281,
+          "longitude": 103.754
         }
       },
       {
@@ -527,7 +545,7 @@
     ],
     "readings": [
       {
-        "timestamp": "2025-11-03T15:40:00+08:00",
+        "timestamp": "2025-11-03T16:50:00+08:00",
         "data": [
           {
             "stationId": "S219",
@@ -634,6 +652,10 @@
             "value": 0
           },
           {
+            "stationId": "S210",
+            "value": 0
+          },
+          {
             "stationId": "S211",
             "value": 0
           },
@@ -647,6 +669,10 @@
           },
           {
             "stationId": "S115",
+            "value": 0
+          },
+          {
+            "stationId": "S116",
             "value": 0
           },
           {
