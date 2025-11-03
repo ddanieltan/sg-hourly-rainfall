@@ -165,6 +165,15 @@
         }
       },
       {
+        "id": "S208",
+        "deviceId": "S208",
+        "name": "Changi East Close",
+        "location": {
+          "latitude": 1.3136,
+          "longitude": 104.00317
+        }
+      },
+      {
         "id": "S203",
         "deviceId": "S203",
         "name": "Pasir Panjang",
@@ -297,6 +306,15 @@
         "location": {
           "latitude": 1.4387,
           "longitude": 103.7363
+        }
+      },
+      {
+        "id": "S24",
+        "deviceId": "S24",
+        "name": "Upper Changi Road North",
+        "location": {
+          "latitude": 1.3678,
+          "longitude": 103.9826
         }
       },
       {
@@ -509,7 +527,7 @@
     ],
     "readings": [
       {
-        "timestamp": "2025-11-03T10:15:00+08:00",
+        "timestamp": "2025-11-03T11:35:00+08:00",
         "data": [
           {
             "stationId": "S219",
@@ -584,6 +602,10 @@
             "value": 0
           },
           {
+            "stationId": "S208",
+            "value": 0
+          },
+          {
             "stationId": "S203",
             "value": 0
           },
@@ -641,6 +663,10 @@
           },
           {
             "stationId": "S66",
+            "value": 0
+          },
+          {
+            "stationId": "S24",
             "value": 0
           },
           {
