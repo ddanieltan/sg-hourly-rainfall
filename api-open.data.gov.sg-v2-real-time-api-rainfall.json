@@ -147,6 +147,15 @@
         }
       },
       {
+        "id": "S07",
+        "deviceId": "S07",
+        "name": "Lornie Road",
+        "location": {
+          "latitude": 1.3415,
+          "longitude": 103.8334
+        }
+      },
+      {
         "id": "S220",
         "deviceId": "S220",
         "name": "Compassvale Lane",
@@ -192,12 +201,30 @@
         }
       },
       {
+        "id": "S92",
+        "deviceId": "S92",
+        "name": "South Buona Vista Road",
+        "location": {
+          "latitude": 1.2841,
+          "longitude": 103.7886
+        }
+      },
+      {
         "id": "S209",
         "deviceId": "S209",
         "name": "Yishun Ring Road",
         "location": {
           "latitude": 1.42111,
           "longitude": 103.84472
+        }
+      },
+      {
+        "id": "S50",
+        "deviceId": "S50",
+        "name": "Clementi Road",
+        "location": {
+          "latitude": 1.3337,
+          "longitude": 103.7768
         }
       },
       {
@@ -273,12 +300,30 @@
         }
       },
       {
+        "id": "S60",
+        "deviceId": "S60",
+        "name": "Sentosa",
+        "location": {
+          "latitude": 1.25,
+          "longitude": 103.8279
+        }
+      },
+      {
         "id": "S64",
         "deviceId": "S64",
         "name": "Bukit Panjang Road",
         "location": {
           "latitude": 1.3824,
           "longitude": 103.7603
+        }
+      },
+      {
+        "id": "S66",
+        "deviceId": "S66",
+        "name": "Kranji Way",
+        "location": {
+          "latitude": 1.4387,
+          "longitude": 103.7363
         }
       },
       {
@@ -471,6 +516,15 @@
         }
       },
       {
+        "id": "S112",
+        "deviceId": "S112",
+        "name": "Lim Chu Kang Road",
+        "location": {
+          "latitude": 1.43854,
+          "longitude": 103.70131
+        }
+      },
+      {
         "id": "S230",
         "deviceId": "S230",
         "name": "West Coast Road",
@@ -482,7 +536,7 @@
     ],
     "readings": [
       {
-        "timestamp": "2025-11-04T11:25:00+08:00",
+        "timestamp": "2025-11-04T11:50:00+08:00",
         "data": [
           {
             "stationId": "S219",
@@ -549,6 +603,10 @@
             "value": 0
           },
           {
+            "stationId": "S07",
+            "value": 0
+          },
+          {
             "stationId": "S220",
             "value": 0
           },
@@ -569,7 +627,15 @@
             "value": 0
           },
           {
+            "stationId": "S92",
+            "value": 0
+          },
+          {
             "stationId": "S209",
+            "value": 0
+          },
+          {
+            "stationId": "S50",
             "value": 0
           },
           {
@@ -605,7 +671,15 @@
             "value": 0
           },
           {
+            "stationId": "S60",
+            "value": 0
+          },
+          {
             "stationId": "S64",
+            "value": 0
+          },
+          {
+            "stationId": "S66",
             "value": 0
           },
           {
@@ -690,6 +764,10 @@
           },
           {
             "stationId": "S111",
+            "value": 0
+          },
+          {
+            "stationId": "S112",
             "value": 0
           },
           {
