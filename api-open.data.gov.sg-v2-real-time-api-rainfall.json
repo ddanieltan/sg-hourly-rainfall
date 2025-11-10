@@ -66,39 +66,12 @@
         }
       },
       {
-        "id": "S40",
-        "deviceId": "S40",
-        "name": "Mandai Lake Road",
-        "location": {
-          "latitude": 1.4044,
-          "longitude": 103.78962
-        }
-      },
-      {
         "id": "S84",
         "deviceId": "S84",
         "name": "Simei Avenue",
         "location": {
           "latitude": 1.3437,
           "longitude": 103.9444
-        }
-      },
-      {
-        "id": "S44",
-        "deviceId": "S44",
-        "name": "Nanyang Avenue",
-        "location": {
-          "latitude": 1.34583,
-          "longitude": 103.68166
-        }
-      },
-      {
-        "id": "S43",
-        "deviceId": "S43",
-        "name": "Kim Chuan Road",
-        "location": {
-          "latitude": 1.3399,
-          "longitude": 103.8878
         }
       },
       {
@@ -435,15 +408,6 @@
         }
       },
       {
-        "id": "S71",
-        "deviceId": "S71",
-        "name": "Kent Ridge Road",
-        "location": {
-          "latitude": 1.2923,
-          "longitude": 103.7815
-        }
-      },
-      {
         "id": "S33",
         "deviceId": "S33",
         "name": "Jurong Pier Road",
@@ -518,7 +482,7 @@
     ],
     "readings": [
       {
-        "timestamp": "2025-11-11T01:40:00+08:00",
+        "timestamp": "2025-11-11T02:45:00+08:00",
         "data": [
           {
             "stationId": "S219",
@@ -549,19 +513,7 @@
             "value": 0
           },
           {
-            "stationId": "S40",
-            "value": 0
-          },
-          {
             "stationId": "S84",
-            "value": 0
-          },
-          {
-            "stationId": "S44",
-            "value": 0
-          },
-          {
-            "stationId": "S43",
             "value": 0
           },
           {
@@ -710,10 +662,6 @@
           },
           {
             "stationId": "S224",
-            "value": 0
-          },
-          {
-            "stationId": "S71",
             "value": 0
           },
           {
