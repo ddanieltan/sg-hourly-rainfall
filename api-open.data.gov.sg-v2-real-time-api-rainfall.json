@@ -444,6 +444,15 @@
         }
       },
       {
+        "id": "S71",
+        "deviceId": "S71",
+        "name": "Kent Ridge Road",
+        "location": {
+          "latitude": 1.2923,
+          "longitude": 103.7815
+        }
+      },
+      {
         "id": "S33",
         "deviceId": "S33",
         "name": "Jurong Pier Road",
@@ -518,7 +527,7 @@
     ],
     "readings": [
       {
-        "timestamp": "2025-11-12T14:50:00+08:00",
+        "timestamp": "2025-11-12T15:40:00+08:00",
         "data": [
           {
             "stationId": "S219",
@@ -574,7 +583,7 @@
           },
           {
             "stationId": "S222",
-            "value": 0
+            "value": 1.4
           },
           {
             "stationId": "S08",
@@ -670,7 +679,7 @@
           },
           {
             "stationId": "S108",
-            "value": 0
+            "value": 0.2
           },
           {
             "stationId": "S229",
@@ -710,10 +719,14 @@
           },
           {
             "stationId": "S223",
-            "value": 0
+            "value": 0.6
           },
           {
             "stationId": "S224",
+            "value": 0
+          },
+          {
+            "stationId": "S71",
             "value": 0
           },
           {
@@ -722,7 +735,7 @@
           },
           {
             "stationId": "S77",
-            "value": 0
+            "value": 1.8
           },
           {
             "stationId": "S35",
