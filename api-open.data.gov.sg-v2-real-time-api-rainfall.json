@@ -273,6 +273,15 @@
         }
       },
       {
+        "id": "S113",
+        "deviceId": "S113",
+        "name": "Marine Parade Road",
+        "location": {
+          "latitude": 1.30648,
+          "longitude": 103.9104
+        }
+      },
+      {
         "id": "S60",
         "deviceId": "S60",
         "name": "Sentosa",
@@ -518,7 +527,7 @@
     ],
     "readings": [
       {
-        "timestamp": "2025-11-14T16:45:00+08:00",
+        "timestamp": "2025-11-14T17:45:00+08:00",
         "data": [
           {
             "stationId": "S219",
@@ -546,7 +555,7 @@
           },
           {
             "stationId": "S81",
-            "value": 0.6
+            "value": 0
           },
           {
             "stationId": "S40",
@@ -590,7 +599,7 @@
           },
           {
             "stationId": "S208",
-            "value": 2.7
+            "value": 0
           },
           {
             "stationId": "S203",
@@ -610,7 +619,7 @@
           },
           {
             "stationId": "S209",
-            "value": 0.2
+            "value": 0
           },
           {
             "stationId": "S50",
@@ -622,7 +631,7 @@
           },
           {
             "stationId": "S210",
-            "value": 0
+            "value": 0.2
           },
           {
             "stationId": "S211",
@@ -634,11 +643,15 @@
           },
           {
             "stationId": "S117",
-            "value": 0
+            "value": 0.2
           },
           {
             "stationId": "S115",
             "value": 0.2
+          },
+          {
+            "stationId": "S113",
+            "value": 0
           },
           {
             "stationId": "S60",
@@ -654,7 +667,7 @@
           },
           {
             "stationId": "S24",
-            "value": 0
+            "value": 0.2
           },
           {
             "stationId": "S69",
@@ -674,7 +687,7 @@
           },
           {
             "stationId": "S900",
-            "value": 0.4
+            "value": 0
           },
           {
             "stationId": "S109",
@@ -682,7 +695,7 @@
           },
           {
             "stationId": "S106",
-            "value": 4.8
+            "value": 0.2
           },
           {
             "stationId": "S227",
@@ -694,7 +707,7 @@
           },
           {
             "stationId": "S228",
-            "value": 0.2
+            "value": 0
           },
           {
             "stationId": "S226",
@@ -718,7 +731,7 @@
           },
           {
             "stationId": "S33",
-            "value": 0
+            "value": 0.2
           },
           {
             "stationId": "S77",
@@ -726,7 +739,7 @@
           },
           {
             "stationId": "S35",
-            "value": 0.2
+            "value": 0
           },
           {
             "stationId": "S79",
