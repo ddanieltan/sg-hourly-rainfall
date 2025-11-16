@@ -417,15 +417,6 @@
         }
       },
       {
-        "id": "S102",
-        "deviceId": "S102",
-        "name": "Semakau Landfill",
-        "location": {
-          "latitude": 1.189,
-          "longitude": 103.768
-        }
-      },
-      {
         "id": "S223",
         "deviceId": "S223",
         "name": "Margaret Drive",
@@ -527,7 +518,7 @@
     ],
     "readings": [
       {
-        "timestamp": "2025-11-16T13:40:00+08:00",
+        "timestamp": "2025-11-16T14:45:00+08:00",
         "data": [
           {
             "stationId": "S219",
@@ -547,7 +538,7 @@
           },
           {
             "stationId": "S215",
-            "value": 0
+            "value": 0.2
           },
           {
             "stationId": "S213",
@@ -563,7 +554,7 @@
           },
           {
             "stationId": "S84",
-            "value": 0
+            "value": 0.2
           },
           {
             "stationId": "S44",
@@ -631,7 +622,7 @@
           },
           {
             "stationId": "S210",
-            "value": 0.2
+            "value": 0
           },
           {
             "stationId": "S211",
@@ -639,7 +630,7 @@
           },
           {
             "stationId": "S119",
-            "value": 0
+            "value": 0.2
           },
           {
             "stationId": "S117",
@@ -683,7 +674,7 @@
           },
           {
             "stationId": "S229",
-            "value": 0.2
+            "value": 0
           },
           {
             "stationId": "S900",
@@ -703,7 +694,7 @@
           },
           {
             "stationId": "S107",
-            "value": 0
+            "value": 0.2
           },
           {
             "stationId": "S228",
@@ -714,16 +705,12 @@
             "value": 0
           },
           {
-            "stationId": "S102",
-            "value": 0.4
-          },
-          {
             "stationId": "S223",
             "value": 0
           },
           {
             "stationId": "S224",
-            "value": 0.2
+            "value": 0
           },
           {
             "stationId": "S71",
@@ -747,7 +734,7 @@
           },
           {
             "stationId": "S78",
-            "value": 0.2
+            "value": 0
           },
           {
             "stationId": "S111",
