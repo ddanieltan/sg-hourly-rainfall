@@ -93,6 +93,15 @@
         }
       },
       {
+        "id": "S88",
+        "deviceId": "S88",
+        "name": "Toa Payoh North",
+        "location": {
+          "latitude": 1.3427,
+          "longitude": 103.8482
+        }
+      },
+      {
         "id": "S43",
         "deviceId": "S43",
         "name": "Kim Chuan Road",
@@ -518,7 +527,7 @@
     ],
     "readings": [
       {
-        "timestamp": "2025-11-18T11:50:00+08:00",
+        "timestamp": "2025-11-18T12:45:00+08:00",
         "data": [
           {
             "stationId": "S219",
@@ -558,6 +567,10 @@
           },
           {
             "stationId": "S44",
+            "value": 0
+          },
+          {
+            "stationId": "S88",
             "value": 0
           },
           {
