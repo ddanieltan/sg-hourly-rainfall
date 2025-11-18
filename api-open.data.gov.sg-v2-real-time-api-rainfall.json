@@ -273,15 +273,6 @@
         }
       },
       {
-        "id": "S113",
-        "deviceId": "S113",
-        "name": "Marine Parade Road",
-        "location": {
-          "latitude": 1.30648,
-          "longitude": 103.9104
-        }
-      },
-      {
         "id": "S60",
         "deviceId": "S60",
         "name": "Sentosa",
@@ -527,7 +518,7 @@
     ],
     "readings": [
       {
-        "timestamp": "2025-11-18T11:30:00+08:00",
+        "timestamp": "2025-11-18T11:50:00+08:00",
         "data": [
           {
             "stationId": "S219",
@@ -647,10 +638,6 @@
           },
           {
             "stationId": "S115",
-            "value": 0
-          },
-          {
-            "stationId": "S113",
             "value": 0
           },
           {
