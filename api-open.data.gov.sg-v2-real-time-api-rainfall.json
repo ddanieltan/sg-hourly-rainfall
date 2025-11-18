@@ -66,15 +66,6 @@
         }
       },
       {
-        "id": "S40",
-        "deviceId": "S40",
-        "name": "Mandai Lake Road",
-        "location": {
-          "latitude": 1.4044,
-          "longitude": 103.78962
-        }
-      },
-      {
         "id": "S84",
         "deviceId": "S84",
         "name": "Simei Avenue",
@@ -527,7 +518,7 @@
     ],
     "readings": [
       {
-        "timestamp": "2025-11-19T01:40:00+08:00",
+        "timestamp": "2025-11-19T02:50:00+08:00",
         "data": [
           {
             "stationId": "S219",
@@ -535,15 +526,15 @@
           },
           {
             "stationId": "S216",
-            "value": 0.2
+            "value": 0
           },
           {
             "stationId": "S217",
-            "value": 0.2
+            "value": 0
           },
           {
             "stationId": "S214",
-            "value": 0.2
+            "value": 0
           },
           {
             "stationId": "S215",
@@ -555,10 +546,6 @@
           },
           {
             "stationId": "S81",
-            "value": 0.2
-          },
-          {
-            "stationId": "S40",
             "value": 0
           },
           {
@@ -571,15 +558,15 @@
           },
           {
             "stationId": "S43",
-            "value": 0.2
+            "value": 0
           },
           {
             "stationId": "S06",
-            "value": 0.2
+            "value": 0
           },
           {
             "stationId": "S221",
-            "value": 0.2
+            "value": 0
           },
           {
             "stationId": "S222",
@@ -599,7 +586,7 @@
           },
           {
             "stationId": "S208",
-            "value": 0.2
+            "value": 0
           },
           {
             "stationId": "S203",
@@ -667,7 +654,7 @@
           },
           {
             "stationId": "S24",
-            "value": 0.4
+            "value": 0
           },
           {
             "stationId": "S69",
@@ -675,7 +662,7 @@
           },
           {
             "stationId": "S123",
-            "value": 0.2
+            "value": 0
           },
           {
             "stationId": "S108",
@@ -691,7 +678,7 @@
           },
           {
             "stationId": "S109",
-            "value": 0.2
+            "value": 0
           },
           {
             "stationId": "S106",
@@ -707,7 +694,7 @@
           },
           {
             "stationId": "S228",
-            "value": 0.2
+            "value": 0
           },
           {
             "stationId": "S226",
@@ -723,7 +710,7 @@
           },
           {
             "stationId": "S224",
-            "value": 0.2
+            "value": 0
           },
           {
             "stationId": "S71",
@@ -743,11 +730,11 @@
           },
           {
             "stationId": "S79",
-            "value": 0.2
+            "value": 0
           },
           {
             "stationId": "S78",
-            "value": 0.2
+            "value": 0
           },
           {
             "stationId": "S111",
