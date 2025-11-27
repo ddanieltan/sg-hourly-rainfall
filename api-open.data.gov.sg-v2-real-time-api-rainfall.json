@@ -102,15 +102,6 @@
         }
       },
       {
-        "id": "S43",
-        "deviceId": "S43",
-        "name": "Kim Chuan Road",
-        "location": {
-          "latitude": 1.3399,
-          "longitude": 103.8878
-        }
-      },
-      {
         "id": "S06",
         "deviceId": "S06",
         "name": "Paya Lebar",
@@ -536,7 +527,7 @@
     ],
     "readings": [
       {
-        "timestamp": "2025-11-27T11:15:00+08:00",
+        "timestamp": "2025-11-27T11:50:00+08:00",
         "data": [
           {
             "stationId": "S219",
@@ -580,10 +571,6 @@
           },
           {
             "stationId": "S88",
-            "value": 0
-          },
-          {
-            "stationId": "S43",
             "value": 0
           },
           {
@@ -636,7 +623,7 @@
           },
           {
             "stationId": "S50",
-            "value": 0.6
+            "value": 0
           },
           {
             "stationId": "S94",
@@ -700,7 +687,7 @@
           },
           {
             "stationId": "S900",
-            "value": 0
+            "value": 0.8
           },
           {
             "stationId": "S109",
@@ -752,7 +739,7 @@
           },
           {
             "stationId": "S35",
-            "value": 0.2
+            "value": 0
           },
           {
             "stationId": "S79",
