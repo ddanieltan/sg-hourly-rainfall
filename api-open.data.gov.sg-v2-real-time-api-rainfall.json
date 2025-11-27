@@ -66,6 +66,15 @@
         }
       },
       {
+        "id": "S84",
+        "deviceId": "S84",
+        "name": "Simei Avenue",
+        "location": {
+          "latitude": 1.3437,
+          "longitude": 103.9444
+        }
+      },
+      {
         "id": "S40",
         "deviceId": "S40",
         "name": "Mandai Lake Road",
@@ -75,12 +84,12 @@
         }
       },
       {
-        "id": "S84",
-        "deviceId": "S84",
-        "name": "Simei Avenue",
+        "id": "S88",
+        "deviceId": "S88",
+        "name": "Toa Payoh North",
         "location": {
-          "latitude": 1.3437,
-          "longitude": 103.9444
+          "latitude": 1.3427,
+          "longitude": 103.8482
         }
       },
       {
@@ -93,12 +102,12 @@
         }
       },
       {
-        "id": "S88",
-        "deviceId": "S88",
-        "name": "Toa Payoh North",
+        "id": "S43",
+        "deviceId": "S43",
+        "name": "Kim Chuan Road",
         "location": {
-          "latitude": 1.3427,
-          "longitude": 103.8482
+          "latitude": 1.3399,
+          "longitude": 103.8878
         }
       },
       {
@@ -336,15 +345,6 @@
         }
       },
       {
-        "id": "S108",
-        "deviceId": "S108",
-        "name": "Marina Gardens Drive",
-        "location": {
-          "latitude": 1.2799,
-          "longitude": 103.8703
-        }
-      },
-      {
         "id": "S229",
         "deviceId": "S229",
         "name": "Jurong West Street 42",
@@ -360,6 +360,15 @@
         "location": {
           "latitude": 1.41284,
           "longitude": 103.86922
+        }
+      },
+      {
+        "id": "S108",
+        "deviceId": "S108",
+        "name": "Marina Gardens Drive",
+        "location": {
+          "latitude": 1.2799,
+          "longitude": 103.8703
         }
       },
       {
@@ -417,21 +426,21 @@
         }
       },
       {
-        "id": "S102",
-        "deviceId": "S102",
-        "name": "Semakau Landfill",
-        "location": {
-          "latitude": 1.189,
-          "longitude": 103.768
-        }
-      },
-      {
         "id": "S223",
         "deviceId": "S223",
         "name": "Margaret Drive",
         "location": {
           "latitude": 1.29984,
           "longitude": 103.80264
+        }
+      },
+      {
+        "id": "S102",
+        "deviceId": "S102",
+        "name": "Semakau Landfill",
+        "location": {
+          "latitude": 1.189,
+          "longitude": 103.768
         }
       },
       {
@@ -527,7 +536,7 @@
     ],
     "readings": [
       {
-        "timestamp": "2025-11-27T11:50:00+08:00",
+        "timestamp": "2025-11-27T12:45:00+08:00",
         "data": [
           {
             "stationId": "S219",
@@ -558,11 +567,15 @@
             "value": 0
           },
           {
+            "stationId": "S84",
+            "value": 0
+          },
+          {
             "stationId": "S40",
             "value": 0
           },
           {
-            "stationId": "S84",
+            "stationId": "S88",
             "value": 0
           },
           {
@@ -570,7 +583,7 @@
             "value": 0
           },
           {
-            "stationId": "S88",
+            "stationId": "S43",
             "value": 0
           },
           {
@@ -678,16 +691,16 @@
             "value": 0
           },
           {
-            "stationId": "S108",
-            "value": 0
-          },
-          {
             "stationId": "S229",
             "value": 0
           },
           {
             "stationId": "S900",
-            "value": 0.8
+            "value": 0
+          },
+          {
+            "stationId": "S108",
+            "value": 0
           },
           {
             "stationId": "S109",
@@ -714,11 +727,11 @@
             "value": 0
           },
           {
-            "stationId": "S102",
+            "stationId": "S223",
             "value": 0
           },
           {
-            "stationId": "S223",
+            "stationId": "S102",
             "value": 0
           },
           {
