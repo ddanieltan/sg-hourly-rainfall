@@ -489,6 +489,15 @@
         }
       },
       {
+        "id": "S35",
+        "deviceId": "S35",
+        "name": "Old Toh Tuck Road",
+        "location": {
+          "latitude": 1.3329,
+          "longitude": 103.7556
+        }
+      },
+      {
         "id": "S78",
         "deviceId": "S78",
         "name": "Poole Road",
@@ -527,7 +536,7 @@
     ],
     "readings": [
       {
-        "timestamp": "2025-12-05T06:40:00+08:00",
+        "timestamp": "2025-12-05T07:40:00+08:00",
         "data": [
           {
             "stationId": "S219",
@@ -743,6 +752,10 @@
           },
           {
             "stationId": "S79",
+            "value": 0
+          },
+          {
+            "stationId": "S35",
             "value": 0
           },
           {
