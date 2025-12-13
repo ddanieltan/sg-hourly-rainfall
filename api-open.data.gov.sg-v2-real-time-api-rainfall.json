@@ -471,6 +471,15 @@
         }
       },
       {
+        "id": "S35",
+        "deviceId": "S35",
+        "name": "Old Toh Tuck Road",
+        "location": {
+          "latitude": 1.3329,
+          "longitude": 103.7556
+        }
+      },
+      {
         "id": "S79",
         "deviceId": "S79",
         "name": "Somerset Road",
@@ -518,23 +527,23 @@
     ],
     "readings": [
       {
-        "timestamp": "2025-12-13T07:40:00+08:00",
+        "timestamp": "2025-12-13T10:15:00+08:00",
         "data": [
           {
             "stationId": "S219",
-            "value": 0.2
+            "value": 0
           },
           {
             "stationId": "S216",
-            "value": 0.2
+            "value": 0
           },
           {
             "stationId": "S217",
-            "value": 0.4
+            "value": 0
           },
           {
             "stationId": "S214",
-            "value": 1.4
+            "value": 0
           },
           {
             "stationId": "S215",
@@ -542,11 +551,11 @@
           },
           {
             "stationId": "S213",
-            "value": 0.2
+            "value": 0
           },
           {
             "stationId": "S81",
-            "value": 0.2
+            "value": 0
           },
           {
             "stationId": "S40",
@@ -554,7 +563,7 @@
           },
           {
             "stationId": "S84",
-            "value": 0.4
+            "value": 0
           },
           {
             "stationId": "S44",
@@ -566,11 +575,11 @@
           },
           {
             "stationId": "S43",
-            "value": 0.4
+            "value": 0
           },
           {
             "stationId": "S06",
-            "value": 0.4
+            "value": 0
           },
           {
             "stationId": "S221",
@@ -614,7 +623,7 @@
           },
           {
             "stationId": "S209",
-            "value": 0.2
+            "value": 0
           },
           {
             "stationId": "S50",
@@ -634,19 +643,19 @@
           },
           {
             "stationId": "S119",
-            "value": 1.6
+            "value": 0
           },
           {
             "stationId": "S117",
-            "value": 0.4
+            "value": 0
           },
           {
             "stationId": "S115",
-            "value": 0.2
+            "value": 0
           },
           {
             "stationId": "S113",
-            "value": 1
+            "value": 0
           },
           {
             "stationId": "S60",
@@ -662,7 +671,7 @@
           },
           {
             "stationId": "S24",
-            "value": 0.2
+            "value": 0
           },
           {
             "stationId": "S69",
@@ -674,7 +683,7 @@
           },
           {
             "stationId": "S108",
-            "value": 3
+            "value": 0
           },
           {
             "stationId": "S229",
@@ -682,11 +691,11 @@
           },
           {
             "stationId": "S900",
-            "value": 0.2
+            "value": 0
           },
           {
             "stationId": "S109",
-            "value": 0.2
+            "value": 0
           },
           {
             "stationId": "S106",
@@ -698,7 +707,7 @@
           },
           {
             "stationId": "S107",
-            "value": 1
+            "value": 0
           },
           {
             "stationId": "S228",
@@ -706,11 +715,11 @@
           },
           {
             "stationId": "S226",
-            "value": 0.2
+            "value": 0
           },
           {
             "stationId": "S102",
-            "value": 0.2
+            "value": 0
           },
           {
             "stationId": "S223",
@@ -729,16 +738,20 @@
             "value": 0
           },
           {
+            "stationId": "S35",
+            "value": 0
+          },
+          {
             "stationId": "S79",
-            "value": 0.4
+            "value": 0
           },
           {
             "stationId": "S78",
-            "value": 0.4
+            "value": 0
           },
           {
             "stationId": "S111",
-            "value": 0.4
+            "value": 0
           },
           {
             "stationId": "S112",
