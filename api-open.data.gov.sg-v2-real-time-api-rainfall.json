@@ -345,6 +345,15 @@
         }
       },
       {
+        "id": "S120",
+        "deviceId": "S120",
+        "name": "Holland Road",
+        "location": {
+          "latitude": 1.30874,
+          "longitude": 103.818
+        }
+      },
+      {
         "id": "S108",
         "deviceId": "S108",
         "name": "Marina Gardens Drive",
@@ -527,11 +536,11 @@
     ],
     "readings": [
       {
-        "timestamp": "2025-12-15T13:45:00+08:00",
+        "timestamp": "2025-12-15T14:55:00+08:00",
         "data": [
           {
             "stationId": "S219",
-            "value": 0.2
+            "value": 0
           },
           {
             "stationId": "S216",
@@ -555,7 +564,7 @@
           },
           {
             "stationId": "S81",
-            "value": 0.2
+            "value": 0
           },
           {
             "stationId": "S40",
@@ -682,6 +691,10 @@
             "value": 0
           },
           {
+            "stationId": "S120",
+            "value": 0
+          },
+          {
             "stationId": "S108",
             "value": 0
           },
@@ -691,7 +704,7 @@
           },
           {
             "stationId": "S900",
-            "value": 0.2
+            "value": 0
           },
           {
             "stationId": "S109",
