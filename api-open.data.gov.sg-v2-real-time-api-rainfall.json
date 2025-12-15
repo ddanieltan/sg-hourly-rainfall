@@ -309,6 +309,15 @@
         }
       },
       {
+        "id": "S66",
+        "deviceId": "S66",
+        "name": "Kranji Way",
+        "location": {
+          "latitude": 1.4387,
+          "longitude": 103.7363
+        }
+      },
+      {
         "id": "S24",
         "deviceId": "S24",
         "name": "Upper Changi Road North",
@@ -363,6 +372,15 @@
         }
       },
       {
+        "id": "S109",
+        "deviceId": "S109",
+        "name": "Ang Mo Kio Avenue 5",
+        "location": {
+          "latitude": 1.3764,
+          "longitude": 103.8492
+        }
+      },
+      {
         "id": "S106",
         "deviceId": "S106",
         "name": "Pulau Ubin",
@@ -405,6 +423,15 @@
         "location": {
           "latitude": 1.27472,
           "longitude": 103.80389
+        }
+      },
+      {
+        "id": "S102",
+        "deviceId": "S102",
+        "name": "Semakau Landfill",
+        "location": {
+          "latitude": 1.189,
+          "longitude": 103.768
         }
       },
       {
@@ -500,11 +527,11 @@
     ],
     "readings": [
       {
-        "timestamp": "2025-12-15T12:55:00+08:00",
+        "timestamp": "2025-12-15T13:45:00+08:00",
         "data": [
           {
             "stationId": "S219",
-            "value": 0
+            "value": 0.2
           },
           {
             "stationId": "S216",
@@ -528,7 +555,7 @@
           },
           {
             "stationId": "S81",
-            "value": 0
+            "value": 0.2
           },
           {
             "stationId": "S40",
@@ -536,7 +563,7 @@
           },
           {
             "stationId": "S84",
-            "value": 0.2
+            "value": 0
           },
           {
             "stationId": "S44",
@@ -548,7 +575,7 @@
           },
           {
             "stationId": "S43",
-            "value": 0.2
+            "value": 0
           },
           {
             "stationId": "S06",
@@ -556,7 +583,7 @@
           },
           {
             "stationId": "S221",
-            "value": 0.2
+            "value": 0
           },
           {
             "stationId": "S222",
@@ -604,7 +631,7 @@
           },
           {
             "stationId": "S94",
-            "value": 0.2
+            "value": 0
           },
           {
             "stationId": "S210",
@@ -639,8 +666,12 @@
             "value": 0
           },
           {
+            "stationId": "S66",
+            "value": 0
+          },
+          {
             "stationId": "S24",
-            "value": 0.2
+            "value": 0
           },
           {
             "stationId": "S69",
@@ -660,6 +691,10 @@
           },
           {
             "stationId": "S900",
+            "value": 0.2
+          },
+          {
+            "stationId": "S109",
             "value": 0
           },
           {
@@ -680,6 +715,10 @@
           },
           {
             "stationId": "S226",
+            "value": 0
+          },
+          {
+            "stationId": "S102",
             "value": 0
           },
           {
