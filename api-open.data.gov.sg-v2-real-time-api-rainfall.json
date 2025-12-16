@@ -480,15 +480,6 @@
         }
       },
       {
-        "id": "S35",
-        "deviceId": "S35",
-        "name": "Old Toh Tuck Road",
-        "location": {
-          "latitude": 1.3329,
-          "longitude": 103.7556
-        }
-      },
-      {
         "id": "S79",
         "deviceId": "S79",
         "name": "Somerset Road",
@@ -536,7 +527,7 @@
     ],
     "readings": [
       {
-        "timestamp": "2025-12-17T02:50:00+08:00",
+        "timestamp": "2025-12-17T03:40:00+08:00",
         "data": [
           {
             "stationId": "S219",
@@ -584,7 +575,7 @@
           },
           {
             "stationId": "S43",
-            "value": 0
+            "value": 0.8
           },
           {
             "stationId": "S06",
@@ -612,7 +603,7 @@
           },
           {
             "stationId": "S208",
-            "value": 0
+            "value": 1
           },
           {
             "stationId": "S203",
@@ -712,7 +703,7 @@
           },
           {
             "stationId": "S106",
-            "value": 0
+            "value": 1.4
           },
           {
             "stationId": "S227",
@@ -720,7 +711,7 @@
           },
           {
             "stationId": "S107",
-            "value": 0
+            "value": 0.6
           },
           {
             "stationId": "S228",
@@ -748,10 +739,6 @@
           },
           {
             "stationId": "S77",
-            "value": 0
-          },
-          {
-            "stationId": "S35",
             "value": 0
           },
           {
