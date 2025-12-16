@@ -536,31 +536,31 @@
     ],
     "readings": [
       {
-        "timestamp": "2025-12-16T13:45:00+08:00",
+        "timestamp": "2025-12-16T14:50:00+08:00",
         "data": [
           {
             "stationId": "S219",
-            "value": 0
+            "value": 0.2
           },
           {
             "stationId": "S216",
-            "value": 0
+            "value": 0.2
           },
           {
             "stationId": "S217",
-            "value": 0
+            "value": 0.8
           },
           {
             "stationId": "S214",
-            "value": 0
+            "value": 8.5
           },
           {
             "stationId": "S215",
-            "value": 0
+            "value": 1
           },
           {
             "stationId": "S213",
-            "value": 0
+            "value": 0.4
           },
           {
             "stationId": "S81",
@@ -572,7 +572,7 @@
           },
           {
             "stationId": "S84",
-            "value": 0
+            "value": 0.2
           },
           {
             "stationId": "S44",
@@ -580,7 +580,7 @@
           },
           {
             "stationId": "S88",
-            "value": 0
+            "value": 0.8
           },
           {
             "stationId": "S43",
@@ -596,15 +596,15 @@
           },
           {
             "stationId": "S222",
-            "value": 0
+            "value": 0.8
           },
           {
             "stationId": "S08",
-            "value": 0
+            "value": 0.2
           },
           {
             "stationId": "S07",
-            "value": 0
+            "value": 0.8
           },
           {
             "stationId": "S220",
@@ -612,11 +612,11 @@
           },
           {
             "stationId": "S208",
-            "value": 0
+            "value": 0.4
           },
           {
             "stationId": "S203",
-            "value": 0
+            "value": 0.2
           },
           {
             "stationId": "S201",
@@ -624,11 +624,11 @@
           },
           {
             "stationId": "S90",
-            "value": 0
+            "value": 0.2
           },
           {
             "stationId": "S92",
-            "value": 0
+            "value": 0.2
           },
           {
             "stationId": "S209",
@@ -636,11 +636,11 @@
           },
           {
             "stationId": "S50",
-            "value": 0
+            "value": 0.2
           },
           {
             "stationId": "S94",
-            "value": 0
+            "value": 0.2
           },
           {
             "stationId": "S210",
@@ -652,11 +652,11 @@
           },
           {
             "stationId": "S119",
-            "value": 0
+            "value": 2.6
           },
           {
             "stationId": "S117",
-            "value": 0
+            "value": 1.4
           },
           {
             "stationId": "S115",
@@ -668,11 +668,11 @@
           },
           {
             "stationId": "S60",
-            "value": 0
+            "value": 0.6
           },
           {
             "stationId": "S64",
-            "value": 0
+            "value": 0.2
           },
           {
             "stationId": "S66",
@@ -680,7 +680,7 @@
           },
           {
             "stationId": "S24",
-            "value": 0
+            "value": 0.6
           },
           {
             "stationId": "S69",
@@ -688,15 +688,15 @@
           },
           {
             "stationId": "S123",
-            "value": 0
+            "value": 1
           },
           {
             "stationId": "S120",
-            "value": 0
+            "value": 0.2
           },
           {
             "stationId": "S108",
-            "value": 0
+            "value": 3.2
           },
           {
             "stationId": "S229",
@@ -708,11 +708,11 @@
           },
           {
             "stationId": "S109",
-            "value": 0.6
+            "value": 0
           },
           {
             "stationId": "S106",
-            "value": 0
+            "value": 1.6
           },
           {
             "stationId": "S227",
@@ -728,7 +728,7 @@
           },
           {
             "stationId": "S226",
-            "value": 0
+            "value": 0.2
           },
           {
             "stationId": "S102",
@@ -736,11 +736,11 @@
           },
           {
             "stationId": "S223",
-            "value": 0
+            "value": 0.6
           },
           {
             "stationId": "S71",
-            "value": 0
+            "value": 0.2
           },
           {
             "stationId": "S33",
@@ -748,7 +748,7 @@
           },
           {
             "stationId": "S77",
-            "value": 0
+            "value": 0.6
           },
           {
             "stationId": "S35",
@@ -756,15 +756,15 @@
           },
           {
             "stationId": "S79",
-            "value": 0
+            "value": 1.4
           },
           {
             "stationId": "S78",
-            "value": 0
+            "value": 3.6
           },
           {
             "stationId": "S111",
-            "value": 0
+            "value": 3.8
           },
           {
             "stationId": "S112",
