@@ -48,15 +48,6 @@
         }
       },
       {
-        "id": "S215",
-        "deviceId": "S215",
-        "name": "Geylang East Central",
-        "location": {
-          "latitude": 1.32785,
-          "longitude": 103.88899
-        }
-      },
-      {
         "id": "S213",
         "deviceId": "S213",
         "name": "Coronation Walk",
@@ -554,11 +545,11 @@
     ],
     "readings": [
       {
-        "timestamp": "2026-01-07T11:45:00+08:00",
+        "timestamp": "2026-01-07T12:55:00+08:00",
         "data": [
           {
             "stationId": "S218",
-            "value": 0.2
+            "value": 1.2
           },
           {
             "stationId": "S219",
@@ -575,10 +566,6 @@
           {
             "stationId": "S214",
             "value": 0
-          },
-          {
-            "stationId": "S215",
-            "value": 0.2
           },
           {
             "stationId": "S213",
@@ -614,7 +601,7 @@
           },
           {
             "stationId": "S221",
-            "value": 2.6
+            "value": 0
           },
           {
             "stationId": "S222",
@@ -622,7 +609,7 @@
           },
           {
             "stationId": "S08",
-            "value": 0.2
+            "value": 0
           },
           {
             "stationId": "S07",
@@ -650,7 +637,7 @@
           },
           {
             "stationId": "S92",
-            "value": 0
+            "value": 0.2
           },
           {
             "stationId": "S209",
@@ -694,7 +681,7 @@
           },
           {
             "stationId": "S64",
-            "value": 0
+            "value": 0.2
           },
           {
             "stationId": "S66",
@@ -706,7 +693,7 @@
           },
           {
             "stationId": "S69",
-            "value": 0.8
+            "value": 0
           },
           {
             "stationId": "S123",
@@ -714,7 +701,7 @@
           },
           {
             "stationId": "S120",
-            "value": 0
+            "value": 0.2
           },
           {
             "stationId": "S108",
@@ -766,7 +753,7 @@
           },
           {
             "stationId": "S71",
-            "value": 0
+            "value": 0.8
           },
           {
             "stationId": "S33",
@@ -794,7 +781,7 @@
           },
           {
             "stationId": "S112",
-            "value": 0
+            "value": 3.2
           },
           {
             "stationId": "S230",
