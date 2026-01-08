@@ -48,6 +48,15 @@
         }
       },
       {
+        "id": "S215",
+        "deviceId": "S215",
+        "name": "Geylang East Central",
+        "location": {
+          "latitude": 1.32785,
+          "longitude": 103.88899
+        }
+      },
+      {
         "id": "S213",
         "deviceId": "S213",
         "name": "Coronation Walk",
@@ -354,15 +363,6 @@
         }
       },
       {
-        "id": "S108",
-        "deviceId": "S108",
-        "name": "Marina Gardens Drive",
-        "location": {
-          "latitude": 1.2799,
-          "longitude": 103.8703
-        }
-      },
-      {
         "id": "S229",
         "deviceId": "S229",
         "name": "Jurong West Street 42",
@@ -378,6 +378,15 @@
         "location": {
           "latitude": 1.41284,
           "longitude": 103.86922
+        }
+      },
+      {
+        "id": "S108",
+        "deviceId": "S108",
+        "name": "Marina Gardens Drive",
+        "location": {
+          "latitude": 1.2799,
+          "longitude": 103.8703
         }
       },
       {
@@ -545,7 +554,7 @@
     ],
     "readings": [
       {
-        "timestamp": "2026-01-08T14:55:00+08:00",
+        "timestamp": "2026-01-08T15:45:00+08:00",
         "data": [
           {
             "stationId": "S218",
@@ -565,6 +574,10 @@
           },
           {
             "stationId": "S214",
+            "value": 0
+          },
+          {
+            "stationId": "S215",
             "value": 0
           },
           {
@@ -704,15 +717,15 @@
             "value": 0
           },
           {
-            "stationId": "S108",
-            "value": 0
-          },
-          {
             "stationId": "S229",
             "value": 0
           },
           {
             "stationId": "S900",
+            "value": 0
+          },
+          {
+            "stationId": "S108",
             "value": 0
           },
           {
