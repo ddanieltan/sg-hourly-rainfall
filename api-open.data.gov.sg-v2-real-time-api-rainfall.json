@@ -48,15 +48,6 @@
         }
       },
       {
-        "id": "S215",
-        "deviceId": "S215",
-        "name": "Geylang East Central",
-        "location": {
-          "latitude": 1.32785,
-          "longitude": 103.88899
-        }
-      },
-      {
         "id": "S213",
         "deviceId": "S213",
         "name": "Coronation Walk",
@@ -554,7 +545,7 @@
     ],
     "readings": [
       {
-        "timestamp": "2026-01-08T11:40:00+08:00",
+        "timestamp": "2026-01-08T12:55:00+08:00",
         "data": [
           {
             "stationId": "S218",
@@ -574,10 +565,6 @@
           },
           {
             "stationId": "S214",
-            "value": 0
-          },
-          {
-            "stationId": "S215",
             "value": 0
           },
           {
@@ -658,7 +645,7 @@
           },
           {
             "stationId": "S50",
-            "value": 0
+            "value": 0.2
           },
           {
             "stationId": "S94",
@@ -738,7 +725,7 @@
           },
           {
             "stationId": "S227",
-            "value": 0
+            "value": 0.2
           },
           {
             "stationId": "S107",
@@ -750,7 +737,7 @@
           },
           {
             "stationId": "S104",
-            "value": 0
+            "value": 1.4
           },
           {
             "stationId": "S226",
