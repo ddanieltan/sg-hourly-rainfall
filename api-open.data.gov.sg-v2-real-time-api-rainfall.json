@@ -48,6 +48,15 @@
         }
       },
       {
+        "id": "S215",
+        "deviceId": "S215",
+        "name": "Geylang East Central",
+        "location": {
+          "latitude": 1.32785,
+          "longitude": 103.88899
+        }
+      },
+      {
         "id": "S213",
         "deviceId": "S213",
         "name": "Coronation Walk",
@@ -207,6 +216,15 @@
         "location": {
           "latitude": 1.2841,
           "longitude": 103.7886
+        }
+      },
+      {
+        "id": "S209",
+        "deviceId": "S209",
+        "name": "Yishun Ring Road",
+        "location": {
+          "latitude": 1.42111,
+          "longitude": 103.84472
         }
       },
       {
@@ -435,21 +453,21 @@
         }
       },
       {
-        "id": "S102",
-        "deviceId": "S102",
-        "name": "Semakau Landfill",
-        "location": {
-          "latitude": 1.189,
-          "longitude": 103.768
-        }
-      },
-      {
         "id": "S223",
         "deviceId": "S223",
         "name": "Margaret Drive",
         "location": {
           "latitude": 1.29984,
           "longitude": 103.80264
+        }
+      },
+      {
+        "id": "S102",
+        "deviceId": "S102",
+        "name": "Semakau Landfill",
+        "location": {
+          "latitude": 1.189,
+          "longitude": 103.768
         }
       },
       {
@@ -536,7 +554,7 @@
     ],
     "readings": [
       {
-        "timestamp": "2026-01-09T10:25:00+08:00",
+        "timestamp": "2026-01-09T11:45:00+08:00",
         "data": [
           {
             "stationId": "S218",
@@ -556,6 +574,10 @@
           },
           {
             "stationId": "S214",
+            "value": 0
+          },
+          {
+            "stationId": "S215",
             "value": 0
           },
           {
@@ -628,6 +650,10 @@
           },
           {
             "stationId": "S92",
+            "value": 0
+          },
+          {
+            "stationId": "S209",
             "value": 0
           },
           {
@@ -731,11 +757,11 @@
             "value": 0
           },
           {
-            "stationId": "S102",
+            "stationId": "S223",
             "value": 0
           },
           {
-            "stationId": "S223",
+            "stationId": "S102",
             "value": 0
           },
           {
