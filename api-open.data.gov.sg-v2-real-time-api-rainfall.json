@@ -417,6 +417,15 @@
         }
       },
       {
+        "id": "S107",
+        "deviceId": "S107",
+        "name": "East Coast Parkway",
+        "location": {
+          "latitude": 1.3135,
+          "longitude": 103.9625
+        }
+      },
+      {
         "id": "S228",
         "deviceId": "S228",
         "name": "Jurong West Street 73",
@@ -545,7 +554,7 @@
     ],
     "readings": [
       {
-        "timestamp": "2026-01-16T15:45:00+08:00",
+        "timestamp": "2026-01-16T16:40:00+08:00",
         "data": [
           {
             "stationId": "S218",
@@ -609,7 +618,7 @@
           },
           {
             "stationId": "S222",
-            "value": 0
+            "value": 0.2
           },
           {
             "stationId": "S08",
@@ -629,7 +638,7 @@
           },
           {
             "stationId": "S203",
-            "value": 0.2
+            "value": 0
           },
           {
             "stationId": "S201",
@@ -649,7 +658,7 @@
           },
           {
             "stationId": "S50",
-            "value": 0
+            "value": 1.2
           },
           {
             "stationId": "S94",
@@ -665,7 +674,7 @@
           },
           {
             "stationId": "S119",
-            "value": 0
+            "value": 0.2
           },
           {
             "stationId": "S117",
@@ -709,7 +718,7 @@
           },
           {
             "stationId": "S108",
-            "value": 0
+            "value": 0.4
           },
           {
             "stationId": "S229",
@@ -729,6 +738,10 @@
           },
           {
             "stationId": "S227",
+            "value": 0
+          },
+          {
+            "stationId": "S107",
             "value": 0
           },
           {
@@ -753,7 +766,7 @@
           },
           {
             "stationId": "S71",
-            "value": 0
+            "value": 1.6
           },
           {
             "stationId": "S33",
@@ -765,7 +778,7 @@
           },
           {
             "stationId": "S35",
-            "value": 0
+            "value": 0.2
           },
           {
             "stationId": "S79",
@@ -785,7 +798,7 @@
           },
           {
             "stationId": "S230",
-            "value": 1
+            "value": 0
           }
         ]
       }
