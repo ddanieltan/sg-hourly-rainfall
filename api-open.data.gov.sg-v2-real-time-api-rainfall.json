@@ -120,15 +120,6 @@
         }
       },
       {
-        "id": "S06",
-        "deviceId": "S06",
-        "name": "Paya Lebar",
-        "location": {
-          "latitude": 1.3524,
-          "longitude": 103.9007
-        }
-      },
-      {
         "id": "S221",
         "deviceId": "S221",
         "name": "Hougang Avenue 1",
@@ -554,7 +545,7 @@
     ],
     "readings": [
       {
-        "timestamp": "2026-01-19T07:40:00+08:00",
+        "timestamp": "2026-01-19T10:50:00+08:00",
         "data": [
           {
             "stationId": "S218",
@@ -606,10 +597,6 @@
           },
           {
             "stationId": "S43",
-            "value": 0
-          },
-          {
-            "stationId": "S06",
             "value": 0
           },
           {
