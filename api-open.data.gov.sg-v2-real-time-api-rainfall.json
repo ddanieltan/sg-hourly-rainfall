@@ -84,15 +84,6 @@
         }
       },
       {
-        "id": "S84",
-        "deviceId": "S84",
-        "name": "Simei Avenue",
-        "location": {
-          "latitude": 1.3437,
-          "longitude": 103.9444
-        }
-      },
-      {
         "id": "S44",
         "deviceId": "S44",
         "name": "Nanyang Avenue",
@@ -306,15 +297,6 @@
         "location": {
           "latitude": 1.25,
           "longitude": 103.8279
-        }
-      },
-      {
-        "id": "S64",
-        "deviceId": "S64",
-        "name": "Bukit Panjang Road",
-        "location": {
-          "latitude": 1.3824,
-          "longitude": 103.7603
         }
       },
       {
@@ -554,7 +536,7 @@
     ],
     "readings": [
       {
-        "timestamp": "2026-01-22T22:55:00+08:00",
+        "timestamp": "2026-01-22T23:50:00+08:00",
         "data": [
           {
             "stationId": "S218",
@@ -590,10 +572,6 @@
           },
           {
             "stationId": "S40",
-            "value": 0
-          },
-          {
-            "stationId": "S84",
             "value": 0
           },
           {
@@ -690,10 +668,6 @@
           },
           {
             "stationId": "S60",
-            "value": 0
-          },
-          {
-            "stationId": "S64",
             "value": 0
           },
           {
