@@ -354,6 +354,15 @@
         }
       },
       {
+        "id": "S120",
+        "deviceId": "S120",
+        "name": "Holland Road",
+        "location": {
+          "latitude": 1.30874,
+          "longitude": 103.818
+        }
+      },
+      {
         "id": "S108",
         "deviceId": "S108",
         "name": "Marina Gardens Drive",
@@ -387,6 +396,15 @@
         "location": {
           "latitude": 1.3764,
           "longitude": 103.8492
+        }
+      },
+      {
+        "id": "S106",
+        "deviceId": "S106",
+        "name": "Pulau Ubin",
+        "location": {
+          "latitude": 1.4168,
+          "longitude": 103.9673
         }
       },
       {
@@ -450,6 +468,15 @@
         "location": {
           "latitude": 1.29984,
           "longitude": 103.80264
+        }
+      },
+      {
+        "id": "S71",
+        "deviceId": "S71",
+        "name": "Kent Ridge Road",
+        "location": {
+          "latitude": 1.2923,
+          "longitude": 103.7815
         }
       },
       {
@@ -527,7 +554,7 @@
     ],
     "readings": [
       {
-        "timestamp": "2026-01-23T00:55:00+08:00",
+        "timestamp": "2026-01-23T01:50:00+08:00",
         "data": [
           {
             "stationId": "S218",
@@ -686,6 +713,10 @@
             "value": 0
           },
           {
+            "stationId": "S120",
+            "value": 0
+          },
+          {
             "stationId": "S108",
             "value": 0
           },
@@ -699,6 +730,10 @@
           },
           {
             "stationId": "S109",
+            "value": 0
+          },
+          {
+            "stationId": "S106",
             "value": 0
           },
           {
@@ -727,6 +762,10 @@
           },
           {
             "stationId": "S223",
+            "value": 0
+          },
+          {
+            "stationId": "S71",
             "value": 0
           },
           {
