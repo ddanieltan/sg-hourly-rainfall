@@ -219,6 +219,15 @@
         }
       },
       {
+        "id": "S209",
+        "deviceId": "S209",
+        "name": "Yishun Ring Road",
+        "location": {
+          "latitude": 1.42111,
+          "longitude": 103.84472
+        }
+      },
+      {
         "id": "S50",
         "deviceId": "S50",
         "name": "Clementi Road",
@@ -554,7 +563,7 @@
     ],
     "readings": [
       {
-        "timestamp": "2026-02-04T11:10:00+08:00",
+        "timestamp": "2026-02-04T12:55:00+08:00",
         "data": [
           {
             "stationId": "S218",
@@ -650,6 +659,10 @@
           },
           {
             "stationId": "S92",
+            "value": 0
+          },
+          {
+            "stationId": "S209",
             "value": 0
           },
           {
