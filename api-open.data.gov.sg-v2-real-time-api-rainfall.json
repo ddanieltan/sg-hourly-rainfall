@@ -563,7 +563,7 @@
     ],
     "readings": [
       {
-        "timestamp": "2026-02-05T16:15:00+08:00",
+        "timestamp": "2026-02-05T17:15:00+08:00",
         "data": [
           {
             "stationId": "S218",
@@ -579,15 +579,15 @@
           },
           {
             "stationId": "S217",
-            "value": 0
+            "value": 0.2
           },
           {
             "stationId": "S214",
-            "value": 4.5
+            "value": 0
           },
           {
             "stationId": "S215",
-            "value": 3
+            "value": 0.4
           },
           {
             "stationId": "S213",
@@ -607,7 +607,7 @@
           },
           {
             "stationId": "S44",
-            "value": 1
+            "value": 0
           },
           {
             "stationId": "S88",
@@ -615,7 +615,7 @@
           },
           {
             "stationId": "S43",
-            "value": 0
+            "value": 0.2
           },
           {
             "stationId": "S06",
@@ -627,11 +627,11 @@
           },
           {
             "stationId": "S222",
-            "value": 0.6
+            "value": 0
           },
           {
             "stationId": "S08",
-            "value": 0
+            "value": 0.2
           },
           {
             "stationId": "S07",
@@ -651,7 +651,7 @@
           },
           {
             "stationId": "S201",
-            "value": 0.2
+            "value": 0
           },
           {
             "stationId": "S90",
@@ -659,11 +659,11 @@
           },
           {
             "stationId": "S92",
-            "value": 0.2
+            "value": 0
           },
           {
             "stationId": "S209",
-            "value": 0
+            "value": 0.4
           },
           {
             "stationId": "S50",
@@ -683,7 +683,7 @@
           },
           {
             "stationId": "S119",
-            "value": 8.6
+            "value": 0
           },
           {
             "stationId": "S117",
@@ -691,23 +691,23 @@
           },
           {
             "stationId": "S115",
-            "value": 0.2
+            "value": 0
           },
           {
             "stationId": "S116",
-            "value": 2.2
+            "value": 0
           },
           {
             "stationId": "S113",
-            "value": 0.2
+            "value": 5.2
           },
           {
             "stationId": "S60",
-            "value": 0.8
+            "value": 0
           },
           {
             "stationId": "S64",
-            "value": 0
+            "value": 0.2
           },
           {
             "stationId": "S66",
@@ -719,23 +719,23 @@
           },
           {
             "stationId": "S69",
-            "value": 0
+            "value": 0.4
           },
           {
             "stationId": "S123",
-            "value": 5
+            "value": 0.4
           },
           {
             "stationId": "S120",
-            "value": 0.2
+            "value": 0
           },
           {
             "stationId": "S108",
-            "value": 8.4
+            "value": 0
           },
           {
             "stationId": "S229",
-            "value": 0.2
+            "value": 0
           },
           {
             "stationId": "S900",
@@ -767,7 +767,7 @@
           },
           {
             "stationId": "S226",
-            "value": 0.2
+            "value": 0
           },
           {
             "stationId": "S102",
@@ -779,11 +779,11 @@
           },
           {
             "stationId": "S71",
-            "value": 0.2
+            "value": 0
           },
           {
             "stationId": "S33",
-            "value": 5.4
+            "value": 0
           },
           {
             "stationId": "S77",
@@ -799,7 +799,7 @@
           },
           {
             "stationId": "S78",
-            "value": 4
+            "value": 0
           },
           {
             "stationId": "S111",
@@ -811,7 +811,7 @@
           },
           {
             "stationId": "S230",
-            "value": 1
+            "value": 0
           }
         ]
       }
