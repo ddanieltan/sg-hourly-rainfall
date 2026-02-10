@@ -464,7 +464,7 @@
       {
         "id": "S102",
         "deviceId": "S102",
-        "name": "Semakau Landfill",
+        "name": "Semakau Island Landfill",
         "location": {
           "latitude": 1.189,
           "longitude": 103.768
@@ -563,7 +563,7 @@
     ],
     "readings": [
       {
-        "timestamp": "2026-02-10T07:55:00+08:00",
+        "timestamp": "2026-02-10T11:35:00+08:00",
         "data": [
           {
             "stationId": "S218",
