@@ -291,6 +291,15 @@
         }
       },
       {
+        "id": "S116",
+        "deviceId": "S116",
+        "name": "West Coast Highway",
+        "location": {
+          "latitude": 1.281,
+          "longitude": 103.754
+        }
+      },
+      {
         "id": "S113",
         "deviceId": "S113",
         "name": "Marine Parade Road",
@@ -554,7 +563,7 @@
     ],
     "readings": [
       {
-        "timestamp": "2026-02-20T16:15:00+08:00",
+        "timestamp": "2026-02-20T17:15:00+08:00",
         "data": [
           {
             "stationId": "S218",
@@ -682,6 +691,10 @@
           },
           {
             "stationId": "S115",
+            "value": 0
+          },
+          {
+            "stationId": "S116",
             "value": 0
           },
           {
