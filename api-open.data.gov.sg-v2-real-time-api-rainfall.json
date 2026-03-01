@@ -453,15 +453,6 @@
         }
       },
       {
-        "id": "S226",
-        "deviceId": "S226",
-        "name": "Malan Road",
-        "location": {
-          "latitude": 1.27472,
-          "longitude": 103.80389
-        }
-      },
-      {
         "id": "S102",
         "deviceId": "S102",
         "name": "Semakau Island Landfill",
@@ -563,7 +554,7 @@
     ],
     "readings": [
       {
-        "timestamp": "2026-03-01T19:45:00+08:00",
+        "timestamp": "2026-03-01T21:20:00+08:00",
         "data": [
           {
             "stationId": "S218",
@@ -763,10 +754,6 @@
           },
           {
             "stationId": "S104",
-            "value": 0
-          },
-          {
-            "stationId": "S226",
             "value": 0
           },
           {
