@@ -563,7 +563,7 @@
     ],
     "readings": [
       {
-        "timestamp": "2026-03-04T15:55:00+08:00",
+        "timestamp": "2026-03-04T17:15:00+08:00",
         "data": [
           {
             "stationId": "S218",
@@ -571,7 +571,7 @@
           },
           {
             "stationId": "S219",
-            "value": 0.4
+            "value": 0
           },
           {
             "stationId": "S216",
@@ -587,7 +587,7 @@
           },
           {
             "stationId": "S215",
-            "value": 1.4
+            "value": 0
           },
           {
             "stationId": "S213",
@@ -595,7 +595,7 @@
           },
           {
             "stationId": "S81",
-            "value": 5.8
+            "value": 0
           },
           {
             "stationId": "S40",
@@ -615,15 +615,15 @@
           },
           {
             "stationId": "S43",
-            "value": 0.6
+            "value": 0
           },
           {
             "stationId": "S06",
-            "value": 2
+            "value": 0
           },
           {
             "stationId": "S221",
-            "value": 1
+            "value": 0
           },
           {
             "stationId": "S222",
@@ -663,7 +663,7 @@
           },
           {
             "stationId": "S209",
-            "value": 2.4
+            "value": 0
           },
           {
             "stationId": "S50",
@@ -671,7 +671,7 @@
           },
           {
             "stationId": "S94",
-            "value": 0.4
+            "value": 0
           },
           {
             "stationId": "S210",
@@ -699,7 +699,7 @@
           },
           {
             "stationId": "S113",
-            "value": 5
+            "value": 0
           },
           {
             "stationId": "S60",
@@ -739,7 +739,7 @@
           },
           {
             "stationId": "S900",
-            "value": 0.4
+            "value": 0
           },
           {
             "stationId": "S109",
@@ -747,7 +747,7 @@
           },
           {
             "stationId": "S106",
-            "value": 0.2
+            "value": 0
           },
           {
             "stationId": "S227",
@@ -799,7 +799,7 @@
           },
           {
             "stationId": "S78",
-            "value": 0.8
+            "value": 0
           },
           {
             "stationId": "S111",
