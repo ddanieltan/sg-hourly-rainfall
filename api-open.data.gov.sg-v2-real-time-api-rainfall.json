@@ -156,6 +156,15 @@
         }
       },
       {
+        "id": "S07",
+        "deviceId": "S07",
+        "name": "Lornie Road",
+        "location": {
+          "latitude": 1.3415,
+          "longitude": 103.8334
+        }
+      },
+      {
         "id": "S220",
         "deviceId": "S220",
         "name": "Compassvale Lane",
@@ -554,7 +563,7 @@
     ],
     "readings": [
       {
-        "timestamp": "2026-03-11T15:25:00+08:00",
+        "timestamp": "2026-03-11T15:50:00+08:00",
         "data": [
           {
             "stationId": "S218",
@@ -622,6 +631,10 @@
           },
           {
             "stationId": "S08",
+            "value": 0
+          },
+          {
+            "stationId": "S07",
             "value": 0
           },
           {
