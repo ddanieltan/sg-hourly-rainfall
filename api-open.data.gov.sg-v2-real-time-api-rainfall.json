@@ -120,21 +120,21 @@
         }
       },
       {
-        "id": "S221",
-        "deviceId": "S221",
-        "name": "Hougang Avenue 1",
-        "location": {
-          "latitude": 1.35691,
-          "longitude": 103.89088
-        }
-      },
-      {
         "id": "S06",
         "deviceId": "S06",
         "name": "Paya Lebar Airport",
         "location": {
           "latitude": 1.3524,
           "longitude": 103.9007
+        }
+      },
+      {
+        "id": "S221",
+        "deviceId": "S221",
+        "name": "Hougang Avenue 1",
+        "location": {
+          "latitude": 1.35691,
+          "longitude": 103.89088
         }
       },
       {
@@ -563,7 +563,7 @@
     ],
     "readings": [
       {
-        "timestamp": "2026-03-13T16:10:00+08:00",
+        "timestamp": "2026-03-13T17:15:00+08:00",
         "data": [
           {
             "stationId": "S218",
@@ -618,11 +618,11 @@
             "value": 0
           },
           {
-            "stationId": "S221",
+            "stationId": "S06",
             "value": 0
           },
           {
-            "stationId": "S06",
+            "stationId": "S221",
             "value": 0
           },
           {
