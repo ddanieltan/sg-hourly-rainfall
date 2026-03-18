@@ -444,6 +444,15 @@
         }
       },
       {
+        "id": "S104",
+        "deviceId": "S104",
+        "name": "Woodlands Avenue 9",
+        "location": {
+          "latitude": 1.44387,
+          "longitude": 103.78538
+        }
+      },
+      {
         "id": "S226",
         "deviceId": "S226",
         "name": "Malan Road",
@@ -554,7 +563,7 @@
     ],
     "readings": [
       {
-        "timestamp": "2026-03-18T11:25:00+08:00",
+        "timestamp": "2026-03-18T13:10:00+08:00",
         "data": [
           {
             "stationId": "S218",
@@ -750,6 +759,10 @@
           },
           {
             "stationId": "S228",
+            "value": 0
+          },
+          {
+            "stationId": "S104",
             "value": 0
           },
           {
