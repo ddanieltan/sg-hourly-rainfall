@@ -66,15 +66,6 @@
         }
       },
       {
-        "id": "S81",
-        "deviceId": "S81",
-        "name": "Punggol Central",
-        "location": {
-          "latitude": 1.4029,
-          "longitude": 103.9092
-        }
-      },
-      {
         "id": "S40",
         "deviceId": "S40",
         "name": "Mandai Lake Road",
@@ -144,15 +135,6 @@
         "location": {
           "latitude": 1.3701,
           "longitude": 103.8271
-        }
-      },
-      {
-        "id": "S07",
-        "deviceId": "S07",
-        "name": "Lornie Road",
-        "location": {
-          "latitude": 1.3415,
-          "longitude": 103.8334
         }
       },
       {
@@ -536,7 +518,7 @@
     ],
     "readings": [
       {
-        "timestamp": "2026-04-03T03:35:00+08:00",
+        "timestamp": "2026-04-03T04:25:00+08:00",
         "data": [
           {
             "stationId": "S218",
@@ -564,10 +546,6 @@
           },
           {
             "stationId": "S213",
-            "value": 0
-          },
-          {
-            "stationId": "S81",
             "value": 0
           },
           {
@@ -600,10 +578,6 @@
           },
           {
             "stationId": "S08",
-            "value": 0
-          },
-          {
-            "stationId": "S07",
             "value": 0
           },
           {
