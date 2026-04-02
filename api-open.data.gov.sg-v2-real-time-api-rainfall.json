@@ -84,15 +84,6 @@
         }
       },
       {
-        "id": "S44",
-        "deviceId": "S44",
-        "name": "Nanyang Avenue",
-        "location": {
-          "latitude": 1.34583,
-          "longitude": 103.68166
-        }
-      },
-      {
         "id": "S43",
         "deviceId": "S43",
         "name": "Kim Chuan Road",
@@ -174,24 +165,6 @@
         }
       },
       {
-        "id": "S90",
-        "deviceId": "S90",
-        "name": "Bukit Timah Road",
-        "location": {
-          "latitude": 1.3191,
-          "longitude": 103.8191
-        }
-      },
-      {
-        "id": "S92",
-        "deviceId": "S92",
-        "name": "South Buona Vista Road",
-        "location": {
-          "latitude": 1.2841,
-          "longitude": 103.7886
-        }
-      },
-      {
         "id": "S209",
         "deviceId": "S209",
         "name": "Yishun Ring Road",
@@ -207,15 +180,6 @@
         "location": {
           "latitude": 1.3337,
           "longitude": 103.7768
-        }
-      },
-      {
-        "id": "S94",
-        "deviceId": "S94",
-        "name": "Pasir Ris Street 51",
-        "location": {
-          "latitude": 1.3662,
-          "longitude": 103.9528
         }
       },
       {
@@ -243,15 +207,6 @@
         "location": {
           "latitude": 1.30105,
           "longitude": 103.8666
-        }
-      },
-      {
-        "id": "S117",
-        "deviceId": "S117",
-        "name": "Banyan Road",
-        "location": {
-          "latitude": 1.256,
-          "longitude": 103.679
         }
       },
       {
@@ -518,7 +473,7 @@
     ],
     "readings": [
       {
-        "timestamp": "2026-04-03T04:25:00+08:00",
+        "timestamp": "2026-04-03T06:10:00+08:00",
         "data": [
           {
             "stationId": "S218",
@@ -554,10 +509,6 @@
           },
           {
             "stationId": "S84",
-            "value": 0
-          },
-          {
-            "stationId": "S44",
             "value": 0
           },
           {
@@ -597,23 +548,11 @@
             "value": 0
           },
           {
-            "stationId": "S90",
-            "value": 0
-          },
-          {
-            "stationId": "S92",
-            "value": 0
-          },
-          {
             "stationId": "S209",
             "value": 0
           },
           {
             "stationId": "S50",
-            "value": 0
-          },
-          {
-            "stationId": "S94",
             "value": 0
           },
           {
@@ -626,10 +565,6 @@
           },
           {
             "stationId": "S119",
-            "value": 0
-          },
-          {
-            "stationId": "S117",
             "value": 0
           },
           {
