@@ -192,15 +192,6 @@
         }
       },
       {
-        "id": "S201",
-        "deviceId": "S201",
-        "name": "Clementi Park",
-        "location": {
-          "latitude": 1.32311,
-          "longitude": 103.76714
-        }
-      },
-      {
         "id": "S90",
         "deviceId": "S90",
         "name": "Bukit Timah Road",
@@ -563,7 +554,7 @@
     ],
     "readings": [
       {
-        "timestamp": "2026-04-04T18:55:00+08:00",
+        "timestamp": "2026-04-04T19:50:00+08:00",
         "data": [
           {
             "stationId": "S218",
@@ -575,11 +566,11 @@
           },
           {
             "stationId": "S216",
-            "value": 0
+            "value": 0.2
           },
           {
             "stationId": "S217",
-            "value": 0
+            "value": 0.2
           },
           {
             "stationId": "S214",
@@ -639,7 +630,7 @@
           },
           {
             "stationId": "S220",
-            "value": 0
+            "value": 0.2
           },
           {
             "stationId": "S208",
@@ -647,10 +638,6 @@
           },
           {
             "stationId": "S203",
-            "value": 0
-          },
-          {
-            "stationId": "S201",
             "value": 0
           },
           {
@@ -743,7 +730,7 @@
           },
           {
             "stationId": "S109",
-            "value": 0
+            "value": 0.4
           },
           {
             "stationId": "S106",
