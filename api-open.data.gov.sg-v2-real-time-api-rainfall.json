@@ -192,6 +192,15 @@
         }
       },
       {
+        "id": "S201",
+        "deviceId": "S201",
+        "name": "Clementi Park",
+        "location": {
+          "latitude": 1.32311,
+          "longitude": 103.76714
+        }
+      },
+      {
         "id": "S90",
         "deviceId": "S90",
         "name": "Bukit Timah Road",
@@ -324,15 +333,6 @@
         "location": {
           "latitude": 1.4387,
           "longitude": 103.7363
-        }
-      },
-      {
-        "id": "S24",
-        "deviceId": "S24",
-        "name": "Upper Changi Road North",
-        "location": {
-          "latitude": 1.3678,
-          "longitude": 103.9826
         }
       },
       {
@@ -554,7 +554,7 @@
     ],
     "readings": [
       {
-        "timestamp": "2026-04-06T01:55:00+08:00",
+        "timestamp": "2026-04-06T03:15:00+08:00",
         "data": [
           {
             "stationId": "S218",
@@ -641,6 +641,10 @@
             "value": 0
           },
           {
+            "stationId": "S201",
+            "value": 0
+          },
+          {
             "stationId": "S90",
             "value": 0
           },
@@ -698,10 +702,6 @@
           },
           {
             "stationId": "S66",
-            "value": 0
-          },
-          {
-            "stationId": "S24",
             "value": 0
           },
           {
@@ -770,7 +770,7 @@
           },
           {
             "stationId": "S33",
-            "value": 0
+            "value": 0.2
           },
           {
             "stationId": "S77",
