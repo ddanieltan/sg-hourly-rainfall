@@ -336,6 +336,15 @@
         }
       },
       {
+        "id": "S24",
+        "deviceId": "S24",
+        "name": "Upper Changi Road North",
+        "location": {
+          "latitude": 1.3678,
+          "longitude": 103.9826
+        }
+      },
+      {
         "id": "S69",
         "deviceId": "S69",
         "name": "Upper Peirce Reservoir Park",
@@ -396,15 +405,6 @@
         "location": {
           "latitude": 1.3764,
           "longitude": 103.8492
-        }
-      },
-      {
-        "id": "S106",
-        "deviceId": "S106",
-        "name": "Pulau Ubin",
-        "location": {
-          "latitude": 1.4168,
-          "longitude": 103.9673
         }
       },
       {
@@ -554,15 +554,15 @@
     ],
     "readings": [
       {
-        "timestamp": "2026-04-06T07:55:00+08:00",
+        "timestamp": "2026-04-06T11:40:00+08:00",
         "data": [
           {
             "stationId": "S218",
-            "value": 0.2
+            "value": 0
           },
           {
             "stationId": "S219",
-            "value": 0.2
+            "value": 0
           },
           {
             "stationId": "S216",
@@ -586,7 +586,7 @@
           },
           {
             "stationId": "S81",
-            "value": 0.2
+            "value": 0
           },
           {
             "stationId": "S40",
@@ -614,7 +614,7 @@
           },
           {
             "stationId": "S221",
-            "value": 0.2
+            "value": 0
           },
           {
             "stationId": "S222",
@@ -630,7 +630,7 @@
           },
           {
             "stationId": "S220",
-            "value": 0.2
+            "value": 0
           },
           {
             "stationId": "S208",
@@ -638,7 +638,7 @@
           },
           {
             "stationId": "S203",
-            "value": 0.2
+            "value": 0
           },
           {
             "stationId": "S201",
@@ -666,7 +666,7 @@
           },
           {
             "stationId": "S210",
-            "value": 0.2
+            "value": 0
           },
           {
             "stationId": "S211",
@@ -702,15 +702,19 @@
           },
           {
             "stationId": "S66",
-            "value": 0.4
+            "value": 0
+          },
+          {
+            "stationId": "S24",
+            "value": 0
           },
           {
             "stationId": "S69",
-            "value": 0.2
+            "value": 0
           },
           {
             "stationId": "S123",
-            "value": 0.2
+            "value": 0
           },
           {
             "stationId": "S120",
@@ -722,19 +726,15 @@
           },
           {
             "stationId": "S229",
-            "value": 0.2
+            "value": 0
           },
           {
             "stationId": "S900",
-            "value": 0.4
+            "value": 0
           },
           {
             "stationId": "S109",
             "value": 0
-          },
-          {
-            "stationId": "S106",
-            "value": 0.2
           },
           {
             "stationId": "S227",
@@ -750,7 +750,7 @@
           },
           {
             "stationId": "S104",
-            "value": 0.2
+            "value": 0
           },
           {
             "stationId": "S226",
@@ -794,7 +794,7 @@
           },
           {
             "stationId": "S112",
-            "value": 0.4
+            "value": 0
           },
           {
             "stationId": "S230",
