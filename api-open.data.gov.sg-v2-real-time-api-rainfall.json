@@ -345,6 +345,15 @@
         }
       },
       {
+        "id": "S23",
+        "deviceId": "S23",
+        "name": "S23",
+        "location": {
+          "latitude": 1.3858,
+          "longitude": 103.7114
+        }
+      },
+      {
         "id": "S69",
         "deviceId": "S69",
         "name": "Upper Peirce Reservoir Park",
@@ -563,7 +572,7 @@
     ],
     "readings": [
       {
-        "timestamp": "2026-04-23T12:30:00+08:00",
+        "timestamp": "2026-04-23T14:20:00+08:00",
         "data": [
           {
             "stationId": "S218",
@@ -715,6 +724,10 @@
           },
           {
             "stationId": "S24",
+            "value": 0
+          },
+          {
+            "stationId": "S23",
             "value": 0
           },
           {
