@@ -246,6 +246,15 @@
         }
       },
       {
+        "id": "S210",
+        "deviceId": "S210",
+        "name": "Woodlands Centre",
+        "location": {
+          "latitude": 1.44003,
+          "longitude": 103.76904
+        }
+      },
+      {
         "id": "S211",
         "deviceId": "S211",
         "name": "Kranji Road",
@@ -563,7 +572,7 @@
     ],
     "readings": [
       {
-        "timestamp": "2026-04-24T06:15:00+08:00",
+        "timestamp": "2026-04-24T07:20:00+08:00",
         "data": [
           {
             "stationId": "S218",
@@ -583,11 +592,11 @@
           },
           {
             "stationId": "S214",
-            "value": 0
+            "value": 0.2
           },
           {
             "stationId": "S215",
-            "value": 0
+            "value": 0.2
           },
           {
             "stationId": "S213",
@@ -603,7 +612,7 @@
           },
           {
             "stationId": "S84",
-            "value": 0
+            "value": 0.4
           },
           {
             "stationId": "S44",
@@ -674,6 +683,10 @@
             "value": 0
           },
           {
+            "stationId": "S210",
+            "value": 0
+          },
+          {
             "stationId": "S211",
             "value": 0
           },
@@ -695,7 +708,7 @@
           },
           {
             "stationId": "S113",
-            "value": 0
+            "value": 3.4
           },
           {
             "stationId": "S60",
@@ -799,7 +812,7 @@
           },
           {
             "stationId": "S78",
-            "value": 0
+            "value": 1.8
           },
           {
             "stationId": "S111",
