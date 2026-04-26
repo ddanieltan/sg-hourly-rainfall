@@ -246,15 +246,6 @@
         }
       },
       {
-        "id": "S210",
-        "deviceId": "S210",
-        "name": "Woodlands Centre",
-        "location": {
-          "latitude": 1.44003,
-          "longitude": 103.76904
-        }
-      },
-      {
         "id": "S211",
         "deviceId": "S211",
         "name": "Kranji Road",
@@ -572,7 +563,7 @@
     ],
     "readings": [
       {
-        "timestamp": "2026-04-26T09:05:00+08:00",
+        "timestamp": "2026-04-26T12:35:00+08:00",
         "data": [
           {
             "stationId": "S218",
@@ -636,7 +627,7 @@
           },
           {
             "stationId": "S222",
-            "value": 0
+            "value": 1.6
           },
           {
             "stationId": "S08",
@@ -652,7 +643,7 @@
           },
           {
             "stationId": "S208",
-            "value": 0
+            "value": 2
           },
           {
             "stationId": "S203",
@@ -660,15 +651,15 @@
           },
           {
             "stationId": "S201",
-            "value": 0
+            "value": 0.2
           },
           {
             "stationId": "S90",
-            "value": 0
+            "value": 0.4
           },
           {
             "stationId": "S92",
-            "value": 0
+            "value": 0.2
           },
           {
             "stationId": "S209",
@@ -683,10 +674,6 @@
             "value": 0
           },
           {
-            "stationId": "S210",
-            "value": 0
-          },
-          {
             "stationId": "S211",
             "value": 0
           },
@@ -696,7 +683,7 @@
           },
           {
             "stationId": "S117",
-            "value": 0
+            "value": 0.2
           },
           {
             "stationId": "S115",
@@ -712,7 +699,7 @@
           },
           {
             "stationId": "S60",
-            "value": 0
+            "value": 9.4
           },
           {
             "stationId": "S64",
@@ -740,11 +727,11 @@
           },
           {
             "stationId": "S120",
-            "value": 0
+            "value": 1.2
           },
           {
             "stationId": "S108",
-            "value": 0
+            "value": 0.2
           },
           {
             "stationId": "S229",
@@ -780,7 +767,7 @@
           },
           {
             "stationId": "S226",
-            "value": 0
+            "value": 0.6
           },
           {
             "stationId": "S102",
@@ -788,7 +775,7 @@
           },
           {
             "stationId": "S223",
-            "value": 0
+            "value": 0.8
           },
           {
             "stationId": "S71",
@@ -800,7 +787,7 @@
           },
           {
             "stationId": "S77",
-            "value": 0
+            "value": 1.6
           },
           {
             "stationId": "S35",
@@ -808,7 +795,7 @@
           },
           {
             "stationId": "S79",
-            "value": 0
+            "value": 0.6
           },
           {
             "stationId": "S78",
