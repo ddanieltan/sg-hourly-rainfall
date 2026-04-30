@@ -572,7 +572,7 @@
     ],
     "readings": [
       {
-        "timestamp": "2026-05-01T04:35:00+08:00",
+        "timestamp": "2026-05-01T06:20:00+08:00",
         "data": [
           {
             "stationId": "S218",
@@ -676,7 +676,7 @@
           },
           {
             "stationId": "S50",
-            "value": 0
+            "value": 0.2
           },
           {
             "stationId": "S94",
