@@ -7,8 +7,8 @@
         "deviceId": "S218",
         "name": "Bukit Batok Street 34",
         "location": {
-          "longitude": 103.75065,
-          "latitude": 1.36491
+          "latitude": 1.36491,
+          "longitude": 103.75065
         }
       },
       {
@@ -16,8 +16,8 @@
         "deviceId": "S219",
         "name": "Yio Chu Kang Road",
         "location": {
-          "longitude": 103.87643,
-          "latitude": 1.37999
+          "latitude": 1.37999,
+          "longitude": 103.87643
         }
       },
       {
@@ -43,8 +43,8 @@
         "deviceId": "S214",
         "name": "Tanjong Rhu",
         "location": {
-          "latitude": 1.29911,
-          "longitude": 103.88289
+          "longitude": 103.88289,
+          "latitude": 1.29911
         }
       },
       {
@@ -79,8 +79,8 @@
         "deviceId": "S40",
         "name": "Mandai Lake Road",
         "location": {
-          "longitude": 103.78962,
-          "latitude": 1.4044
+          "latitude": 1.4044,
+          "longitude": 103.78962
         }
       },
       {
@@ -106,8 +106,8 @@
         "deviceId": "S88",
         "name": "Toa Payoh North",
         "location": {
-          "latitude": 1.3427,
-          "longitude": 103.8482
+          "longitude": 103.8482,
+          "latitude": 1.3427
         }
       },
       {
@@ -142,8 +142,8 @@
         "deviceId": "S08",
         "name": "Upper Thomson Road",
         "location": {
-          "longitude": 103.8271,
-          "latitude": 1.3701
+          "latitude": 1.3701,
+          "longitude": 103.8271
         }
       },
       {
@@ -151,8 +151,8 @@
         "deviceId": "S07",
         "name": "Lornie Road",
         "location": {
-          "longitude": 103.8334,
-          "latitude": 1.3415
+          "latitude": 1.3415,
+          "longitude": 103.8334
         }
       },
       {
@@ -160,8 +160,8 @@
         "deviceId": "S220",
         "name": "Compassvale Lane",
         "location": {
-          "longitude": 103.89797,
-          "latitude": 1.38666
+          "latitude": 1.38666,
+          "longitude": 103.89797
         }
       },
       {
@@ -178,8 +178,8 @@
         "deviceId": "S203",
         "name": "Pasir Panjang",
         "location": {
-          "latitude": 1.29164,
-          "longitude": 103.7702
+          "longitude": 103.7702,
+          "latitude": 1.29164
         }
       },
       {
@@ -214,8 +214,8 @@
         "deviceId": "S209",
         "name": "Yishun Ring Road",
         "location": {
-          "longitude": 103.84472,
-          "latitude": 1.42111
+          "latitude": 1.42111,
+          "longitude": 103.84472
         }
       },
       {
@@ -223,8 +223,8 @@
         "deviceId": "S50",
         "name": "Clementi Road",
         "location": {
-          "latitude": 1.3337,
-          "longitude": 103.7768
+          "longitude": 103.7768,
+          "latitude": 1.3337
         }
       },
       {
@@ -232,8 +232,8 @@
         "deviceId": "S94",
         "name": "Pasir Ris Street 51",
         "location": {
-          "latitude": 1.3662,
-          "longitude": 103.9528
+          "longitude": 103.9528,
+          "latitude": 1.3662
         }
       },
       {
@@ -241,8 +241,8 @@
         "deviceId": "S210",
         "name": "Woodlands Centre",
         "location": {
-          "longitude": 103.76904,
-          "latitude": 1.44003
+          "latitude": 1.44003,
+          "longitude": 103.76904
         }
       },
       {
@@ -277,8 +277,8 @@
         "deviceId": "S115",
         "name": "Tuas South Avenue 3",
         "location": {
-          "longitude": 103.61843,
-          "latitude": 1.29377
+          "latitude": 1.29377,
+          "longitude": 103.61843
         }
       },
       {
@@ -286,8 +286,8 @@
         "deviceId": "S116",
         "name": "West Coast Highway",
         "location": {
-          "longitude": 103.754,
-          "latitude": 1.281
+          "latitude": 1.281,
+          "longitude": 103.754
         }
       },
       {
@@ -295,8 +295,8 @@
         "deviceId": "S113",
         "name": "Marine Parade Road",
         "location": {
-          "longitude": 103.9104,
-          "latitude": 1.30648
+          "latitude": 1.30648,
+          "longitude": 103.9104
         }
       },
       {
@@ -322,8 +322,8 @@
         "deviceId": "S66",
         "name": "Kranji Way",
         "location": {
-          "longitude": 103.7363,
-          "latitude": 1.4387
+          "latitude": 1.4387,
+          "longitude": 103.7363
         }
       },
       {
@@ -358,8 +358,8 @@
         "deviceId": "S123",
         "name": "Towner Road",
         "location": {
-          "latitude": 1.3214,
-          "longitude": 103.8577
+          "longitude": 103.8577,
+          "latitude": 1.3214
         }
       },
       {
@@ -367,8 +367,8 @@
         "deviceId": "S120",
         "name": "Holland Road",
         "location": {
-          "latitude": 1.30874,
-          "longitude": 103.818
+          "longitude": 103.818,
+          "latitude": 1.30874
         }
       },
       {
@@ -421,8 +421,8 @@
         "deviceId": "S227",
         "name": "Woodlands Drive 62",
         "location": {
-          "longitude": 103.80389,
-          "latitude": 1.43944
+          "latitude": 1.43944,
+          "longitude": 103.80389
         }
       },
       {
@@ -439,8 +439,8 @@
         "deviceId": "S228",
         "name": "Jurong West Street 73",
         "location": {
-          "longitude": 103.70073,
-          "latitude": 1.34703
+          "latitude": 1.34703,
+          "longitude": 103.70073
         }
       },
       {
@@ -457,8 +457,8 @@
         "deviceId": "S226",
         "name": "Malan Road",
         "location": {
-          "longitude": 103.80389,
-          "latitude": 1.27472
+          "latitude": 1.27472,
+          "longitude": 103.80389
         }
       },
       {
@@ -493,8 +493,8 @@
         "deviceId": "S33",
         "name": "Jurong Pier Road",
         "location": {
-          "latitude": 1.3081,
-          "longitude": 103.71
+          "longitude": 103.71,
+          "latitude": 1.3081
         }
       },
       {
@@ -520,8 +520,8 @@
         "deviceId": "S79",
         "name": "Somerset Road",
         "location": {
-          "longitude": 103.8372,
-          "latitude": 1.3004
+          "latitude": 1.3004,
+          "longitude": 103.8372
         }
       },
       {
@@ -529,8 +529,8 @@
         "deviceId": "S78",
         "name": "Poole Road",
         "location": {
-          "latitude": 1.30703,
-          "longitude": 103.89067
+          "longitude": 103.89067,
+          "latitude": 1.30703
         }
       },
       {
@@ -538,8 +538,8 @@
         "deviceId": "S111",
         "name": "Scotts Road",
         "location": {
-          "longitude": 103.8365,
-          "latitude": 1.31055
+          "latitude": 1.31055,
+          "longitude": 103.8365
         }
       },
       {
@@ -563,75 +563,75 @@
     ],
     "readings": [
       {
-        "timestamp": "2026-05-08T18:50:00+08:00",
+        "timestamp": "2026-05-08T20:50:00+08:00",
         "data": [
           {
             "stationId": "S218",
-            "value": 0
+            "value": 0.2
           },
           {
             "stationId": "S219",
-            "value": 0.6
+            "value": 0
           },
           {
             "stationId": "S216",
-            "value": 1.8
+            "value": 0.2
           },
           {
             "stationId": "S217",
-            "value": 2.2
+            "value": 0.2
           },
           {
             "stationId": "S214",
-            "value": 3.2
+            "value": 0
           },
           {
             "stationId": "S215",
-            "value": 3.9
+            "value": 0.2
           },
           {
             "stationId": "S213",
-            "value": 4
+            "value": 0.2
           },
           {
             "stationId": "S81",
-            "value": 0
+            "value": 0.2
           },
           {
             "stationId": "S40",
-            "value": 0
+            "value": 0.2
           },
           {
             "stationId": "S84",
-            "value": 1.8
+            "value": 0.2
           },
           {
             "stationId": "S44",
-            "value": 0
+            "value": 0.2
           },
           {
             "stationId": "S88",
-            "value": 1.8
+            "value": 0.2
           },
           {
             "stationId": "S43",
-            "value": 6.4
+            "value": 0.2
           },
           {
             "stationId": "S221",
-            "value": 2.8
+            "value": 0.2
           },
           {
             "stationId": "S222",
-            "value": 5.2
+            "value": 0.2
           },
           {
             "stationId": "S08",
-            "value": 1.4
+            "value": 0.4
           },
           {
             "stationId": "S07",
-            "value": 1
+            "value": 0.2
           },
           {
             "stationId": "S220",
@@ -639,23 +639,23 @@
           },
           {
             "stationId": "S208",
-            "value": 0.6
+            "value": 0.2
           },
           {
             "stationId": "S203",
-            "value": 5.8
+            "value": 0.2
           },
           {
             "stationId": "S201",
-            "value": 0.6
+            "value": 0.2
           },
           {
             "stationId": "S90",
-            "value": 4.2
+            "value": 0.2
           },
           {
             "stationId": "S92",
-            "value": 1
+            "value": 0.2
           },
           {
             "stationId": "S209",
@@ -663,11 +663,11 @@
           },
           {
             "stationId": "S50",
-            "value": 1.6
+            "value": 0.2
           },
           {
             "stationId": "S94",
-            "value": 1
+            "value": 0
           },
           {
             "stationId": "S210",
@@ -675,35 +675,35 @@
           },
           {
             "stationId": "S211",
-            "value": 0
+            "value": 0.2
           },
           {
             "stationId": "S119",
-            "value": 0.6
+            "value": 0
           },
           {
             "stationId": "S117",
-            "value": 0.2
+            "value": 0.4
           },
           {
             "stationId": "S115",
-            "value": 0.2
+            "value": 0.4
           },
           {
             "stationId": "S116",
-            "value": 2.6
+            "value": 0.2
           },
           {
             "stationId": "S113",
-            "value": 3.4
+            "value": 0
           },
           {
             "stationId": "S60",
-            "value": 0
+            "value": 0.2
           },
           {
             "stationId": "S64",
-            "value": 0
+            "value": 0.2
           },
           {
             "stationId": "S66",
@@ -711,7 +711,7 @@
           },
           {
             "stationId": "S24",
-            "value": 3.8
+            "value": 0.2
           },
           {
             "stationId": "S23",
@@ -719,15 +719,15 @@
           },
           {
             "stationId": "S69",
-            "value": 0.4
+            "value": 0.2
           },
           {
             "stationId": "S123",
-            "value": 2.2
+            "value": 0.2
           },
           {
             "stationId": "S120",
-            "value": 4.2
+            "value": 0.2
           },
           {
             "stationId": "S108",
@@ -739,11 +739,11 @@
           },
           {
             "stationId": "S900",
-            "value": 0
+            "value": 0.2
           },
           {
             "stationId": "S109",
-            "value": 0.8
+            "value": 0.2
           },
           {
             "stationId": "S106",
@@ -759,15 +759,15 @@
           },
           {
             "stationId": "S228",
-            "value": 0
+            "value": 0.2
           },
           {
             "stationId": "S104",
-            "value": 0
+            "value": 0.2
           },
           {
             "stationId": "S226",
-            "value": 0
+            "value": 0.2
           },
           {
             "stationId": "S102",
@@ -775,19 +775,19 @@
           },
           {
             "stationId": "S223",
-            "value": 4.1
+            "value": 0.2
           },
           {
             "stationId": "S71",
-            "value": 3.2
+            "value": 0.2
           },
           {
             "stationId": "S33",
-            "value": 3.2
+            "value": 0.2
           },
           {
             "stationId": "S77",
-            "value": 6.4
+            "value": 0.2
           },
           {
             "stationId": "S35",
@@ -795,15 +795,15 @@
           },
           {
             "stationId": "S79",
-            "value": 1
+            "value": 0.2
           },
           {
             "stationId": "S78",
-            "value": 3
+            "value": 0
           },
           {
             "stationId": "S111",
-            "value": 1
+            "value": 0
           },
           {
             "stationId": "S112",
@@ -811,7 +811,7 @@
           },
           {
             "stationId": "S230",
-            "value": 4.6
+            "value": 0.2
           }
         ]
       }
