@@ -7,8 +7,8 @@
         "deviceId": "S218",
         "name": "Bukit Batok Street 34",
         "location": {
-          "latitude": 1.36491,
-          "longitude": 103.75065
+          "longitude": 103.75065,
+          "latitude": 1.36491
         }
       },
       {
@@ -16,8 +16,8 @@
         "deviceId": "S219",
         "name": "Yio Chu Kang Road",
         "location": {
-          "longitude": 103.87639,
-          "latitude": 1.37998
+          "latitude": 1.37998,
+          "longitude": 103.87639
         }
       },
       {
@@ -25,8 +25,8 @@
         "deviceId": "S216",
         "name": "Ang Mo Kio Avenue 10",
         "location": {
-          "longitude": 103.85335,
-          "latitude": 1.36019
+          "latitude": 1.36019,
+          "longitude": 103.85335
         }
       },
       {
@@ -61,8 +61,8 @@
         "deviceId": "S213",
         "name": "Coronation Walk",
         "location": {
-          "latitude": 1.32427,
-          "longitude": 103.8097
+          "longitude": 103.8097,
+          "latitude": 1.32427
         }
       },
       {
@@ -70,8 +70,8 @@
         "deviceId": "S81",
         "name": "Punggol Central",
         "location": {
-          "longitude": 103.9095,
-          "latitude": 1.4028
+          "latitude": 1.4028,
+          "longitude": 103.9095
         }
       },
       {
@@ -79,8 +79,8 @@
         "deviceId": "S40",
         "name": "Mandai Lake Road",
         "location": {
-          "latitude": 1.4067,
-          "longitude": 103.7832
+          "longitude": 103.7832,
+          "latitude": 1.4067
         }
       },
       {
@@ -97,8 +97,8 @@
         "deviceId": "S180",
         "name": "Taman Jurong Green",
         "location": {
-          "latitude": 1.33701,
-          "longitude": 103.71828
+          "longitude": 103.71828,
+          "latitude": 1.33701
         }
       },
       {
@@ -124,8 +124,8 @@
         "deviceId": "S43",
         "name": "Kim Chuan Road",
         "location": {
-          "latitude": 1.3406,
-          "longitude": 103.8882
+          "longitude": 103.8882,
+          "latitude": 1.3406
         }
       },
       {
@@ -178,8 +178,8 @@
         "deviceId": "S187",
         "name": "Coronation Road",
         "location": {
-          "longitude": 103.80139,
-          "latitude": 1.32251
+          "latitude": 1.32251,
+          "longitude": 103.80139
         }
       },
       {
@@ -196,8 +196,8 @@
         "deviceId": "S184",
         "name": "Sengkang East Avenue",
         "location": {
-          "longitude": 103.89852,
-          "latitude": 1.38256
+          "latitude": 1.38256,
+          "longitude": 103.89852
         }
       },
       {
@@ -232,8 +232,8 @@
         "deviceId": "S127",
         "name": "Kallang Practice Track",
         "location": {
-          "latitude": 1.30574,
-          "longitude": 103.87817
+          "longitude": 103.87817,
+          "latitude": 1.30574
         }
       },
       {
@@ -340,8 +340,8 @@
         "deviceId": "S115",
         "name": "Tuas South Avenue 3",
         "location": {
-          "latitude": 1.2938,
-          "longitude": 103.6184
+          "longitude": 103.6184,
+          "latitude": 1.2938
         }
       },
       {
@@ -349,8 +349,8 @@
         "deviceId": "S116",
         "name": "West Coast Highway",
         "location": {
-          "longitude": 103.7545,
-          "latitude": 1.2824
+          "latitude": 1.2824,
+          "longitude": 103.7545
         }
       },
       {
@@ -394,8 +394,8 @@
         "deviceId": "S24",
         "name": "Upper Changi Road North",
         "location": {
-          "longitude": 103.9823,
-          "latitude": 1.3678
+          "latitude": 1.3678,
+          "longitude": 103.9823
         }
       },
       {
@@ -403,8 +403,8 @@
         "deviceId": "S23",
         "name": "S23",
         "location": {
-          "longitude": 103.7119,
-          "latitude": 1.3858
+          "latitude": 1.3858,
+          "longitude": 103.7119
         }
       },
       {
@@ -421,8 +421,8 @@
         "deviceId": "S123",
         "name": "Towner Road",
         "location": {
-          "latitude": 1.3214,
-          "longitude": 103.8577
+          "longitude": 103.8577,
+          "latitude": 1.3214
         }
       },
       {
@@ -439,8 +439,8 @@
         "deviceId": "S108",
         "name": "Marina Gardens Drive",
         "location": {
-          "longitude": 103.8703,
-          "latitude": 1.2799
+          "latitude": 1.2799,
+          "longitude": 103.8703
         }
       },
       {
@@ -457,8 +457,8 @@
         "deviceId": "S900",
         "name": "Seletar Aerospace View",
         "location": {
-          "latitude": 1.4114,
-          "longitude": 103.8627
+          "longitude": 103.8627,
+          "latitude": 1.4114
         }
       },
       {
@@ -466,8 +466,8 @@
         "deviceId": "S109",
         "name": "Ang Mo Kio Avenue 5",
         "location": {
-          "latitude": 1.3793,
-          "longitude": 103.85
+          "longitude": 103.85,
+          "latitude": 1.3793
         }
       },
       {
@@ -511,8 +511,8 @@
         "deviceId": "S104",
         "name": "Woodlands Avenue 9",
         "location": {
-          "longitude": 103.7854,
-          "latitude": 1.4439
+          "latitude": 1.4439,
+          "longitude": 103.7854
         }
       },
       {
@@ -583,8 +583,8 @@
         "deviceId": "S71",
         "name": "Kent Ridge Road",
         "location": {
-          "latitude": 1.2923,
-          "longitude": 103.7815
+          "longitude": 103.7815,
+          "latitude": 1.2923
         }
       },
       {
@@ -619,8 +619,8 @@
         "deviceId": "S903",
         "name": "S903",
         "location": {
-          "latitude": 1.33742,
-          "longitude": 103.76699
+          "longitude": 103.76699,
+          "latitude": 1.33742
         }
       },
       {
@@ -628,8 +628,8 @@
         "deviceId": "S33",
         "name": "Jurong Pier Road",
         "location": {
-          "latitude": 1.3082,
-          "longitude": 103.71
+          "longitude": 103.71,
+          "latitude": 1.3082
         }
       },
       {
@@ -646,8 +646,8 @@
         "deviceId": "S35",
         "name": "Old Toh Tuck Road",
         "location": {
-          "latitude": 1.3325,
-          "longitude": 103.755
+          "longitude": 103.755,
+          "latitude": 1.3325
         }
       },
       {
@@ -673,8 +673,8 @@
         "deviceId": "S111",
         "name": "Scotts Road",
         "location": {
-          "latitude": 1.3106,
-          "longitude": 103.8365
+          "longitude": 103.8365,
+          "latitude": 1.3106
         }
       },
       {
@@ -682,8 +682,8 @@
         "deviceId": "S112",
         "name": "Lim Chu Kang Road",
         "location": {
-          "longitude": 103.7017,
-          "latitude": 1.4388
+          "latitude": 1.4388,
+          "longitude": 103.7017
         }
       },
       {
@@ -691,14 +691,14 @@
         "deviceId": "S230",
         "name": "West Coast Road",
         "location": {
-          "longitude": 103.76444,
-          "latitude": 1.30167
+          "latitude": 1.30167,
+          "longitude": 103.76444
         }
       }
     ],
     "readings": [
       {
-        "timestamp": "2026-08-15T12:55:00+08:00",
+        "timestamp": "2026-08-15T13:50:00+08:00",
         "data": [
           {
             "stationId": "S218",
