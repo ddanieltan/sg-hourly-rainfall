@@ -489,6 +489,15 @@
         }
       },
       {
+        "id": "S900",
+        "deviceId": "S900",
+        "name": "Seletar Meteorological Station",
+        "location": {
+          "latitude": 1.4114,
+          "longitude": 103.8627
+        }
+      },
+      {
         "id": "S109",
         "deviceId": "S109",
         "name": "Ang Mo Kio Avenue 5",
@@ -797,7 +806,7 @@
     ],
     "readings": [
       {
-        "timestamp": "2026-09-17T14:30:00+08:00",
+        "timestamp": "2026-09-17T20:00:00+08:00",
         "data": [
           {
             "stationId": "S218",
@@ -1013,6 +1022,10 @@
           },
           {
             "stationId": "S306",
+            "value": 0
+          },
+          {
+            "stationId": "S900",
             "value": 0
           },
           {
