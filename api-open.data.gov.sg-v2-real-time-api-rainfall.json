@@ -552,15 +552,6 @@
         }
       },
       {
-        "id": "S305",
-        "deviceId": "S305",
-        "name": "Sarimbum Reservoir",
-        "location": {
-          "latitude": 1.4216,
-          "longitude": 103.68127
-        }
-      },
-      {
         "id": "S104",
         "deviceId": "S104",
         "name": "Woodlands Avenue 9",
@@ -806,7 +797,7 @@
     ],
     "readings": [
       {
-        "timestamp": "2026-09-19T14:30:00+08:00",
+        "timestamp": "2026-09-19T19:25:00+08:00",
         "data": [
           {
             "stationId": "S218",
@@ -834,7 +825,7 @@
           },
           {
             "stationId": "S213",
-            "value": 0.2
+            "value": 0
           },
           {
             "stationId": "S80",
@@ -894,7 +885,7 @@
           },
           {
             "stationId": "S187",
-            "value": 0.4
+            "value": 0
           },
           {
             "stationId": "S220",
@@ -982,7 +973,7 @@
           },
           {
             "stationId": "S64",
-            "value": 4.6
+            "value": 0
           },
           {
             "stationId": "S66",
@@ -1022,7 +1013,7 @@
           },
           {
             "stationId": "S306",
-            "value": 1
+            "value": 0
           },
           {
             "stationId": "S900",
@@ -1050,10 +1041,6 @@
           },
           {
             "stationId": "S228",
-            "value": 0
-          },
-          {
-            "stationId": "S305",
             "value": 0
           },
           {
@@ -1118,7 +1105,7 @@
           },
           {
             "stationId": "S905",
-            "value": 0.8
+            "value": 0
           },
           {
             "stationId": "S308",
