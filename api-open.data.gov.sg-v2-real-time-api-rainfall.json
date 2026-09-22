@@ -552,6 +552,15 @@
         }
       },
       {
+        "id": "S305",
+        "deviceId": "S305",
+        "name": "Sarimbum Reservoir",
+        "location": {
+          "latitude": 1.4216,
+          "longitude": 103.68127
+        }
+      },
+      {
         "id": "S104",
         "deviceId": "S104",
         "name": "Woodlands Avenue 9",
@@ -797,7 +806,7 @@
     ],
     "readings": [
       {
-        "timestamp": "2026-09-22T08:10:00+08:00",
+        "timestamp": "2026-09-22T13:10:00+08:00",
         "data": [
           {
             "stationId": "S218",
@@ -829,7 +838,7 @@
           },
           {
             "stationId": "S80",
-            "value": 0
+            "value": 0.2
           },
           {
             "stationId": "S81",
@@ -841,7 +850,7 @@
           },
           {
             "stationId": "S84",
-            "value": 0
+            "value": 5.6
           },
           {
             "stationId": "S180",
@@ -901,7 +910,7 @@
           },
           {
             "stationId": "S129",
-            "value": 0
+            "value": 5.4
           },
           {
             "stationId": "S127",
@@ -909,7 +918,7 @@
           },
           {
             "stationId": "S201",
-            "value": 0
+            "value": 1.2
           },
           {
             "stationId": "S90",
@@ -917,7 +926,7 @@
           },
           {
             "stationId": "S92",
-            "value": 0
+            "value": 0.6
           },
           {
             "stationId": "S209",
@@ -925,7 +934,7 @@
           },
           {
             "stationId": "S50",
-            "value": 0
+            "value": 3.2
           },
           {
             "stationId": "S94",
@@ -933,7 +942,7 @@
           },
           {
             "stationId": "S210",
-            "value": 0
+            "value": 0.4
           },
           {
             "stationId": "S211",
@@ -989,7 +998,7 @@
           },
           {
             "stationId": "S69",
-            "value": 0
+            "value": 0.2
           },
           {
             "stationId": "S123",
@@ -1033,7 +1042,7 @@
           },
           {
             "stationId": "S227",
-            "value": 0
+            "value": 0.2
           },
           {
             "stationId": "S107",
@@ -1044,8 +1053,12 @@
             "value": 0
           },
           {
-            "stationId": "S104",
+            "stationId": "S305",
             "value": 0
+          },
+          {
+            "stationId": "S104",
+            "value": 0.4
           },
           {
             "stationId": "S148",
@@ -1069,11 +1082,11 @@
           },
           {
             "stationId": "S223",
-            "value": 0
+            "value": 1.2
           },
           {
             "stationId": "S300",
-            "value": 0
+            "value": 10
           },
           {
             "stationId": "S224",
@@ -1081,7 +1094,7 @@
           },
           {
             "stationId": "S301",
-            "value": 0
+            "value": 1.4
           },
           {
             "stationId": "S908",
@@ -1109,15 +1122,15 @@
           },
           {
             "stationId": "S308",
-            "value": 0
+            "value": 1.8
           },
           {
             "stationId": "S902",
-            "value": 0
+            "value": 0.2
           },
           {
             "stationId": "S903",
-            "value": 0
+            "value": 5.2
           },
           {
             "stationId": "S33",
