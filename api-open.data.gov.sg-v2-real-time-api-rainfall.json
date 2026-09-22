@@ -246,6 +246,15 @@
         }
       },
       {
+        "id": "S201",
+        "deviceId": "S201",
+        "name": "Sunset Way",
+        "location": {
+          "latitude": 1.32319,
+          "longitude": 103.76714
+        }
+      },
+      {
         "id": "S90",
         "deviceId": "S90",
         "name": "Bukit Timah Road",
@@ -797,7 +806,7 @@
     ],
     "readings": [
       {
-        "timestamp": "2026-09-23T03:00:00+08:00",
+        "timestamp": "2026-09-23T06:15:00+08:00",
         "data": [
           {
             "stationId": "S218",
@@ -905,6 +914,10 @@
           },
           {
             "stationId": "S127",
+            "value": 0
+          },
+          {
+            "stationId": "S201",
             "value": 0
           },
           {
