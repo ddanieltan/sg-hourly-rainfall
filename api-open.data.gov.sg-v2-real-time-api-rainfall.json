@@ -318,15 +318,6 @@
         }
       },
       {
-        "id": "S132",
-        "deviceId": "S132",
-        "name": "Jurong West Stadium",
-        "location": {
-          "latitude": 1.33786,
-          "longitude": 103.69538
-        }
-      },
-      {
         "id": "S119",
         "deviceId": "S119",
         "name": "Nicoll Highway",
@@ -504,15 +495,6 @@
         "location": {
           "latitude": 1.3793,
           "longitude": 103.85
-        }
-      },
-      {
-        "id": "S307",
-        "deviceId": "S307",
-        "name": "Pulau Tekong Reservoir",
-        "location": {
-          "latitude": 1.41076,
-          "longitude": 104.04156
         }
       },
       {
@@ -806,7 +788,7 @@
     ],
     "readings": [
       {
-        "timestamp": "2026-09-26T01:25:00+08:00",
+        "timestamp": "2026-09-26T04:35:00+08:00",
         "data": [
           {
             "stationId": "S218",
@@ -949,10 +931,6 @@
             "value": 0
           },
           {
-            "stationId": "S132",
-            "value": 0
-          },
-          {
             "stationId": "S119",
             "value": 0
           },
@@ -1030,10 +1008,6 @@
           },
           {
             "stationId": "S109",
-            "value": 0
-          },
-          {
-            "stationId": "S307",
             "value": 0
           },
           {
