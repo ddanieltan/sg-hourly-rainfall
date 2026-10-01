@@ -633,15 +633,6 @@
         }
       },
       {
-        "id": "S224",
-        "deviceId": "S224",
-        "name": "Airport Boulevard",
-        "location": {
-          "latitude": 1.34394,
-          "longitude": 103.98386
-        }
-      },
-      {
         "id": "S301",
         "deviceId": "S301",
         "name": "Neo Tiew Lane 2",
@@ -806,7 +797,7 @@
     ],
     "readings": [
       {
-        "timestamp": "2026-10-01T08:40:00+08:00",
+        "timestamp": "2026-10-01T15:40:00+08:00",
         "data": [
           {
             "stationId": "S218",
@@ -994,7 +985,7 @@
           },
           {
             "stationId": "S23",
-            "value": 0
+            "value": 0.2
           },
           {
             "stationId": "S69",
@@ -1086,10 +1077,6 @@
           },
           {
             "stationId": "S300",
-            "value": 0
-          },
-          {
-            "stationId": "S224",
             "value": 0
           },
           {
