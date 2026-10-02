@@ -552,15 +552,6 @@
         }
       },
       {
-        "id": "S305",
-        "deviceId": "S305",
-        "name": "Sarimbum Reservoir",
-        "location": {
-          "latitude": 1.4216,
-          "longitude": 103.68127
-        }
-      },
-      {
         "id": "S104",
         "deviceId": "S104",
         "name": "Woodlands Avenue 9",
@@ -585,6 +576,15 @@
         "location": {
           "latitude": 1.33813,
           "longitude": 103.66303
+        }
+      },
+      {
+        "id": "S226",
+        "deviceId": "S226",
+        "name": "Malan Road",
+        "location": {
+          "latitude": 1.27472,
+          "longitude": 103.80389
         }
       },
       {
@@ -621,6 +621,15 @@
         "location": {
           "latitude": 1.34301,
           "longitude": 103.91971
+        }
+      },
+      {
+        "id": "S224",
+        "deviceId": "S224",
+        "name": "Airport Boulevard",
+        "location": {
+          "latitude": 1.34394,
+          "longitude": 103.98386
         }
       },
       {
@@ -788,7 +797,7 @@
     ],
     "readings": [
       {
-        "timestamp": "2026-10-02T14:05:00+08:00",
+        "timestamp": "2026-10-02T21:05:00+08:00",
         "data": [
           {
             "stationId": "S218",
@@ -1035,10 +1044,6 @@
             "value": 0
           },
           {
-            "stationId": "S305",
-            "value": 0
-          },
-          {
             "stationId": "S104",
             "value": 0
           },
@@ -1048,6 +1053,10 @@
           },
           {
             "stationId": "S302",
+            "value": 0
+          },
+          {
+            "stationId": "S226",
             "value": 0
           },
           {
@@ -1064,6 +1073,10 @@
           },
           {
             "stationId": "S300",
+            "value": 0
+          },
+          {
+            "stationId": "S224",
             "value": 0
           },
           {
