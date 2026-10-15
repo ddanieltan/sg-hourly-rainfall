@@ -237,6 +237,15 @@
         }
       },
       {
+        "id": "S203",
+        "deviceId": "S203",
+        "name": "Pasir Panjang Road",
+        "location": {
+          "latitude": 1.29164,
+          "longitude": 103.7702
+        }
+      },
+      {
         "id": "S127",
         "deviceId": "S127",
         "name": "Kallang Practice Track",
@@ -806,7 +815,7 @@
     ],
     "readings": [
       {
-        "timestamp": "2026-10-15T14:20:00+08:00",
+        "timestamp": "2026-10-15T20:00:00+08:00",
         "data": [
           {
             "stationId": "S218",
@@ -910,6 +919,10 @@
           },
           {
             "stationId": "S129",
+            "value": 0
+          },
+          {
+            "stationId": "S203",
             "value": 0
           },
           {
