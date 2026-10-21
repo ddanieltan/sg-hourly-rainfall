@@ -768,6 +768,15 @@
         }
       },
       {
+        "id": "S78",
+        "deviceId": "S78",
+        "name": "Poole Road",
+        "location": {
+          "latitude": 1.307,
+          "longitude": 103.8907
+        }
+      },
+      {
         "id": "S111",
         "deviceId": "S111",
         "name": "Scotts Road",
@@ -797,7 +806,7 @@
     ],
     "readings": [
       {
-        "timestamp": "2026-10-22T03:30:00+08:00",
+        "timestamp": "2026-10-22T06:35:00+08:00",
         "data": [
           {
             "stationId": "S218",
@@ -1137,6 +1146,10 @@
           },
           {
             "stationId": "S79",
+            "value": 0
+          },
+          {
+            "stationId": "S78",
             "value": 0
           },
           {
