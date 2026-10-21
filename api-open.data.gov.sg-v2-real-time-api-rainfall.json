@@ -264,6 +264,15 @@
         }
       },
       {
+        "id": "S90",
+        "deviceId": "S90",
+        "name": "Bukit Timah Road",
+        "location": {
+          "latitude": 1.3191,
+          "longitude": 103.8193
+        }
+      },
+      {
         "id": "S92",
         "deviceId": "S92",
         "name": "South Buona Vista Road",
@@ -806,7 +815,7 @@
     ],
     "readings": [
       {
-        "timestamp": "2026-10-21T13:10:00+08:00",
+        "timestamp": "2026-10-21T18:25:00+08:00",
         "data": [
           {
             "stationId": "S218",
@@ -925,6 +934,10 @@
             "value": 0
           },
           {
+            "stationId": "S90",
+            "value": 0
+          },
+          {
             "stationId": "S92",
             "value": 0
           },
@@ -990,7 +1003,7 @@
           },
           {
             "stationId": "S24",
-            "value": 0
+            "value": 0.2
           },
           {
             "stationId": "S23",
