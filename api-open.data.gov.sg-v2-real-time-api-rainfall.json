@@ -606,15 +606,6 @@
         }
       },
       {
-        "id": "S303",
-        "deviceId": "S303",
-        "name": "Ponyan Reservoir",
-        "location": {
-          "latitude": 1.38375,
-          "longitude": 103.65817
-        }
-      },
-      {
         "id": "S102",
         "deviceId": "S102",
         "name": "Semakau Island",
@@ -639,6 +630,15 @@
         "location": {
           "latitude": 1.34301,
           "longitude": 103.91971
+        }
+      },
+      {
+        "id": "S224",
+        "deviceId": "S224",
+        "name": "Airport Boulevard",
+        "location": {
+          "latitude": 1.34394,
+          "longitude": 103.98386
         }
       },
       {
@@ -806,7 +806,7 @@
     ],
     "readings": [
       {
-        "timestamp": "2026-10-26T01:35:00+08:00",
+        "timestamp": "2026-10-26T05:05:00+08:00",
         "data": [
           {
             "stationId": "S218",
@@ -822,7 +822,7 @@
           },
           {
             "stationId": "S217",
-            "value": 0.2
+            "value": 0
           },
           {
             "stationId": "S214",
@@ -902,7 +902,7 @@
           },
           {
             "stationId": "S184",
-            "value": 0.2
+            "value": 0
           },
           {
             "stationId": "S208",
@@ -926,7 +926,7 @@
           },
           {
             "stationId": "S90",
-            "value": 0.2
+            "value": 0
           },
           {
             "stationId": "S92",
@@ -978,7 +978,7 @@
           },
           {
             "stationId": "S114",
-            "value": 0.2
+            "value": 0
           },
           {
             "stationId": "S60",
@@ -1054,7 +1054,7 @@
           },
           {
             "stationId": "S228",
-            "value": 0.2
+            "value": 0
           },
           {
             "stationId": "S305",
@@ -1077,10 +1077,6 @@
             "value": 0
           },
           {
-            "stationId": "S303",
-            "value": 0
-          },
-          {
             "stationId": "S102",
             "value": 0
           },
@@ -1090,6 +1086,10 @@
           },
           {
             "stationId": "S300",
+            "value": 0
+          },
+          {
+            "stationId": "S224",
             "value": 0
           },
           {
@@ -1106,7 +1106,7 @@
           },
           {
             "stationId": "S907",
-            "value": 0.2
+            "value": 0
           },
           {
             "stationId": "S71",
