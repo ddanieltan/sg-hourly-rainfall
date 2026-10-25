@@ -606,6 +606,15 @@
         }
       },
       {
+        "id": "S303",
+        "deviceId": "S303",
+        "name": "Ponyan Reservoir",
+        "location": {
+          "latitude": 1.38375,
+          "longitude": 103.65817
+        }
+      },
+      {
         "id": "S102",
         "deviceId": "S102",
         "name": "Semakau Island",
@@ -806,7 +815,7 @@
     ],
     "readings": [
       {
-        "timestamp": "2026-10-26T05:05:00+08:00",
+        "timestamp": "2026-10-26T07:25:00+08:00",
         "data": [
           {
             "stationId": "S218",
@@ -1074,6 +1083,10 @@
           },
           {
             "stationId": "S226",
+            "value": 0
+          },
+          {
+            "stationId": "S303",
             "value": 0
           },
           {
