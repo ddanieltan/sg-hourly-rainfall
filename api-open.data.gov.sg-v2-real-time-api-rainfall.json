@@ -516,15 +516,6 @@
         }
       },
       {
-        "id": "S307",
-        "deviceId": "S307",
-        "name": "Pulau Tekong Reservoir",
-        "location": {
-          "latitude": 1.41076,
-          "longitude": 104.04156
-        }
-      },
-      {
         "id": "S106",
         "deviceId": "S106",
         "name": "Jalan Noordin (Pulau Ubin)",
@@ -815,7 +806,7 @@
     ],
     "readings": [
       {
-        "timestamp": "2026-10-26T09:35:00+08:00",
+        "timestamp": "2026-10-26T16:00:00+08:00",
         "data": [
           {
             "stationId": "S218",
@@ -1043,10 +1034,6 @@
           },
           {
             "stationId": "S109",
-            "value": 0
-          },
-          {
-            "stationId": "S307",
             "value": 0
           },
           {
