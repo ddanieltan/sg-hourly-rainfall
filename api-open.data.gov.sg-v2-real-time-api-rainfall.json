@@ -210,15 +210,6 @@
         }
       },
       {
-        "id": "S184",
-        "deviceId": "S184",
-        "name": "Sengkang East Avenue",
-        "location": {
-          "latitude": 1.38256,
-          "longitude": 103.89852
-        }
-      },
-      {
         "id": "S208",
         "deviceId": "S208",
         "name": "Changi East Close",
@@ -399,15 +390,6 @@
         }
       },
       {
-        "id": "S64",
-        "deviceId": "S64",
-        "name": "Bukit Panjang Road",
-        "location": {
-          "latitude": 1.3823,
-          "longitude": 103.7607
-        }
-      },
-      {
         "id": "S66",
         "deviceId": "S66",
         "name": "Kranji Reservoir",
@@ -441,15 +423,6 @@
         "location": {
           "latitude": 1.3704,
           "longitude": 103.8046
-        }
-      },
-      {
-        "id": "S123",
-        "deviceId": "S123",
-        "name": "Towner Road",
-        "location": {
-          "latitude": 1.3214,
-          "longitude": 103.8577
         }
       },
       {
@@ -777,15 +750,6 @@
         }
       },
       {
-        "id": "S111",
-        "deviceId": "S111",
-        "name": "Scotts Road",
-        "location": {
-          "latitude": 1.3106,
-          "longitude": 103.8365
-        }
-      },
-      {
         "id": "S112",
         "deviceId": "S112",
         "name": "Lim Chu Kang Road",
@@ -806,7 +770,7 @@
     ],
     "readings": [
       {
-        "timestamp": "2026-10-27T08:40:00+08:00",
+        "timestamp": "2026-10-27T14:40:00+08:00",
         "data": [
           {
             "stationId": "S218",
@@ -901,10 +865,6 @@
             "value": 0
           },
           {
-            "stationId": "S184",
-            "value": 0
-          },
-          {
             "stationId": "S208",
             "value": 0
           },
@@ -985,10 +945,6 @@
             "value": 0
           },
           {
-            "stationId": "S64",
-            "value": 0
-          },
-          {
             "stationId": "S66",
             "value": 0
           },
@@ -1002,10 +958,6 @@
           },
           {
             "stationId": "S69",
-            "value": 0
-          },
-          {
-            "stationId": "S123",
             "value": 0
           },
           {
@@ -1150,10 +1102,6 @@
           },
           {
             "stationId": "S78",
-            "value": 0
-          },
-          {
-            "stationId": "S111",
             "value": 0
           },
           {
