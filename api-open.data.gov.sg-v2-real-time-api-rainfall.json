@@ -797,7 +797,7 @@
     ],
     "readings": [
       {
-        "timestamp": "2026-11-02T06:55:00+08:00",
+        "timestamp": "2026-11-02T10:35:00+08:00",
         "data": [
           {
             "stationId": "S218",
@@ -821,7 +821,7 @@
           },
           {
             "stationId": "S215",
-            "value": 0
+            "value": 1
           },
           {
             "stationId": "S213",
@@ -905,7 +905,7 @@
           },
           {
             "stationId": "S203",
-            "value": 0
+            "value": 0.2
           },
           {
             "stationId": "S127",
@@ -921,7 +921,7 @@
           },
           {
             "stationId": "S92",
-            "value": 0
+            "value": 4.4
           },
           {
             "stationId": "S209",
@@ -949,11 +949,11 @@
           },
           {
             "stationId": "S117",
-            "value": 0
+            "value": 1.4
           },
           {
             "stationId": "S115",
-            "value": 0
+            "value": 2.2
           },
           {
             "stationId": "S116",
@@ -993,7 +993,7 @@
           },
           {
             "stationId": "S123",
-            "value": 0
+            "value": 0.2
           },
           {
             "stationId": "S120",
@@ -1097,7 +1097,7 @@
           },
           {
             "stationId": "S71",
-            "value": 0
+            "value": 0.2
           },
           {
             "stationId": "S904",
@@ -1125,7 +1125,7 @@
           },
           {
             "stationId": "S77",
-            "value": 0
+            "value": 0.2
           },
           {
             "stationId": "S35",
@@ -1133,7 +1133,7 @@
           },
           {
             "stationId": "S79",
-            "value": 0
+            "value": 0.8
           },
           {
             "stationId": "S78",
@@ -1141,7 +1141,7 @@
           },
           {
             "stationId": "S111",
-            "value": 0
+            "value": 0.4
           },
           {
             "stationId": "S112",
