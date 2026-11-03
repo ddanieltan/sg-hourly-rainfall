@@ -228,12 +228,30 @@
         }
       },
       {
+        "id": "S129",
+        "deviceId": "S129",
+        "name": "Bedok Stadium",
+        "location": {
+          "latitude": 1.32575,
+          "longitude": 103.93969
+        }
+      },
+      {
         "id": "S203",
         "deviceId": "S203",
         "name": "Pasir Panjang Road",
         "location": {
           "latitude": 1.29164,
           "longitude": 103.7702
+        }
+      },
+      {
+        "id": "S127",
+        "deviceId": "S127",
+        "name": "Kallang Practice Track",
+        "location": {
+          "latitude": 1.30574,
+          "longitude": 103.87817
         }
       },
       {
@@ -306,6 +324,15 @@
         "location": {
           "latitude": 1.42918,
           "longitude": 103.75711
+        }
+      },
+      {
+        "id": "S132",
+        "deviceId": "S132",
+        "name": "Jurong West Stadium",
+        "location": {
+          "latitude": 1.33786,
+          "longitude": 103.69538
         }
       },
       {
@@ -426,6 +453,15 @@
         }
       },
       {
+        "id": "S120",
+        "deviceId": "S120",
+        "name": "Botanic Garden",
+        "location": {
+          "latitude": 1.3087,
+          "longitude": 103.818
+        }
+      },
+      {
         "id": "S121",
         "deviceId": "S121",
         "name": "Old Choa Chu Kang Road",
@@ -480,6 +516,15 @@
         }
       },
       {
+        "id": "S307",
+        "deviceId": "S307",
+        "name": "Pulau Tekong Reservoir",
+        "location": {
+          "latitude": 1.41076,
+          "longitude": 104.04156
+        }
+      },
+      {
         "id": "S106",
         "deviceId": "S106",
         "name": "Jalan Noordin (Pulau Ubin)",
@@ -504,6 +549,15 @@
         "location": {
           "latitude": 1.34703,
           "longitude": 103.70073
+        }
+      },
+      {
+        "id": "S305",
+        "deviceId": "S305",
+        "name": "Sarimbum Reservoir",
+        "location": {
+          "latitude": 1.4216,
+          "longitude": 103.68127
         }
       },
       {
@@ -543,6 +597,15 @@
         }
       },
       {
+        "id": "S303",
+        "deviceId": "S303",
+        "name": "Ponyan Reservoir",
+        "location": {
+          "latitude": 1.38375,
+          "longitude": 103.65817
+        }
+      },
+      {
         "id": "S102",
         "deviceId": "S102",
         "name": "Semakau Island",
@@ -576,6 +639,15 @@
         "location": {
           "latitude": 1.34394,
           "longitude": 103.98386
+        }
+      },
+      {
+        "id": "S301",
+        "deviceId": "S301",
+        "name": "Neo Tiew Lane 2",
+        "location": {
+          "latitude": 1.41532,
+          "longitude": 103.72871
         }
       },
       {
@@ -734,7 +806,7 @@
     ],
     "readings": [
       {
-        "timestamp": "2026-11-03T04:45:00+08:00",
+        "timestamp": "2026-11-03T10:55:00+08:00",
         "data": [
           {
             "stationId": "S218",
@@ -837,7 +909,15 @@
             "value": 0
           },
           {
+            "stationId": "S129",
+            "value": 0
+          },
+          {
             "stationId": "S203",
+            "value": 0
+          },
+          {
+            "stationId": "S127",
             "value": 0
           },
           {
@@ -870,6 +950,10 @@
           },
           {
             "stationId": "S211",
+            "value": 0
+          },
+          {
+            "stationId": "S132",
             "value": 0
           },
           {
@@ -925,6 +1009,10 @@
             "value": 0
           },
           {
+            "stationId": "S120",
+            "value": 0
+          },
+          {
             "stationId": "S121",
             "value": 0
           },
@@ -949,6 +1037,10 @@
             "value": 0
           },
           {
+            "stationId": "S307",
+            "value": 0
+          },
+          {
             "stationId": "S106",
             "value": 0
           },
@@ -958,6 +1050,10 @@
           },
           {
             "stationId": "S228",
+            "value": 0
+          },
+          {
+            "stationId": "S305",
             "value": 0
           },
           {
@@ -977,6 +1073,10 @@
             "value": 0
           },
           {
+            "stationId": "S303",
+            "value": 0
+          },
+          {
             "stationId": "S102",
             "value": 0
           },
@@ -990,6 +1090,10 @@
           },
           {
             "stationId": "S224",
+            "value": 0
+          },
+          {
+            "stationId": "S301",
             "value": 0
           },
           {
