@@ -381,15 +381,6 @@
         }
       },
       {
-        "id": "S60",
-        "deviceId": "S60",
-        "name": "Artillery Avenue (Sentosa)",
-        "location": {
-          "latitude": 1.2504,
-          "longitude": 103.8275
-        }
-      },
-      {
         "id": "S64",
         "deviceId": "S64",
         "name": "Bukit Panjang Road",
@@ -788,7 +779,7 @@
     ],
     "readings": [
       {
-        "timestamp": "2026-11-26T11:00:00+08:00",
+        "timestamp": "2026-11-26T21:00:00+08:00",
         "data": [
           {
             "stationId": "S218",
@@ -956,10 +947,6 @@
           },
           {
             "stationId": "S114",
-            "value": 0
-          },
-          {
-            "stationId": "S60",
             "value": 0
           },
           {
