@@ -345,6 +345,15 @@
         }
       },
       {
+        "id": "S910",
+        "deviceId": "S910",
+        "name": "S910",
+        "location": {
+          "latitude": 1.31183,
+          "longitude": 103.95438
+        }
+      },
+      {
         "id": "S115",
         "deviceId": "S115",
         "name": "Tuas South Avenue 3",
@@ -378,6 +387,15 @@
         "location": {
           "latitude": 1.3821,
           "longitude": 103.7381
+        }
+      },
+      {
+        "id": "S60",
+        "deviceId": "S60",
+        "name": "Artillery Avenue (Sentosa)",
+        "location": {
+          "latitude": 1.2504,
+          "longitude": 103.8275
         }
       },
       {
@@ -779,7 +797,7 @@
     ],
     "readings": [
       {
-        "timestamp": "2026-11-27T12:25:00+08:00",
+        "timestamp": "2026-11-27T22:15:00+08:00",
         "data": [
           {
             "stationId": "S218",
@@ -934,6 +952,10 @@
             "value": 0
           },
           {
+            "stationId": "S910",
+            "value": 0
+          },
+          {
             "stationId": "S115",
             "value": 0
           },
@@ -947,6 +969,10 @@
           },
           {
             "stationId": "S114",
+            "value": 0
+          },
+          {
+            "stationId": "S60",
             "value": 0
           },
           {
